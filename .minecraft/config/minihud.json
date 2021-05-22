@@ -73,7 +73,7 @@
   "Generic": {
     "beeTooltips": false,
     "honeyTooltips": false,
-    "enabled": true,
+    "enabled": false,
     "debugMessages": false,
     "debugRendererPathFindingEnablePointWidth": true,
     "dontResetSeedOnDimensionChange": false,
