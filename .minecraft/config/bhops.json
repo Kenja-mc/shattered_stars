@@ -1,0 +1,13 @@
+{
+  "showSpeed": true,
+  "enableBhops": true,
+  "exclusiveToPlayers": true,
+  "sv_maxvelocity": 2.0,
+  "sv_gravity": 0.08,
+  "sv_friction": 0.5,
+  "sv_accelerate": 0.1,
+  "sv_airaccelerate": 0.2,
+  "sv_maxairspeed": 0.08,
+  "sv_airspeedcutoff": 0.2,
+  "maxSpeedMul": 2.2
+}
