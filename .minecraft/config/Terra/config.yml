@@ -6,4 +6,4 @@ dump-default: true
 biome-search-resolution: 4
 cache-size: 384
 master-disable:
-  caves: false
+  caves: true
