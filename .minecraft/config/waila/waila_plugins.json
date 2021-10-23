@@ -1,13 +1,15 @@
 {
   "minecraft": {
-    "crop_progress": true,
-    "comparator": true,
     "hide_infestations": true,
-    "display_furnace_contents": true,
     "hide_trapped_chest": true,
-    "player_head_name": true,
     "jukebox": true,
     "lever": true,
+    "honey_level": true,
+    "crop_progress": true,
+    "comparator": true,
+    "display_furnace_contents": true,
+    "hide_powder_snow": true,
+    "player_head_name": true,
     "spawner_type": true,
     "redstone": true,
     "repeater": true

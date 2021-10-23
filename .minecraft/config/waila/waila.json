@@ -14,7 +14,7 @@
   "overlay": {
     "position": {
       "x": 0,
-      "y": 0,
+      "y": 2,
       "alignX": "CENTER",
       "alignY": "TOP",
       "anchorX": "CENTER",
@@ -39,7 +39,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     }
   },
   "formatting": {

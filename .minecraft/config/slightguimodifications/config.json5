@@ -1,16 +1,16 @@
 {
-	"fluidAdvancements": true,
-	"fluidStatusEffects": true,
+	"fluidAdvancements": false,
+	"fluidStatusEffects": false,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
-	"unlimitTitleScreenFps": false,
+	"unlimitTitleScreenFps": true,
 	"openingAnimation": {
-		"fluidChatOpening": false,
+		"fluidChatOpening": true,
 		"fluidOpenSlideFromBottom": false,
 		"fluidOpenFade": false,
-		"fluidAnimationDuration": 400,
+		"fluidAnimationDuration": 209,
 		"affectsGameMenus": false,
 		"affectsInventories": false,
-		"ignoreSlideWhenRedirected": false,
+		"ignoreSlideWhenRedirected": true,
 		"ignoreFadeWhenRedirected": false
 	},
 	"textFieldModifications": {
@@ -22,8 +22,8 @@
 		   
 		   More documentations on website.
 		*/
-		"backgroundMode": "COLOR",
-		"borderColor": 10526880,
+		"backgroundMode": "TEXTURE",
+		"borderColor": 16334429,
 		"backgroundColor": 0,
 		"selectionMode": "INVERT",
 		// Whether Text Fields should allow right click actions.
@@ -31,25 +31,25 @@
 	},
 	"sliderModifications": {
 		// Whether this module is enabled.
-		"enabled": false,
+		"enabled": true,
 		"grabberWidth": 8,
 		/* Whether to use custom texture:
 		   /assets/slightguimodifications/textures/gui/slider(_hovered).png
 		   or
 		   /config/slightguimodifications/slider(_hovered).png
 		*/
-		"customBackgroundTexture": false
+		"customBackgroundTexture": true
 	},
 	"debugInformation": {
 		"showFps": false
 	},
 	"customScaling": {
-		"vanillaScaleSlider": false,
+		"vanillaScaleSlider": true,
 		"scale": 1.0
 	},
 	"slotHighlight": {
 		// Whether this module is enabled.
-		"enabled": false,
+		"enabled": true,
 		"color": -2130706433
 	},
 	"tooltipModifications": {
@@ -60,6 +60,6 @@
 		"outlineGradientBottomColor": 1344798847
 	},
 	// Whether GUI should allow right click actions.
-	"rightClickActions": false,
-	"satisfyingScreenshots": true
+	"rightClickActions": true,
+	"satisfyingScreenshots": false
 }
