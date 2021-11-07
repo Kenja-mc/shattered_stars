@@ -1,0 +1,13 @@
+name = "JS Macros"
+filename = "jsmacros-1.17.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3501/273/jsmacros-1.17.1-1.6.2.jar"
+hash-format = "murmur2"
+hash = "3928845851"
+
+[update]
+[update.curseforge]
+file-id = 3501273
+project-id = 403185

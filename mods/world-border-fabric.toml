@@ -1,0 +1,13 @@
+name = "World Border (Fabric)"
+filename = "worldborder-fabric_1.17.x-2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3460/336/worldborder-fabric_1.17.x-2.5.jar"
+hash-format = "murmur2"
+hash = "1843454978"
+
+[update]
+[update.curseforge]
+file-id = 3460336
+project-id = 527574
