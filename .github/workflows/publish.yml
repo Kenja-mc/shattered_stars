@@ -1,0 +1,57 @@
+# This workflow will export the modpack into a .zip for curseforge, and publish a new releases.
+
+name: Publish Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Updated Version E.g. 1.2.10"
+        required: true
+        
+jobs:
+  publish:
+    name: Publish Modpack Release
+    runs-on: ubuntu-latest
+    steps:
+    
+      # Building packwiz, and generating the curseforge export .zip
+    
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+          
+      - name: Build Packwiz
+        run: go install github.com/comp500/packwiz@latest
+          
+      - name: Generate Release Asset
+        id: gen_zip
+        run: packwiz cf export
+          
+      # Publishing the Release https://github.com/marketplace/actions/publish-release
+          
+      - name: Create Draft Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: "${{ github.event.inputs.version }}"
+          release_name: "${{ github.event.inputs.version }}"
+          draft: true
+          prerelease: false
+          
+      - uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./shattered_stars-${{ github.event.inputs.version }}.zip
+          asset_name: shattered_stars-${{ github.event.inputs.version }}.zip
+          asset_content_type: application/zip
+
+      - uses: eregon/publish-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          release_id: ${{ steps.create_release.outputs.id }}
