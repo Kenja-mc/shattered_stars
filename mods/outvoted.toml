@@ -1,13 +1,13 @@
 name = "Outvoted"
-filename = "outvoted-1.5.0-b1.jar"
+filename = "outvoted-1.5.0-beta.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3502/480/outvoted-1.5.0-b1.jar"
+url = "https://edge.forgecdn.net/files/3507/891/outvoted-1.5.0-beta.3.jar"
 hash-format = "murmur2"
-hash = "401411049"
+hash = "3183063895"
 
 [update]
 [update.curseforge]
-file-id = 3502480
+file-id = 3507891
 project-id = 415057

@@ -1,0 +1,13 @@
+name = "Mod Manager"
+filename = "modmanager-1.2.0-alpha+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.0-alpha+1.17/modmanager-1.2.0-alpha+1.17.jar"
+hash-format = "sha512"
+hash = "cc733d9ee33bedef0298bfca163f2234bf961b53a16c1faea86b665518a0b12b3bf6554b6358df923a3dcfa5bb44d41abf07fc22b56057383ebfdf5930a1f3e2"
+
+[update]
+[update.modrinth]
+mod-id = "6kq7BzRK"
+version = "iDCRNbbl"
