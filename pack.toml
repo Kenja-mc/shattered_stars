@@ -1,12 +1,12 @@
-name = "Shattered Stars"
+name = "shattered_stars"
 author = "Kenja__"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f8d8e02fc3357470ff2bcc99d244dd8023d30e80f35d985dbf98bfa07c5f10f"
+hash = "b7e81074b770d8e7e9921f9a7e1b894f2fb310ec84e4cdc238da35bb4c0f763d"
 
 [versions]
 fabric = "0.12.5"
