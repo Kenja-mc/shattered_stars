@@ -1,1 +1,31 @@
-# Nothing to ignore for now
+# Ignore server files
+banned-ips.json
+banned-players.json
+eula.txt
+fabric-sever-launch.jar
+ops.json
+packwiz-installer.jar
+packwiz.json
+server.jar
+usercache.json
+whitelist.json
+
+# Ignore server folders
+logs/**
+mods/*.jar
+not-enough-crashes/**
+world/**
+
+# Ignore fabric folders
+.fabric-installer/**
+.fabric/**
+.mixin.out/**
+coremods/**
+
+# Ignore Client files
+servers.dat
+realms_persistence.json
+saves/**
+screenshots/**
+server-resource-packs/**
+texturepacks/**

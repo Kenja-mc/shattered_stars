@@ -1,84 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".fabric-installer/libraries/com/google/guava/guava/21.0/guava-21.0.jar"
-hash = "972139718abc8a4893fa78cba8cf7b2c903f35c97aaf44fa3031b0669948b480"
-
-[[files]]
-file = ".fabric-installer/libraries/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar"
-hash = "8563e1afc8a065a61d7d6b1346df801a13554a7d9e8e8ec4c67a311589766996"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/access-widener/1.0.0/access-widener-1.0.0.jar"
-hash = "6c67c5693ba57f603b1e2df8f3c81f3d5b43bd1b06e4bcf90139091f94cdec00"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar"
-hash = "b1504d6b190119698d4369c017a0638afb33fe71acf276686d8d587c41da87ac"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/fabric-loader/0.11.7/fabric-loader-0.11.7.jar"
-hash = "bf7a626f729cdab27446400f13edba6ae2c8053771513c902a9e25b68dd80c65"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/intermediary/1.17.1/intermediary-1.17.1.jar"
-hash = "5e2c014969682e99b5d0b79c8f2eeb7ae204703e3f51c7cc2d6b19f548647080"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/sponge-mixin/0.9.4+mixin.0.8.2/sponge-mixin-0.9.4+mixin.0.8.2.jar"
-hash = "830652c0ff49f6b7f94861c1f8e51ab33d93fb299be3b0e153e4bd4f021be839"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/tiny-mappings-parser/0.2.2.14/tiny-mappings-parser-0.2.2.14.jar"
-hash = "77781b5bce172ecbae3a479d8ee3489f5c14a294ebe4c6c9c701c3d7a2a9c957"
-
-[[files]]
-file = ".fabric-installer/libraries/net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar"
-hash = "eebffd16fc72b6553aab63dadba466e20271fde1a0104a586a3949765e77d2fa"
-
-[[files]]
-file = ".fabric-installer/libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
-hash = "81a88041b1b8beda5a8a99646098046c48709538270c49def68abff25ac3be34"
-
-[[files]]
-file = ".fabric-installer/libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
-hash = "afcb26dc1fc12c0c4a99ada670908dd82e18dfc488caf5ee92546996b470c00c"
-
-[[files]]
-file = ".fabric-installer/libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
-hash = "fd00afa49e9595d7646205b09cecb4a776a8ff0ba06f2d59b8f7bf9c704b4a73"
-
-[[files]]
-file = ".fabric-installer/libraries/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
-hash = "380e2ecd16f7cc0f1a76ba9ba049179b5760a57b282a87a4c653caeff2cd5bd6"
-
-[[files]]
-file = ".fabric-installer/libraries/org/ow2/asm/asm/9.1/asm-9.1.jar"
-hash = "cda4de455fab48ff0bcb7c48b4639447d4de859a7afc30a094a986f0936beba2"
-
-[[files]]
-file = ".fabric/remappedJars/minecraft-1.17.1/intermediary-server.jar"
-hash = "b6f92340f0d79ed6d00096d24d688940debd21d0fa0aa08856a123f3c653f4eb"
-
-[[files]]
-file = ".mixin.out/audit/mixin_implementation_report.csv"
-hash = "66fc45cdfe753744a6a99c859686289766270805e40d84c604c4201d5173968c"
-
-[[files]]
-file = ".mixin.out/audit/mixin_implementation_report.txt"
-hash = "4c7c9701853373ced1c47a8fdcaf5b6881544429367747579d387dba8c0607b3"
-
-[[files]]
 file = "config/Adorn.json5"
-hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
+hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
 
 [[files]]
 file = "config/Prefab.json"
 hash = "e05576cf56495557bc94d88058db92c8b9c5769fc7483c8aa0b5500c85238f08"
 
 [[files]]
+file = "config/animatica.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/attribute_fix.json5"
+hash = "2c90cc99aed6e36016eee7d87cd629b33b823ceabff7f9a77b87a30d69fbc57f"
+
+[[files]]
 file = "config/campanion.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/capes.json5"
+hash = "f003acf51f5a3bf381ca40b5e16e0ffe281c1943d4d4c03d32fc26d89f8d6915"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/carpettisaddition/yarn-1.17.1+build.63-v2.tiny"
@@ -89,16 +37,36 @@ file = "config/carpettisaddition/yarn_version.json"
 hash = "bf3dc735190be5249f7ad05ef070e3a91ee6e4d05026d9af80cd1fecee26a098"
 
 [[files]]
+file = "config/cem.conf"
+hash = "7b0ecf70f4de2c47d35750389cc83832d4b3804f226527de3c5f15feb216df49"
+
+[[files]]
 file = "config/charm.toml"
-hash = "5f48c4b2800f9ecad02f4ea35b2edcf0f55c189614ba40dc440b1fb985686bb8"
+hash = "3f1a3caa4a8e94e36e96bd78b125ae627264be36974fc370c17e890bb4c73cb8"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "dc29439a8641a9605368c854e44914fe4dabee5be990a7b1dff40e53eec72792"
 
 [[files]]
 file = "config/collective-fabric.json"
 hash = "a96dc1d34609e0ed2d4bd3c3cab74944040d52000d9dffe3047865e14f2bb14b"
 
 [[files]]
+file = "config/colormatic.properties"
+hash = "bada42837f2fdde0f056f9cffd74c7ed9bcd05884c1442fe8dcfad41c23fb993"
+
+[[files]]
 file = "config/combattweaks.json5"
 hash = "3391b587f0ea3977e3b5057517dd8c5a7f26806581b4a27919160aa048038776"
+
+[[files]]
+file = "config/continuity.json"
+hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/dawn/debug.json"
@@ -109,24 +77,220 @@ file = "config/dawn/features.json"
 hash = "741cf283f9798d6ebca0d735c336071e7c13777942e1766bb07230a64bd4cfc5"
 
 [[files]]
+file = "config/dynamicfps.toml"
+hash = "37192c981587637ee01f337fa4900b7ba834ae2c7e1f4a612d09876170feaa4b"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "1edfc7c9f9be34d8957c3f3cfd1bfbf91505b6f7a94361471d811227e8cc8329"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "4581e51acba9c7340c454ef9ac30535df87909e19430b1174c784769682d7706"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "c848e01f5c51fd19d5a7d506d0bffccd09594d216349cf473e71d461fab91d9d"
+hash = "33ff9d6c93ccba62c60d042d45024dc04b1f14ab3826a125589ea3160487a099"
+
+[[files]]
+file = "config/flytre_lib.json5"
+hash = "1c44b60df8b4b8c9d4727a79a0ffd9071d18324ee98bffccad94e8b9a3211442"
+
+[[files]]
+file = "config/grabcraft-litematic.json"
+hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "ba1bda051e15e5a190de58f0013f113759ac7154e5c88ad0e8698ff76ae71238"
+
+[[files]]
+file = "config/iris.properties"
+hash = "5f15973ede2da013ea25566d4d019daf8e64214b16190b791c79986a012ca435"
+
+[[files]]
+file = "config/itemmodelfix.json"
+hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
+
+[[files]]
+file = "config/jsMacros/Macros/index.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jsMacros/options.json"
+hash = "d1d928accb47e03cdeab33cf13fc7864890eab9bafacba5fceef4b7d07f11ce7"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "97804abb68488c83a49b7dbe646b959b7c5b24263df26be790985a23190d5f15"
 
 [[files]]
 file = "config/libcd.json"
 hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
 
 [[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
 file = "config/lifts.json"
-hash = "00ab44ff6b003ce7e110502a2e9dfa741d0092c6938b606e6f5b4cc8db45f3b5"
+hash = "3e4fe4262ca32376a07b62fcad15ae4796c6f91f46d2c72e51b177b20a6eebf3"
 
 [[files]]
 file = "config/lightest-lamps.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
 [[files]]
+file = "config/litematica.json"
+hash = "4e01abc69aff901f8817ab6d1e19d2999f6fce4fa77fda828ea6cebe2e0a3555"
+
+[[files]]
+file = "config/litematica/litematica_35.202.155.20_25565.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_35.202.155.20_25565_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_35.202.155.20_25565_dim_minecraft_the_nether.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_35.202.155.20_25565_dim_superpettan_superpettan.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_konradograd.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_konradograd_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_mattuopolis.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_mattuopolis_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_newisle_lights_out.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_newisle_lights_out_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_newisle_world.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_newisle_world_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
+file = "config/litematica/litematica_timelapse.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_timelapse_dim_minecraft_overworld.json"
+hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/littletweaks.toml"
+hash = "185fbb5322318673bd58e32dea7be568d46e2ef47cde54e10d0090688af320b2"
+
+[[files]]
+file = "config/malilib.json"
+hash = "d8c458da3c824bfb23befc7204a9fb5c5f463891b8f4f882758b74f25a300706"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "f30362b83a864bc9ae8f815a39be3c4ea094d47f4fe03072ab13735123f83d50"
+
+[[files]]
+file = "config/minihud.json"
+hash = "64d3ccfb00d02288cf3a15534cbb9acdd625069db535bfbd3d088aaba2f8910f"
+
+[[files]]
+file = "config/minihud/35.202.155.20_25565.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/35.202.155.20_25565_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/35.202.155.20_25565_dim_minecraft_the_nether.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/35.202.155.20_25565_dim_superpettan_superpettan.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/konradograd.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/konradograd_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/mattuopolis.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/mattuopolis_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/newisle_lights_out.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/newisle_lights_out_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/newisle_world.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/newisle_world_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/minihud/timelapse.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/timelapse_dim_minecraft_overworld.json"
+hash = "fd4d11683a9555590412b91595da6b9e8c7ec80f18e05548bb7d6aae1d16ac44"
+
+[[files]]
+file = "config/modmanager.json"
+hash = "0ef9d2dd8866d683241b467d64965b4133b22dc0c839f0cf6ebf41e706c6b9ed"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e21442832f1b2cb80377724ad80f8323898aca23a45d839c5c84ef4d9f947d27"
 
 [[files]]
 file = "config/notenoughcrashes.json"
@@ -161,16 +325,52 @@ file = "config/promenade/structures.json"
 hash = "49c0c681e8c6f5e54e11f632c035934a5f8654ca5d89dc3a3917b502c1418692"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "ae60247875598f9a6048fe40b50c08fccce114a21b282173cf705349095609c7"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "1550ea5dcc925cecc5b6770eb8316a9f049b472cf65f1c34fc2572a3fbb2b24d"
+
+[[files]]
+file = "config/slightguimodifications/config.json5"
+hash = "a8b17931af43862e6acca2cee3e23fc29e06a6bf0cfd41f26f6b24201bfb5479"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
+
+[[files]]
 file = "config/smoothboot.json"
-hash = "197c061eda612abd55f96899ee40175d43a285b15757f2fe29587777303e072c"
+hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "0075b8e757e3fd71c36018f3eba7ec672b00288d9173fa1016fac3a0c69b9b3a"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "b431a170e0ab97e9ef90358110c112d1ed28f825e5d1f97b6a16669aa09227dd"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "10d3a22cd57b00ed92cf384c40796e4eea69868a764bd0dc39262e5761e2b7c6"
 
 [[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
+file = "config/waila/waila.json"
+hash = "be157cb9b3023e4c81f6804ed126cb443b07cfb40ca2145ba70eeb49f06fdd1f"
+
+[[files]]
 file = "config/waila/waila_plugins.json"
-hash = "8f27c814136d9301ef52d5b2cf6ebb8220db22c06689a19d4ba5b4ab6f0117a9"
+hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
 
 [[files]]
 file = "config/worldborder-fabric.json"
@@ -650,23 +850,15 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "c5952b3feada24b49c762df5a4dcc9b619480c89ed8bbd54aa489d22da9e4bad"
+hash = "c2358a64bf7878a8dde1a520e0b0ef41fe80cc3dc7e102dd85ebb54f2b3bc940"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "eula.txt"
-hash = "1a59c60b946b39b1407968556d203dfd00ab9d317d2ba8f0421a79de6bd04c52"
-
-[[files]]
-file = "fabric-server-launch.jar"
-hash = "5d9e1dad9f83cd5bc1bb1daae34f74c269367a8b3b298d5738c64a53924c6700"
-
-[[files]]
-file = "fabric-server-launcher.properties"
-hash = "ed3eb34e79e0e6a58d5c662892544a81ead3e279b5e6e905ecdca0ad55e3ca19"
+file = "icon.png"
+hash = "2d4bca2dff90ec74138c7bb6f647216bf793e17e2571d425ddc727086953c112"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -908,10 +1100,6 @@ hash = "469b9b174668f703d48358e9b1c16fb2c671e8966c987b3fa1f7def1cba0572b"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen-fabric-mc1.17.1-0.3.jar"
-hash = "598f6168244467220f37e9a5a07a5ba59af5a0df0edf5ba13a44c7ee9b02c1e1"
-
-[[files]]
 file = "mods/indium.toml"
 hash = "425236cb0111a91a12ebe0fabeef9143563a642885bf208dc11070729668ac54"
 metafile = true
@@ -1004,10 +1192,6 @@ metafile = true
 file = "mods/minihud.toml"
 hash = "c459487018f47c9473ddd1919044e23c5c103c13158a95b1dd006987afa65e4a"
 metafile = true
-
-[[files]]
-file = "mods/modmanager-1.1.1-alpha+1.17.jar"
-hash = "f8d13af85845a50b842b1eb7d7ecde121713445e40891cee11a15f1fed1dbbfd"
 
 [[files]]
 file = "mods/modmenu.toml"
@@ -1146,12 +1330,20 @@ metafile = true
 
 [[files]]
 file = "options.txt"
+hash = "1e2cd54b440aa51f1d82a416c25c9b7000bc64533117f63452a8274c9adfc7cc"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "realms_persistence.json"
+hash = "692e82191ce332815a2e9adf7d8de78b3ce7fa835c25a0ad35fe28c31e5687d9"
+
+[[files]]
+file = "servers.dat"
+hash = "1c2370c7b437eb65bda9b2e3c45aabf95fcafa32d14ccb4c0ba424046f78689a"
+
+[[files]]
+file = "shattered_stars/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "server.jar"
-hash = "e8c211b41317a9f5a780c98a89592ecb72eb39a6e475d4ac9657e5bc9ffaf55f"
-
-[[files]]
-file = "server.properties"
-hash = "7cc26c0a38904f6ddb06a189102e3ed3b6700b8c5b1b3169ac549021bdd52b6b"
