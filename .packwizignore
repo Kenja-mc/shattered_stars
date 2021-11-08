@@ -1,5 +1,6 @@
 # Ignore git files
 .git/**
+.github/**
 .gitattributes
 .gitignore
 
