@@ -4,8 +4,6 @@ banned-players.json
 eula.txt
 fabric-sever-launch.jar
 ops.json
-packwiz-installer.jar
-packwiz.json
 server.jar
 usercache.json
 whitelist.json
@@ -29,3 +27,13 @@ saves/**
 screenshots/**
 server-resource-packs/**
 texturepacks/**
+
+# Ignore packwiz-installer
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar
+packwiz.json
+
+# Ignore client-generated configs
+config/minihud/**
+config/litematica/**
+config/worldedit/**
