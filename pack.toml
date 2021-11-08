@@ -1,6 +1,6 @@
 name = "shattered_stars"
 author = "Kenja__"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.0.0"
 
 [index]
