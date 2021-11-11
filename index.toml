@@ -289,6 +289,22 @@ file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "11b121ddc7173610bbed6b9f2078c436498def4bc8cedbd5293527a657b687d0"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "c44a6b17c00b27a09e15773512e3c883df0c4eeaeda06e11de22d6225c895b7a"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "493f17581a5bccbe3947dddfefe18cb18f950d2897b0e81ca792131bf23e9426"
 

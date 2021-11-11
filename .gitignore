@@ -39,8 +39,8 @@ config/litematica/**
 config/worldedit/**
 
 # Ignore GD Launcher Files
-    ModTranslations/**
-    config.json
-    manifest.json
-    natives/**
-    schematics/**
+ModTranslations/**
+config.json
+manifest.json
+natives/**
+schematics/**
