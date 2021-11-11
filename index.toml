@@ -94,7 +94,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b906872ab1884638231cff71feaf7afe319ef83b5a66c41f0d12bceda9ed14e7"
+hash = "fe716ca4e6079869fcff171358b0b7b4509d8bae9d9620d1473b02192fbcc572"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -110,11 +110,11 @@ hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "441c30c3c217b4e128dd05d71c7eb0734f734e043cd5c27a713cd3bc9b42fa5f"
+hash = "aebf46b40acfe8dff29a5d51f545d83d4aad494b4c4a696c7103b5ab6f38a099"
 
 [[files]]
 file = "config/iris.properties"
-hash = "82f3259a9542d018ff676bfa6b399fc257b042b34b394d72a446695d0efc000d"
+hash = "f2310ee272a6c9129b5fcb30b18b139873c095ea5e3b00c879126a5a44ce86a0"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -796,4 +796,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1e2cd54b440aa51f1d82a416c25c9b7000bc64533117f63452a8274c9adfc7cc"
+hash = "652111e24677554833c08f7e697410599be1329b2ce72b8504dad1c9936ea3f5"

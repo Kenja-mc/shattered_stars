@@ -15,7 +15,7 @@ reducedDebugInfo:false
 snooperEnabled:true
 showSubtitles:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -116,15 +116,17 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_jsmacros.menu:key.keyboard.unknown
-key_key.mtape.origin:key.keyboard.unknown
-key_key.mtape.select:key.keyboard.unknown
-key_key.mtape.pm_measure:key.keyboard.unknown
 key_Build Current Structure:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
 soundCategory_master:0.38907284
 soundCategory_music:0.0
 soundCategory_record:0.3028169
