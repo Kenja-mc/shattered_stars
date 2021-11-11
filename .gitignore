@@ -37,3 +37,10 @@ packwiz.json
 config/minihud/**
 config/litematica/**
 config/worldedit/**
+
+# Ignore GD Launcher Files
+    ModTranslations/**
+    config.json
+    manifest.json
+    natives/**
+    schematics/**
