@@ -110,12 +110,16 @@ key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.wi_zoom.zoom:key.keyboard.c
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.campanion.open_backpack:key.keyboard.b
-key_key.charm.openCraftingTable:key.keyboard.v
+key_key.charm.openCraftingTable:key.keyboard.unknown
+key_key.fallflyinglib.toggle:key.keyboard.h
 key_key.grabcraft-litematic.download:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_jsmacros.menu:key.keyboard.unknown
+key_key.origins.primary_active:key.keyboard.g
+key_key.origins.secondary_active:key.keyboard.unknown
+key_key.origins.view_origin:key.keyboard.o
 key_Build Current Structure:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1

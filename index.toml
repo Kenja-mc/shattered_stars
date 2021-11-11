@@ -49,6 +49,10 @@ file = "config/charm.toml"
 hash = "3f1a3caa4a8e94e36e96bd78b125ae627264be36974fc370c17e890bb4c73cb8"
 
 [[files]]
+file = "config/chestcavity.json"
+hash = "7e8039df2b23a86285190916560a61752f8b592ad3685c83134f43faac46d3a2"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dc29439a8641a9605368c854e44914fe4dabee5be990a7b1dff40e53eec72792"
 
@@ -86,7 +90,7 @@ hash = "37192c981587637ee01f337fa4900b7ba834ae2c7e1f4a612d09876170feaa4b"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "1edfc7c9f9be34d8957c3f3cfd1bfbf91505b6f7a94361471d811227e8cc8329"
+hash = "239a1135d725f02056f7846bfc09c3428d03429001199bfeb69fcaba3842942a"
 
 [[files]]
 file = "config/entityculling.json"
@@ -94,7 +98,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fe716ca4e6079869fcff171358b0b7b4509d8bae9d9620d1473b02192fbcc572"
+hash = "c7f95bef65cba6cf321912bd41cb3063e2e42cb277589772314d204ec5d3f449"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -110,11 +114,11 @@ hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "aebf46b40acfe8dff29a5d51f545d83d4aad494b4c4a696c7103b5ab6f38a099"
+hash = "2dc96df8007d5daf5c150194e52934d630c29e0ce4e6b0af6e333be3bcbf583c"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f2310ee272a6c9129b5fcb30b18b139873c095ea5e3b00c879126a5a44ce86a0"
+hash = "128c7ca1aff083eefa656d754392d10a4748ec54981afc162f6993b01bf4dc7c"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -134,7 +138,7 @@ hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "97804abb68488c83a49b7dbe646b959b7c5b24263df26be790985a23190d5f15"
+hash = "50f6db7ae2d159e90f2b21ed1095e047da9cb5e92006d8c7acc3c195fba87174"
 
 [[files]]
 file = "config/libcd.json"
@@ -189,6 +193,10 @@ file = "config/notenoughcrashes.json"
 hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
+file = "config/origins_server.toml"
+hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
+
+[[files]]
 file = "config/outvoted/client.json"
 hash = "2d3a9abec6676c752d10b09f9d00961ef0e65a9d8c6b391f1f286b5cb9799521"
 
@@ -199,6 +207,22 @@ hash = "c974897ca5a5e76bf02e33a5fcbcb8dbfca0d158d2451863905a07c29880ccd5"
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/superpettan/data/superpettan/dimension/superpettan.json"
+hash = "c22bee839f4ce8036b8154cce8ef47a37c6e98a20b245f6c7e1513e3fee2bf30"
+
+[[files]]
+file = "config/paxi/superpettan/data/superpettan/dimension_type/superpettan.json"
+hash = "3ee5e44bda1c0872f3b618ef8a5744cd53093f84903f001fc8fec0ca0bed67f9"
+
+[[files]]
+file = "config/paxi/superpettan/pack.mcmeta"
+hash = "24ffe56fdded24b25bf8a60053ea51ebaf8dbbc9bc19863bb5e6a6ed0f695ed1"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "42a3b6aa1fee02a1f5d0b3adf58399d534312908ccc76cf21814275bc30a40ec"
 
 [[files]]
 file = "config/promenade/biomes.json"
@@ -215,6 +239,10 @@ hash = "30a5f52d59fe11d4a35c7b3b7b2b416a68b3e811826328112a8bf63aa89c4379"
 [[files]]
 file = "config/promenade/structures.json"
 hash = "49c0c681e8c6f5e54e11f632c035934a5f8654ca5d89dc3a3917b502c1418692"
+
+[[files]]
+file = "config/revive.json5"
+hash = "0d089fd901243a63a655668b61bdafe95545d19a9c68b761fc8c3e06c730165d"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -685,6 +713,16 @@ hash = "0253da0d65dac133f444bc5985d298e2b81ba3b7545197267cbb2513c95c30a3"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.toml"
+hash = "2b7b3726b54fe22982fe4f356cf62a2acedbc2cae242540003990a3f236a95d8"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "277dc0d2b815c188e3a13e1f5e9cc23043a35a645ac83deba6a45edfac9170ea"
+metafile = true
+
+[[files]]
 file = "mods/outvoted.toml"
 hash = "53ac75e8cd6e2266312656e3c20e4a0e85fad18790e049d39c555fb78d3abb2a"
 metafile = true
@@ -707,6 +745,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "cfdd161e1e687fae549fd4328fd678bba019ebd72ea923ec3e4084ee80fc256f"
+metafile = true
+
+[[files]]
+file = "mods/revive.toml"
+hash = "7c5a33317a406bbf59290108eaab6e7cc8e2c5bdfae33bcf38970f171741a437"
 metafile = true
 
 [[files]]
@@ -737,6 +780,16 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.toml"
 hash = "13699dda3c87b108c509887275d7e183fec335012762b24b001a413068fbb055"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "f80b9266d9a212d510b0dfc76887bcf2a96723a8f203477deda8d12fdd5c56bc"
+metafile = true
+
+[[files]]
+file = "mods/sync-fabric.toml"
+hash = "422373f9bc15cf63deace2d4a71d69ad537b52282b26edffea5ce7cd085b4b0e"
 metafile = true
 
 [[files]]
@@ -796,4 +849,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "652111e24677554833c08f7e697410599be1329b2ce72b8504dad1c9936ea3f5"
+hash = "d6872eeee85392422c50813393fe16b399ec66bea710025036d03138ed0b880b"
