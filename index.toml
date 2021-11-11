@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "bc76cc96a8921ae313cd475d13a0c4abc4524b1918ce21c5fa0378515f7ac79e"
+hash = "661202e0f25bed489a26f216e87c34105b40b864811f288308202af6396804b3"
 metafile = true
 
 [[files]]
@@ -436,17 +436,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "311ca79bcaeb1d78c207e8059f05225bb05842b7b0dda3c54859d5d5b4e9d908"
+hash = "8085a1c52ea30800552f6351d14a1a435e5aa55f4853733aa1f710a41af2ac80"
 metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "722c472669d599ad6b6f0256763b2ebb77c7eaa9a6f88fe7e03f67bd8d4d7385"
+hash = "4ef35950fdb5b61e93e06d3bde37e6cdb48315487b4424d87b23be962078e99a"
 metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "ad3b6d8d2daabd77c384078f12da13ae6e8a00d46ae47b8b860860cd70569779"
+hash = "28ced5e2d2022c47104ce91416756873d16d458f30b7184757f7c9518116bd1f"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "d26ac32c3e674bba1dbbce4d374e4385aa30983541c085689e8e20361fe6bf85"
+hash = "024656fb2696cec9e6ce0410b68319abce5f845170f78365a8713b95634b00e6"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "a6d49e95887e61001cb582b66c8b1d8a48ca93a9250fd11f927810bc976b8942"
+hash = "0253da0d65dac133f444bc5985d298e2b81ba3b7545197267cbb2513c95c30a3"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "cb991e6f8e736b9a1b394357e8839c8e811c21854356c982ea0f3d21e1e56eb1"
+hash = "d67e8eac10168134c3ee15d657e30f4933319ff4827f2f3fcf0b45df3e2b23a6"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "56a8773d68a6bb88948c4fdc9bf90ecc0240961ff6874f7f38793d306c65321a"
+hash = "c3d8ab5fd03458d238c5524b101a61c9696766f4858c936d2ae62c0ef9f2fde5"
 metafile = true
 
 [[files]]
