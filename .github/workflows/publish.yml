@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
+      - name: Checkout
+        uses: actions/checkout@v2
+    
       # Building packwiz, and generating the curseforge export .zip
     
       - name: Set up Go
@@ -26,11 +29,10 @@ jobs:
           
       - name: Generate Release Asset
         run: packwiz cf export
-        working-directory: ./
         
       - name: Find Generated Zip
         id: find_zip
-        run: echo "::set-output name=zip::$(find . -type f -name "*.zip")"
+        run: echo "::set-output name=zip::Shattered_Stars-${{ github.event.inputs.version }}"
           
       # Publishing the Release https://github.com/marketplace/actions/publish-release
           
