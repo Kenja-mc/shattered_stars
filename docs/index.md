@@ -1,3 +1,0 @@
-# Shattered Stars Modpack
-
-Hello
