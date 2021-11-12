@@ -3,6 +3,7 @@
 .github/**
 .gitattributes
 .gitignore
+docs/**
 
 # Ignore info files
 README.md
