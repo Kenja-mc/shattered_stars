@@ -108,6 +108,9 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.wi_zoom.zoom:key.keyboard.c
+key_key.advancedcompass.openconfig:key.keyboard.p
+key_key.advancedcompass.newwaypoint:key.keyboard.n
+key_key.advancedcompass.openwaypointlist:key.keyboard.l
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.campanion.open_backpack:key.keyboard.b
 key_key.charm.openCraftingTable:key.keyboard.unknown
@@ -117,6 +120,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_jsmacros.menu:key.keyboard.unknown
+key_key.observable.profile:key.keyboard.r
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o

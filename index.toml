@@ -5,12 +5,20 @@ file = "config/Adorn.json5"
 hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
 
 [[files]]
+file = "config/AdvancedCompass/mobs/mobs.json"
+hash = "4c6fb6aa79e5135dc364158a8aece6f317be6b26eef3a0f8c9272ebc1e48c0d9"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "11ba09a6771da982f9bdc906cb50b803804ab4d627566c85fc5ce9a7c4a72d68"
 
 [[files]]
 file = "config/Prefab.json"
 hash = "e05576cf56495557bc94d88058db92c8b9c5769fc7483c8aa0b5500c85238f08"
+
+[[files]]
+file = "config/advancedcompass.json"
+hash = "f2434020238c1651dbaef91ebf67a20c19b81c68b3b484cbe2d865244711d0ce"
 
 [[files]]
 file = "config/animatica.properties"
@@ -98,7 +106,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "c7f95bef65cba6cf321912bd41cb3063e2e42cb277589772314d204ec5d3f449"
+hash = "5c362ba4b40b7b8c7c36efbebb8cf778f0b2e3746797ad470b419d27709fcf56"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -114,11 +122,11 @@ hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "2dc96df8007d5daf5c150194e52934d630c29e0ce4e6b0af6e333be3bcbf583c"
+hash = "fdcf1b78cc115f96d76918791dc5006ed1337c2388e99c4a3d1add9f4ba002fb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "128c7ca1aff083eefa656d754392d10a4748ec54981afc162f6993b01bf4dc7c"
+hash = "3830fbec530d71d39376e7a6c80a8b6849f84b7609785c47d51447de3e86270f"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -209,15 +217,15 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/superpettan/data/superpettan/dimension/superpettan.json"
+file = "config/paxi/datapacks/superpettan/data/superpettan/dimension/superpettan.json"
 hash = "c22bee839f4ce8036b8154cce8ef47a37c6e98a20b245f6c7e1513e3fee2bf30"
 
 [[files]]
-file = "config/paxi/superpettan/data/superpettan/dimension_type/superpettan.json"
+file = "config/paxi/datapacks/superpettan/data/superpettan/dimension_type/superpettan.json"
 hash = "3ee5e44bda1c0872f3b618ef8a5744cd53093f84903f001fc8fec0ca0bed67f9"
 
 [[files]]
-file = "config/paxi/superpettan/pack.mcmeta"
+file = "config/paxi/datapacks/superpettan/pack.mcmeta"
 hash = "24ffe56fdded24b25bf8a60053ea51ebaf8dbbc9bc19863bb5e6a6ed0f695ed1"
 
 [[files]]
@@ -378,6 +386,11 @@ hash = "047dc4a62fdb2c295931091326195eb047defae157fd026ae77e17b6932e2a63"
 metafile = true
 
 [[files]]
+file = "mods/advanced-compass.toml"
+hash = "37f98e999927509b0c04921dbda1a02ba6b166ad7eafb936c76f27875afb56a8"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "af2dce459e41ad7c5fdbbdfe9bd0a864e8bff7df878ea1d95975795f67614886"
 metafile = true
@@ -400,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/attribute.toml"
 hash = "1bce873d43d85870acfb0bc16be7abdd5dd2274b89dbcca1e8311fa637642cb1"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.toml"
+hash = "28830bf712a09c67c1eae7ae874bbbf94959d94189ea2d31ce58a6b968159cf1"
 metafile = true
 
 [[files]]
@@ -439,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.toml"
-hash = "661202e0f25bed489a26f216e87c34105b40b864811f288308202af6396804b3"
+hash = "bc76cc96a8921ae313cd475d13a0c4abc4524b1918ce21c5fa0378515f7ac79e"
 metafile = true
 
 [[files]]
@@ -450,6 +468,16 @@ metafile = true
 [[files]]
 file = "mods/charm.toml"
 hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
+metafile = true
+
+[[files]]
+file = "mods/chipped.toml"
+hash = "64b245a4513e0265ecb6e7efcac47284b73a8e1218e0168d1eed2eb58978ce64"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.toml"
+hash = "352ced64cb7fafb8235cd3782bbe949e940861b4bba0bf7fbeea7bf3f41e2b0f"
 metafile = true
 
 [[files]]
@@ -558,6 +586,11 @@ hash = "dcabf5541393b6b96d4f45a5638cb7d41ea7a40b0d8ef03129e8dc78eba984bd"
 metafile = true
 
 [[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "94000c4322b0884cc013b9e4d5261724ac98f04735c6f65c12479a842c6ae0c1"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "54326d466b78099c508a5a2b499c4a26f60c679e17b3c069419ca201485e0a07"
 metafile = true
@@ -600,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/jsmacros.toml"
 hash = "eac74dc7214e16a27d85557ae12b0df70dafc30f2f45af5ab0b4ea9ec0712db9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "93ab291ceb77341b5c9150287dfc3909438220ead7d0609545a44f21b09264ce"
 metafile = true
 
 [[files]]
@@ -709,7 +747,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "0253da0d65dac133f444bc5985d298e2b81ba3b7545197267cbb2513c95c30a3"
+hash = "416390534dca28daff6f43a9094ac79f6418f3a2ac4c88d9b7ae7cd76e489ecd"
+metafile = true
+
+[[files]]
+file = "mods/observable.toml"
+hash = "cfee0bd16349eb3fb3cc989acfea1ec761b50eb5615e9b295198a56e1f0259e4"
 metafile = true
 
 [[files]]
@@ -789,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-fabric.toml"
-hash = "422373f9bc15cf63deace2d4a71d69ad537b52282b26edffea5ce7cd085b4b0e"
+hash = "16aaffe55ef9f66b8065e34943564dbcad8002ef076935abe76d1b2f680890db"
 metafile = true
 
 [[files]]
@@ -849,4 +892,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d6872eeee85392422c50813393fe16b399ec66bea710025036d03138ed0b880b"
+hash = "42175e6280d8eca5b3d45ae2a83276c23ee67051d487906e38eca25dc1296b7b"
