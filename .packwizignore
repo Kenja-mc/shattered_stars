@@ -22,6 +22,7 @@ whitelist.json
 # Ignore server folders
 logs/**
 mods/*.jar
+mods/*.jar.disabled
 not-enough-crashes/**
 world/**
 
@@ -38,6 +39,8 @@ saves/**
 screenshots/**
 server-resource-packs/**
 texturepacks/**
+XaeroWorldMap/**
+config.bak.json
 
 # Ignore packwiz-installer
 packwiz-installer-bootstrap.jar
@@ -52,6 +55,7 @@ config/worldedit/**
 # Ignore GD Launcher Files
 ModTranslations/**
 config.json
+config_new_temp.json
 manifest.json
 natives/**
 schematics/**

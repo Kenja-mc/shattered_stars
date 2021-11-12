@@ -1,13 +1,13 @@
 name = "Not Enough Crashes (Fabric)"
-filename = "notenoughcrashes-3.7.2+1.17.1-fabric.jar"
+filename = "notenoughcrashes-4.0.0+1.17.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3522/731/notenoughcrashes-3.7.2+1.17.1-fabric.jar"
+url = "https://edge.forgecdn.net/files/3522/785/notenoughcrashes-4.0.0+1.17.1-fabric.jar"
 hash-format = "murmur2"
-hash = "167407146"
+hash = "593560028"
 
 [update]
 [update.curseforge]
-file-id = 3522731
+file-id = 3522785
 project-id = 353890
