@@ -25,8 +25,12 @@ jobs:
         run: go install github.com/comp500/packwiz@latest
           
       - name: Generate Release Asset
-        id: gen_zip
         run: packwiz cf export
+        working-directory: ./
+        
+      - name: Find Generated Zip
+        id: find_zip
+        run: echo "::set-output name=zip::$(find . -type f -name "*.zip")"
           
       # Publishing the Release https://github.com/marketplace/actions/publish-release
           
@@ -45,8 +49,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./shattered_stars-${{ github.event.inputs.version }}.zip
+          upload_url: ${{ steps.find_zip.outputs.zip }}
+          asset_path: ./${{ steps.gen_zip.outputs }}
           asset_name: shattered_stars-${{ github.event.inputs.version }}.zip
           asset_content_type: application/zip
 
