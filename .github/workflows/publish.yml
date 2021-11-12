@@ -51,9 +51,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.find_zip.outputs.zip }}
-          asset_path: ./${{ steps.gen_zip.outputs }}
-          asset_name: shattered_stars-${{ github.event.inputs.version }}.zip
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ steps.find_zip.outputs.zip }}
+          asset_name: shattered_stars-${{ github.event.inputs.version }}
           asset_content_type: application/zip
 
       - uses: eregon/publish-release@v1
