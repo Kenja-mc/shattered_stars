@@ -52,7 +52,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ${{ steps.find_zip.outputs.zip }}
+          asset_path: ${{ steps.find_zip.outputs.zip }}.zip
           asset_name: shattered_stars-${{ github.event.inputs.version }}
           asset_content_type: application/zip
 
