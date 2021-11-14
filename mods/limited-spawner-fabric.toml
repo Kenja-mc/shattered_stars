@@ -1,0 +1,13 @@
+name = "Limited Spawner (Fabric)"
+filename = "limitedspawners-1.17.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3461/864/limitedspawners-1.17.1-1.0.3.jar"
+hash-format = "murmur2"
+hash = "2086369980"
+
+[update]
+[update.curseforge]
+file-id = 3461864
+project-id = 429084
