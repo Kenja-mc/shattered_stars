@@ -1,0 +1,13 @@
+name: List Mods
+on:
+  workflow_dispatch:
+  
+jobs:
+  list_mods:
+    name: List Mods in folder
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - run: pwd
+      - run: ls -l ./mods

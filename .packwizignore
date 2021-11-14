@@ -3,6 +3,7 @@
 .github/**
 .gitattributes
 .gitignore
+docs/**
 
 # Ignore info files
 README.md
@@ -60,4 +61,3 @@ config_new_temp.json
 manifest.json
 natives/**
 schematics/**
-.icons/**

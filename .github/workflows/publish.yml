@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
+      - name: Checkout
+        uses: actions/checkout@v2
+    
       # Building packwiz, and generating the curseforge export .zip
     
       - name: Set up Go
@@ -25,8 +28,11 @@ jobs:
         run: go install github.com/comp500/packwiz@latest
           
       - name: Generate Release Asset
-        id: gen_zip
         run: packwiz cf export
+        
+      - name: Find Generated Zip
+        id: find_zip
+        run: echo "::set-output name=zip::Shattered_Stars-${{ github.event.inputs.version }}"
           
       # Publishing the Release https://github.com/marketplace/actions/publish-release
           
@@ -37,7 +43,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: "${{ github.event.inputs.version }}"
-          release_name: "${{ github.event.inputs.version }}"
+          release_name: "Shattered_Stars-${{ github.event.inputs.version }}"
+          body: |
+            One Day we'll
+            write a changelog
           draft: true
           prerelease: false
           
@@ -46,7 +55,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./shattered_stars-${{ github.event.inputs.version }}.zip
+          asset_path: ${{ steps.find_zip.outputs.zip }}.zip
           asset_name: shattered_stars-${{ github.event.inputs.version }}.zip
           asset_content_type: application/zip
 
