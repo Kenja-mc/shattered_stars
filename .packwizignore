@@ -51,6 +51,7 @@ packwiz.json
 config/minihud/**
 config/litematica/**
 config/worldedit/**
+crash-reports/**
 
 # Ignore GD Launcher Files
 ModTranslations/**
@@ -59,3 +60,4 @@ config_new_temp.json
 manifest.json
 natives/**
 schematics/**
+.icons/**

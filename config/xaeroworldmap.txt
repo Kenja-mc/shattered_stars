@@ -23,4 +23,8 @@ reloadVersion:0
 reloadEverything:false
 zoomButtons:true
 waypointBackgrounds:true
+detectAmbiguousY:true
+showDisabledWaypoints:false
+closeWaypointsWhenHopping:true
+adjustHeightForCarpetLikeBlocks:true
 globalVersion:1
