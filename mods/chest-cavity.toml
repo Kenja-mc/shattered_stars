@@ -1,0 +1,13 @@
+name = "Chest Cavity"
+filename = "chestcavity-2.13.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/861/chestcavity-2.13.0.jar"
+hash-format = "murmur2"
+hash = "527127952"
+
+[update]
+[update.curseforge]
+file-id = 3423861
+project-id = 408480

@@ -1,13 +1,13 @@
 name = "Sync (Fabric)"
-filename = "sync-mc1.17.x-1.2.jar"
+filename = "sync-mc1.17.1-2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3452/111/sync-mc1.17.x-1.2.jar"
+url = "https://edge.forgecdn.net/files/3524/557/sync-mc1.17.1-2.0.jar"
 hash-format = "murmur2"
-hash = "2760344323"
+hash = "3698519092"
 
 [update]
 [update.curseforge]
-file-id = 3452111
+file-id = 3524557
 project-id = 515365

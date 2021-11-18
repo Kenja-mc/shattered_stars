@@ -1,13 +1,13 @@
 name = "Creative One-Punch"
-filename = "CreativeOnePunch-1.2-1.17.jar"
+filename = "CreativeOnePunch-1.3-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3345/42/CreativeOnePunch-1.2-1.17.jar"
+url = "https://edge.forgecdn.net/files/3528/132/CreativeOnePunch-1.3-universal.jar"
 hash-format = "murmur2"
-hash = "1504002636"
+hash = "2587211963"
 
 [update]
 [update.curseforge]
-file-id = 3345042
+file-id = 3528132
 project-id = 444261
