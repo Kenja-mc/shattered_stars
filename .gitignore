@@ -23,6 +23,7 @@ coremods/**
 
 # Ignore Client files
 servers.dat
+servers.dat_old
 realms_persistence.json
 saves/**
 screenshots/**
