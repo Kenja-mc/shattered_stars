@@ -1,0 +1,13 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.10.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3522/536/mythicmetals-0.10.1.jar"
+hash-format = "murmur2"
+hash = "3233645436"
+
+[update]
+[update.curseforge]
+file-id = 3522536
+project-id = 410127

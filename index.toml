@@ -17,6 +17,14 @@ file = "config/AdvancedCompass/mobs/promenade/mobs.json"
 hash = "256aa1d34974e4443d10aaa467576edd06c7ad96a561e5ea9cda87fe7be4eecb"
 
 [[files]]
+file = "config/AdvancedCompass/waypoints/checker_world/waypoints.json"
+hash = "18ef693d3e949f63ac5f372477fe63a0454c6116896ac6b0739f7789b8c53421"
+
+[[files]]
+file = "config/AdvancedCompass/waypoints/test_world/waypoints.json"
+hash = "33c4182e8d69b9d875d97801b4210669043bd64c219082e117433430b2a36f87"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "11ba09a6771da982f9bdc906cb50b803804ab4d627566c85fc5ce9a7c4a72d68"
 
@@ -109,6 +117,14 @@ file = "config/dynamicfps.toml"
 hash = "37192c981587637ee01f337fa4900b7ba834ae2c7e1f4a612d09876170feaa4b"
 
 [[files]]
+file = "config/enchant_giver/enchants.json"
+hash = "fe228bf6e29cf71f004ef090c53cb7232671bb8aa4f0b768ceb9f3f1e3dbd93e"
+
+[[files]]
+file = "config/enchant_giver/example.yaml"
+hash = "e267c7612c2517b0e71c0c956b69d380615f09b53c2855b46242933c5c1357bf"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "239a1135d725f02056f7846bfc09c3428d03429001199bfeb69fcaba3842942a"
 
@@ -118,7 +134,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "34fb7476b989667af26230873b9a037c6494df3b1bb96a205b7b17286b78ade5"
+hash = "ac2e98369f1def2fb58df0aa3d9ef1574fd0ede403cb7aa8eb3b1cea17a361a2"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -134,11 +150,11 @@ hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "31609f306ca37b3820ab23bf3da547d857357bfd506d299544c3bc3f8f63d3b7"
+hash = "97142ec93c2a7e66bced39ba6c5d693e8e3baf786b1d7f31b11227f86973cabe"
 
 [[files]]
 file = "config/iris.properties"
-hash = "6e31b53ea92030670c6487dc004ca37b9079c9a52541a6e6fe664645ab718d75"
+hash = "e86cd0acfafa957bf69ab8c13d74f62087f02a337af6ccdc209d6acc93352011"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -217,6 +233,10 @@ file = "config/modmenu.json"
 hash = "e21442832f1b2cb80377724ad80f8323898aca23a45d839c5c84ef4d9f947d27"
 
 [[files]]
+file = "config/mythicmetals.json"
+hash = "3d7f38053eb5a20397b2e459d98ab132f579e62cc5c6af01550b1a72d418db86"
+
+[[files]]
 file = "config/notenoughcrashes.json"
 hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
@@ -289,6 +309,10 @@ file = "config/slightguimodifications/cts.groovy"
 hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
 
 [[files]]
+file = "config/smart-recipes.properties"
+hash = "fa64b513ed634e1e1b26b0b37594b901c382c51b207a66103f2b1a6e99b10908"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
@@ -346,7 +370,7 @@ hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "412a394a70743efab88c964c03de35804a19714a4f92ea1329a10eaa90e35205"
+hash = "1436df6a8e1076ebd14b0aff390d207e063527b32d6cbdba5d78f2499a54961e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -432,6 +456,11 @@ hash = "af2dce459e41ad7c5fdbbdfe9bd0a864e8bff7df878ea1d95975795f67614886"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.toml"
+hash = "423e731b70801c19673dffd377f0bff7fb6777c5cf8cc56d741c57681b23b1fe"
+metafile = true
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
 metafile = true
@@ -492,13 +521,8 @@ hash = "5d910a686f63efcc856b2e8fd694cc1d95311107624cebbe82d37e3adad2eb23"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition.toml"
-hash = "bc76cc96a8921ae313cd475d13a0c4abc4524b1918ce21c5fa0378515f7ac79e"
-metafile = true
-
-[[files]]
 file = "mods/carpet.toml"
-hash = "36af1ea9a5f29f01c566e8b92180b29bcf15d6e944d664440ee04c512f93ba15"
+hash = "43b3550c9c01180efbc37a8462c66e3203c11d1ebf6e071d31f702248192bc20"
 metafile = true
 
 [[files]]
@@ -509,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/charm.toml"
 hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
+metafile = true
+
+[[files]]
+file = "mods/chest-cavity.toml"
+hash = "c2f2b8d33bd3bb9b6ea75110f6bbecc6793b441458cf495a64251044e7f08c4d"
 metafile = true
 
 [[files]]
@@ -538,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "4ef35950fdb5b61e93e06d3bde37e6cdb48315487b4424d87b23be962078e99a"
+hash = "8189dfcd30737784d24ffbee0d96db6880051982f748735e4c26c8a3d10ec3a2"
 metafile = true
 
 [[files]]
@@ -568,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-one-punch.toml"
-hash = "d44c4c4f9fb4910294185a4e67d5f527ba24f35179477b016d9109a179a5f1d2"
+hash = "0d56fcc2c5e00f8f23b02e89c5f4e0dea4b74babbf1a12541fa7246a075536af"
 metafile = true
 
 [[files]]
@@ -663,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "024656fb2696cec9e6ce0410b68319abce5f845170f78365a8713b95634b00e6"
+hash = "cc1e94681119518ed8c3779124344cb13f15922a3913db350f7d7c39c99de922"
 metafile = true
 
 [[files]]
@@ -827,6 +856,11 @@ hash = "90915b4edc245fa88792c35e041b7e50bffa0de7cbb65fd64758528040f8a321"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.toml"
+hash = "7e30c57eaeef4a3d452f3b23ae13b9f40081931a1a8ae34f4f6ac001e0b5aaf3"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.toml"
 hash = "a40d9644e1ae0e994374d1dcfa2ed19cddd244cff4f2d372e3ab63690bd5b831"
 metafile = true
@@ -862,8 +896,18 @@ hash = "53ac75e8cd6e2266312656e3c20e4a0e85fad18790e049d39c555fb78d3abb2a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "37e64a1bb133d921a00e2faa84387d712bf53fad70ccd296cfba4e134220f60b"
+metafile = true
+
+[[files]]
 file = "mods/paxi-fabric.toml"
 hash = "7a4fc33974acb6ee2ca12b4096d416d8a8e94057c7c398af6f8b1bffa44f6fb8"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "25bfd89f09e2ce954d28fad8117da91f0ae2527730134e6ba9e862f3602da36c"
 metafile = true
 
 [[files]]
@@ -898,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "d67e8eac10168134c3ee15d657e30f4933319ff4827f2f3fcf0b45df3e2b23a6"
+hash = "e40a8849f24e623f4909bb6a5b73125b0311236a376d39a08008bfccbb78e49c"
 metafile = true
 
 [[files]]
@@ -918,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "13699dda3c87b108c509887275d7e183fec335012762b24b001a413068fbb055"
+hash = "d6b54a334333066b499aa84b1ac648a1dedf7997caac97419c7a0c7d9216d482"
 metafile = true
 
 [[files]]
@@ -928,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-fabric.toml"
-hash = "16aaffe55ef9f66b8065e34943564dbcad8002ef076935abe76d1b2f680890db"
+hash = "0e730b600f6612012cc54b8b46fbfd778c6e248adaef4cc3d7b1016eb6c22688"
 metafile = true
 
 [[files]]
@@ -972,11 +1016,6 @@ hash = "c45b7f814c25bc2c9804fbd86f9b340cdbf81eaf82833e73f0778e2c41fd208d"
 metafile = true
 
 [[files]]
-file = "mods/william-wythers-overhauled-overworld.toml"
-hash = "b9be8006aff569e1dcde481c3afbd4bc9170c1edda6682864a46cdab4aca0083"
-metafile = true
-
-[[files]]
 file = "mods/woods-and-mires.toml"
 hash = "413a55f8e6a6e1df2a8b83f30dfcd34cc302111eed70fd14d2d0babb7803ccb4"
 metafile = true
@@ -998,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "eba5948a3ab356cbdd9773170dc6cfac03e6ed16af1ec7d1c2490e6d69dfd42e"
+hash = "3eba08f3cb78d9b5c26e2f2e7d4f2510e1d65a0e4544c2859c6483459e8ed256"
 metafile = true
 
 [[files]]
@@ -1013,4 +1052,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "18111b98b2180271be3eb64c1e017a5c4e90abeea426b0059ebf57609cf6a126"
+hash = "1b4baf2937aec8536758a380baab4ce0170030f5be54cc07336a2ea960a4914b"
