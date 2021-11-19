@@ -12,7 +12,7 @@ Minecraft 1.18+ requires [Java 17](https://adoptium.net/?variant=openjdk17&jvmVa
 ### Installation
 Load the [.zip file](https://github.com/Kenja-mc/shattered_stars/releases/latest) into MultiMC or GDLauncher.
 
-Alternatively, the modpack's [pack.toml](https://kenja-mc.github.io/shattered_stars/pack.toml) is available here if you are using [packwiz](https://github.com/comp500/packwiz).
+Alternatively, the modpack's pack.toml is available [here](https://kenja-mc.github.io/shattered_stars/pack.toml) if you are using [packwiz](https://github.com/comp500/packwiz).
 ## About
 The aim of this modpack is to provide a unique Minecraft experience by overhauling various aspects of the game. While most Minecraft modpacks already do this, you'll find that they usually fall into the same patterns. Whether it's Kitchen Sink, Questing, Skyblock, Expert, or some number of the above, very few modpacks actually try to be creative, and instead rely on mods for the content. 
 
