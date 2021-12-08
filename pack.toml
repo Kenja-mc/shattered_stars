@@ -1,13 +1,13 @@
-name = "Shattered_Stars"
+name = "shstar-forge-1.17.1"
 author = "Kenja__"
-version = "0.3.0"
+version = "0.0.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c7105a52b5da955313c35646a6be5fa91e586d47d84a1cc63b417432c50e9c92"
+hash = "29af02f7a1e1d62748f95473a0485ab6b65f9b8f41e123f8d519b56d04557997"
 
 [versions]
-fabric = "0.12.5"
+forge = "37.0.0"
 minecraft = "1.17.1"
