@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "icon.png"
-hash = "2d4bca2dff90ec74138c7bb6f647216bf793e17e2571d425ddc727086953c112"
+hash = "062f6c5a9ee276deee39f9afeeb7a3594364eb8ee514048caf17296dcc068519"
 
 [[files]]
 file = "options.txt"
