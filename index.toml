@@ -118,7 +118,7 @@ hash = "37192c981587637ee01f337fa4900b7ba834ae2c7e1f4a612d09876170feaa4b"
 
 [[files]]
 file = "config/enchant_giver/enchants.json"
-hash = "fe228bf6e29cf71f004ef090c53cb7232671bb8aa4f0b768ceb9f3f1e3dbd93e"
+hash = "b2e7bce8bb4860a6b135f33f78786ed0c798678ca000a4b255d149d21b5cc1f3"
 
 [[files]]
 file = "config/enchant_giver/example.yaml"
@@ -134,7 +134,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ac2e98369f1def2fb58df0aa3d9ef1574fd0ede403cb7aa8eb3b1cea17a361a2"
+hash = "be207bad7d1f422c5277280d3ecf8227d606101705f53b4205c7b0abcd5c9ac3"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -150,11 +150,11 @@ hash = "04cab306dee7a7217df0b41a176fc1d9cdb0283f3321af00be216dbe25f7a3fb"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "97142ec93c2a7e66bced39ba6c5d693e8e3baf786b1d7f31b11227f86973cabe"
+hash = "1982d1d04f60b58cfeda1806774edc119e7a569134fcc63917ee2dc514004abc"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e86cd0acfafa957bf69ab8c13d74f62087f02a337af6ccdc209d6acc93352011"
+hash = "d1c6d18773d8d91e5a121dd941fd866675a1944ed8700cb1792f485625a607a1"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -327,14 +327,6 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "b431a170e0ab97e9ef90358110c112d1ed28f825e5d1f97b6a16669aa09227dd"
-
-[[files]]
-file = "config/tellme/biome-sources_2021-11-12_12.35.45.csv"
-hash = "b35f2eadfaf570dabf0ff1483403b2d253cdc5d6b4e1ed7438c30840cb10239d"
-
-[[files]]
-file = "config/tellme/biomes-basic_2021-11-12_12.35.50.csv"
-hash = "f2c3b121de756a7fef1e1eb12c232d5cd8313fc2bcbbc1caa5a3844e7d46d353"
 
 [[files]]
 file = "config/the-graveyard-config.json5"
