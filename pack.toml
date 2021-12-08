@@ -1,6 +1,6 @@
 name = "shstar-forge-1.17.1"
 author = "Kenja__"
-version = "0.0.1"
+version = "0.1.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "29af02f7a1e1d62748f95473a0485ab6b65f9b8f41e123f8d519b56d04557997"
 
 [versions]
-forge = "37.0.0"
+forge = "37.1.0"
 minecraft = "1.17.1"
