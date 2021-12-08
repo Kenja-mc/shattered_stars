@@ -2,6 +2,9 @@
   "mythicmetals:aquarium_leggings": {
     "minecraft:respiration": 2
   },
+  "mythicmetals:aquarium_chestplate": {
+    "origins:water_protection": 2
+  },
   "mythicmetals:prometheum_shovel": {
     "minecraft:mending": 1
   },
