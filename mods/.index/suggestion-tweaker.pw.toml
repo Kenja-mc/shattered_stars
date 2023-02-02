@@ -1,0 +1,14 @@
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.19.1-1.3.1-forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5561cb731a24417b553828872405fa91feca0e74"
+
+[update]
+[update.curseforge]
+file-id = 3914608
+project-id = 615242
