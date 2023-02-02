@@ -1,0 +1,27 @@
+
+#World generation configuration
+[world_config]
+	#Flat world generator preset
+	world_generation_preset = "minecraft:bedrock,3*minecraft:stone,116*minecraft:sandstone;minecraft:desert"
+	#Enable the bonus chest
+	bonus_chest = false
+
+#Gamerule configuration
+[game_rules]
+	#Should the daylight cycle be enabled
+	rule_daylight = false
+	#Default time to lock day / night to
+	daylight_time = 6000
+	#Should the weather cycle be enabled
+	rule_weather_cycle = false
+	#Should the fire tick be enabled
+	rule_dofiretick = false
+	#Should mob griefing be enabled
+	rule_mobgriefing = false
+	#Should mob spawning be enabled
+	rule_domobspawning = true
+	#Should the raids be disabled
+	rule_disable_raids = true
+	#Should the insomnia be enabled
+	rule_doinsomnia = false
+

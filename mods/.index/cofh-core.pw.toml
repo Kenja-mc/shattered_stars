@@ -1,0 +1,14 @@
+name = "CoFH Core"
+filename = "cofh_core-1.19.2-10.0.2.33.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4fcadacf88ad31b5eca21c182a3db2220fef7324"
+
+[update]
+[update.curseforge]
+file-id = 4202944
+project-id = 69162

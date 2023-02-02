@@ -1,0 +1,14 @@
+name = "DevWorld"
+filename = "DevWorld3-1.19.2-0.0.6-client.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6a2b84e1ef0c65717490be1a3e42d33375856ed0"
+
+[update]
+[update.curseforge]
+file-id = 3970134
+project-id = 243748

@@ -1,0 +1,13 @@
+name = "FTB Library (Forge)"
+filename = "ftb-library-forge-1902.3.11-build.166.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3859101e019e58531a3798220b15b510becf880d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4210870
+project-id = 404465

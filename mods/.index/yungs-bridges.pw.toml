@@ -1,0 +1,14 @@
+name = "YUNG's Bridges"
+filename = "YungsBridges-1.19.2-Forge-3.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/rgVgefNE/YungsBridges-1.19.2-Forge-3.1.0.jar"
+hash-format = "sha512"
+hash = "dbc54f5bdf20043c0d813abb402aee8d226535eefabc8fb34086542f5624c7f5a6d95259667605ef8ec6d1b3030248d158c0ffebff30710d9365f4529ca5c7d7"
+
+[update]
+[update.modrinth]
+mod-id = "Ht4BfYp6"
+version = "rgVgefNE"
