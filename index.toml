@@ -2,7 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "4979ef219480f09a523e26d7b17d49c8cf6c07d5ad48740fcdd18630ef40234b"
+hash = "38c424c8f20d503db1eb9f7fac7c023b2a16b2d83198bbad5bfa6669c40ff749"
+
+[[files]]
+file = "config/cofh_core-client.toml"
+hash = "308bb7e904e226b1af363cef2a85260c188c5f466de51a214a888250c1a99aa6"
+
+[[files]]
+file = "config/delightful-common.toml"
+hash = "007756ce780efcaf00f66aa41fbcf3747dbf392e8f385cba2cd776b99dd8c8a4"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.toml"
+hash = "3ef96f21daafd1d188c44c6e9531ffff008385d0e0950b1e29d5e91075dd3a52"
 
 [[files]]
 file = "config/quark-common.toml"
