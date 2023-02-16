@@ -2,7 +2,6 @@
 banned-ips.json
 banned-players.json
 eula.txt
-fabric-sever-launch.jar
 ops.json
 server.jar
 usercache.json
@@ -12,7 +11,6 @@ whitelist.json
 logs/**
 mods/*.jar
 mods/*.jar.disabled
-not-enough-crashes/**
 world/**
 
 # Ignore Client files
@@ -23,7 +21,6 @@ saves/**
 screenshots/**
 server-resource-packs/**
 texturepacks/**
-XaeroWorldMap/**
 config.bak.json
 
 # Ignore packwiz-installer
@@ -32,10 +29,7 @@ packwiz-installer.jar
 packwiz.json
 
 # Ignore client-generated configs
-config/minihud/**
-config/litematica/**
-config/worldedit/**
-crash-reports/**
+
 
 # Ignore Modrinth Files
 *.mrpack
