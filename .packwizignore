@@ -14,7 +14,6 @@ LICENSE
 banned-ips.json
 banned-players.json
 eula.txt
-fabric-server-launch.jar
 ops.json
 server.jar
 usercache.json
@@ -41,3 +40,6 @@ config.bak.json
 packwiz-installer-bootstrap.jar
 packwiz-installer.jar
 packwiz.json
+
+# Ignore Modrinth Files
+*.mrpack
