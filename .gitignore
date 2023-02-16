@@ -15,12 +15,6 @@ mods/*.jar.disabled
 not-enough-crashes/**
 world/**
 
-# Ignore fabric folders
-.fabric-installer/**
-.fabric/**
-.mixin.out/**
-coremods/**
-
 # Ignore Client files
 servers.dat
 servers.dat_old
@@ -43,11 +37,5 @@ config/litematica/**
 config/worldedit/**
 crash-reports/**
 
-# Ignore GD Launcher Files
-ModTranslations/**
-config.json
-config_new_temp.json
-manifest.json
-natives/**
-schematics/**
-.icons/**
+# Ignore Modrinth Files
+*.mrpack
