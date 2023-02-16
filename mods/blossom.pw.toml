@@ -1,0 +1,13 @@
+name = "Blossom"
+filename = "blossom-forge-1.19.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYVih5qu/versions/qP5xo4uK/blossom-forge-1.19.2-1.0.6.jar"
+hash-format = "sha1"
+hash = "96f6f592a3fc6a94cc63d9aef346996ba03fe90e"
+
+[update]
+[update.modrinth]
+mod-id = "iYVih5qu"
+version = "qP5xo4uK"

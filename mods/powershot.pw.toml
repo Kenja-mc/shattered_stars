@@ -1,0 +1,13 @@
+name = "Powershot"
+filename = "powershot-1.4.1-1.19-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O87oaOPs/versions/1.4.1-1.19-forge/powershot-1.4.1-1.19-forge.jar"
+hash-format = "sha1"
+hash = "4a5266601d9b70b2a369d10c3623ab7a21cb66a8"
+
+[update]
+[update.modrinth]
+mod-id = "O87oaOPs"
+version = "7XShS13e"

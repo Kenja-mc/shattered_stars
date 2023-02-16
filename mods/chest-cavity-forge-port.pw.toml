@@ -1,0 +1,13 @@
+name = "Chest Cavity - Forge Port"
+filename = "chestcavity-forge-1.19.2-2.16.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fedf70b7c7c848bf8e9f3fa81918286569abb8ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4344019
+project-id = 654347
