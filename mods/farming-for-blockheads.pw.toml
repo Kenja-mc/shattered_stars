@@ -1,0 +1,13 @@
+name = "Farming for Blockheads"
+filename = "farmingforblockheads-forge-1.19-11.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/11.1.0%2Bforge-1.19/farmingforblockheads-forge-1.19-11.1.0.jar"
+hash-format = "sha1"
+hash = "9c37c0d2850468c9de8e64336d61bb2d220180c5"
+
+[update]
+[update.modrinth]
+mod-id = "4WJZr8JU"
+version = "QictgZaw"

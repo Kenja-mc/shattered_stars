@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "changelog.md"
-hash = "d3cc5e83b884837877d3a9c3741ccebb7e228990d7183e456b5363c47ba7b587"
+file = "config/apotheosis/adventure.cfg"
+hash = "4979ef219480f09a523e26d7b17d49c8cf6c07d5ad48740fcdd18630ef40234b"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -11,6 +11,10 @@ hash = "31b7e91c848e21dbc58b816642459c0f0cdf51e688e3f810f89ad494aab8fce6"
 [[files]]
 file = "config/tetra.toml"
 hash = "93b7e2fac95deb963b7331b03a91701539f53fc90f39b93358c55bd8e56a3fbf"
+
+[[files]]
+file = "icon.png"
+hash = "2fc8d71d81ad2f6e28a5038981087c0660c52f5ff4a528d9a2a6cebf81e3cd89"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -53,8 +57,18 @@ hash = "55e7b06eb9bb8d3a8d993cb9232c90c3054acad3ab1f51c06fb712720a7669df"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "75745dee1d0a29cfa70f3fc7dd7b8638daed99f413bcf8f1ad7521faca2de805"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f6cbf049bf3d857ff70736e3cae7cb3b3cf42fe01142e7b38c1520e9209428f2"
 metafile = true
 
 [[files]]
@@ -63,8 +77,23 @@ hash = "679ff153724bf9aec89645d48765f108fd75362e387b6e33e920e6ec5f33fba6"
 metafile = true
 
 [[files]]
+file = "mods/blossom.pw.toml"
+hash = "eda8b86afa03baec7a0ff28ba9a98ebd329a5474f2e4514c8a00ec4239c9bed4"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e7a31bca2c89624f212365c8ba63364652ae7163af1b0d6effafb4f1b27c2d42"
+metafile = true
+
+[[files]]
+file = "mods/butchercraft.pw.toml"
+hash = "dc7bc9d6340e7a1248fd68f7b8e1459acbee48f518f9c4b6db9cef35eda31c90"
+metafile = true
+
+[[files]]
+file = "mods/chest-cavity-forge-port.pw.toml"
+hash = "4ce1a53e44a8855a2173a614d10efe733186499f19105af96733efb68779750b"
 metafile = true
 
 [[files]]
@@ -98,8 +127,18 @@ hash = "55fe6ab593105e257757c69572113ff554a92a1407899f4a8170e72d50e712bf"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "49d330937c995cb37ad2e070ab1d6b2c13f5ab9be95720d1f99a137e419c62c3"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "f5c0acdd29ffba387899edcc2890e7c3c555c8f481ee80864d1e2300349d6184"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "11b9e1462b5ebdbd13c92e44b4cfaa873d93435d77af721be1321d4a102b9e8c"
 metafile = true
 
 [[files]]
@@ -193,6 +232,11 @@ hash = "45195222bc6c21bb60602680a564149990736c0b516efa1aa2f8bf75b163c9f5"
 metafile = true
 
 [[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "0eef33260f4dcb2da3898bc9854655281423f347eaa192068d4f4f2313a6e461"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "26793eb76fb5e048eaa4e8589c8f59df9457241208afd10b641e45b3ebe81aca"
 metafile = true
@@ -208,18 +252,13 @@ hash = "61aacdeb320bcad34a2d30f27ba85176d0cbb5e9b84c478c545b102ddedc7e07"
 metafile = true
 
 [[files]]
-file = "mods/first-aid.pw.toml"
-hash = "bf99a67e71e3c434429c01dc70c02f9ab829a00a0d18b42f041bb6d3aec79195"
-metafile = true
-
-[[files]]
 file = "mods/fixmyspawnr.pw.toml"
 hash = "0c56bd81d012abdeac41386ac918e14f437e6f09e5bb28e6d91ccef2e88384ad"
 metafile = true
 
 [[files]]
-file = "mods/fungal-infectionspore.pw.toml"
-hash = "4c11185f1270d601af87e8ea6337fa9c2f10b76c51f75a06299cb7d69761de55"
+file = "mods/fx-control.pw.toml"
+hash = "a14c91e039fba0e24cd31d7aee5a22bbd28e1b05d65964ad9c9e5c5c1adc931e"
 metafile = true
 
 [[files]]
@@ -228,13 +267,28 @@ hash = "7bfc6fd8a94e02e289c31c8500215abdfbbb29f92535ebceeb7a76ffb7efb251"
 metafile = true
 
 [[files]]
+file = "mods/ibe-editor.pw.toml"
+hash = "c229b9c7d45c3305b4bd06f2c882b02d6dc074b7c2a466f3395554322169ae03"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "b185e27a51765a6c34548350227e468d108615db2c91cd96966da3a469b28932"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "fb0819262a796b32174ad2b9b7d2f026b6aa2c1044dd24ff0f21a26769506a52"
+metafile = true
+
+[[files]]
 file = "mods/infectum.pw.toml"
 hash = "c16b30aca5245ac49540b90ebe629ce4753d956bb323cf1b99a4e1dd10f95c22"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "9d15fb9c800e8db3250fb4ae013e5dad8137491fba49d2497f2f49463dbc05af"
 metafile = true
 
 [[files]]
@@ -368,6 +422,11 @@ hash = "d3685a6f5ff1e2b32979192e068b9c1f5e04fac73e147a5a0c2f0a3fa8093b2b"
 metafile = true
 
 [[files]]
+file = "mods/powershot.pw.toml"
+hash = "aee8aafb953d17e8ef9c2f82f09a9b082d97d9eb8aab8bb50f919d55ec144bce"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "90560337b2ad996abe8d1fb74130972b83ff9954d1742bbcc1a8588aa5628528"
 metafile = true
@@ -403,8 +462,18 @@ hash = "2a3627e70bfae32d33e2b8fb694410db7caa96d51a9a9dfe46ff98a033f63935"
 metafile = true
 
 [[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "f540ae946ff56136c405fb4baafffbbb9882d76afe151c7a431a3a98420f08a6"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "4f237850c9cc02e448b67301ad1d235c12c27d9cc687badc37557d2138777f35"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "4a610cc1e50e46bc9c3f83355620e039c0fa443baed5b687093a182b7f36d3c6"
 metafile = true
 
 [[files]]
@@ -420,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "3db733e1cad2b465e3d924b2b7e372dc063ecbd013ffa0b22225f27dfdad4e77"
+metafile = true
+
+[[files]]
+file = "mods/tellme.pw.toml"
+hash = "b495e226ec531bccf07f6bd6c022dce36a13af72aaea2ba76e2f22992c2f1d7b"
 metafile = true
 
 [[files]]
@@ -453,6 +527,11 @@ hash = "afd9b2b50903a0b5d73fd367349db2f492dbc07c79721e8ed0b9c1ba87870eb1"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "f846c5299cc77e44928c1c13574e9abafd619042f0f83a4a874f70fcd8c6e3ac"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "957ff865b8349be0fb4a9fd7b2ef08e844ffd870113b0772fcfa74c67d4c53fc"
 metafile = true
@@ -460,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/world-stripper.pw.toml"
 hash = "bf3f6418846c6f580f228c741e7169a6e0aa85967f537a6e48eb91149a802b5e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
@@ -506,3 +590,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "c760b48e6c1a2fbc88ef0202a6d4e9559b61a280df2f374a9081edf3bb18bd8b"
 metafile = true
+
+[[files]]
+file = "serverconfig/immersiveengineering-server.toml"
+hash = "f23d8f966de41fa2055822f2cd9401fbbb42bffdbef081c10ebe9ca0f654f5fb"
