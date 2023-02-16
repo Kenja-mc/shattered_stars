@@ -1,0 +1,14 @@
+name = "It Shall Not Tick (ISNT)"
+filename = "ItShallNotTick-1.0.11-build.35.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/njS3Z0YB/versions/ydDQPqog/ItShallNotTick-1.0.11-build.35.jar"
+hash-format = "sha512"
+hash = "08130cc98d7eb39c0091be52a585e44602de7bb1254c34d54c5708ab604e235bc5ba09cd4f57670e2760ea1a933a257d587f4c6b08f9802b06708e9bcb64cc67"
+
+[update]
+[update.modrinth]
+mod-id = "njS3Z0YB"
+version = "ydDQPqog"

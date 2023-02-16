@@ -1,0 +1,13 @@
+name = "Mahou Tsukai"
+filename = "mahoutsukai-1.19.1-v1.34.33.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7jOxn6qJ/versions/1.19.1-v1.34.33/mahoutsukai-1.19.1-v1.34.33.jar"
+hash-format = "sha1"
+hash = "298ee894423f95b4218de10605cb7d273b3b96ec"
+
+[update]
+[update.modrinth]
+mod-id = "7jOxn6qJ"
+version = "r9aCjCG7"

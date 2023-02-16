@@ -1,0 +1,13 @@
+name = "Cull Leaves"
+filename = "cullleaves-forge-3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/cx8ZZ7y9/cullleaves-forge-3.0.1.jar"
+hash-format = "sha1"
+hash = "4fcad32828c1769c16692c5bbf9644e207c55d53"
+
+[update]
+[update.modrinth]
+mod-id = "GNxdLCoP"
+version = "cx8ZZ7y9"

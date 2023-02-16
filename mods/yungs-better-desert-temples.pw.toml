@@ -1,0 +1,14 @@
+name = "YUNG's Better Desert Temples"
+filename = "YungsBetterDesertTemples-1.19.2-Forge-2.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XNlO7sBv/versions/QqT68vQL/YungsBetterDesertTemples-1.19.2-Forge-2.2.1.jar"
+hash-format = "sha512"
+hash = "8e89a8b8f6bc4e7681001a50819034c8aadbc460a46014b3830acd0f5d3e36cc180387f959f2e30b9eb7d0880f2cea8e0b5a00411004090ef5b9052f9c29dc9b"
+
+[update]
+[update.modrinth]
+mod-id = "XNlO7sBv"
+version = "QqT68vQL"

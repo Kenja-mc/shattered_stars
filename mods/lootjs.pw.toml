@@ -1,0 +1,14 @@
+name = "LootJS"
+filename = "lootjs-forge-1.19.2-2.7.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/WKbyXlEH/lootjs-forge-1.19.2-2.7.9.jar"
+hash-format = "sha512"
+hash = "2c162805de78d78bb4251989ab94e4d21c18564f39d9b59132d408e4711058e19e1a61e9ab0bef25392bd1405c0742c265f96bc308ee567174db6df1819a3627"
+
+[update]
+[update.modrinth]
+mod-id = "fJFETWDN"
+version = "WKbyXlEH"
