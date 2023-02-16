@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.19.2-5.9.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/5ECQX0PW/journeymap-1.19.2-5.9.3-forge.jar"
+hash-format = "sha1"
+hash = "7c12d6f2025070064383c1541be8b60deb425f50"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "5ECQX0PW"

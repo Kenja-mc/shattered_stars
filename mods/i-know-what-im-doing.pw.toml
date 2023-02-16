@@ -1,0 +1,13 @@
+name = "I Know What I'm Doing"
+filename = "IKnowWhatImDoing-5.1.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S5ivha5X/versions/5.1.1-forge/IKnowWhatImDoing-5.1.1-forge.jar"
+hash-format = "sha1"
+hash = "629df915cda64dcab803099d7c646cd4b875f8cd"
+
+[update]
+[update.modrinth]
+mod-id = "S5ivha5X"
+version = "2u1npXQt"

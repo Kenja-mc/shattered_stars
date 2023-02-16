@@ -1,0 +1,13 @@
+name = "Attribute Tooltip Fix"
+filename = "attributetooltipfix-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eRyV6EA3/versions/1.19.2-1.0.0%2Bforge/attributetooltipfix-forge-1.19.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "da83f13ab2711e85a32db59fe1731418b8c09fe4"
+
+[update]
+[update.modrinth]
+mod-id = "eRyV6EA3"
+version = "b02L8C83"
