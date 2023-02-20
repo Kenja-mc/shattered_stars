@@ -294,11 +294,6 @@ hash = "fb0819262a796b32174ad2b9b7d2f026b6aa2c1044dd24ff0f21a26769506a52"
 metafile = true
 
 [[files]]
-file = "mods/infectum.pw.toml"
-hash = "c16b30aca5245ac49540b90ebe629ce4753d956bb323cf1b99a4e1dd10f95c22"
-metafile = true
-
-[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "9d15fb9c800e8db3250fb4ae013e5dad8137491fba49d2497f2f49463dbc05af"
 metafile = true
