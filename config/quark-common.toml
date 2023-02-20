@@ -51,16 +51,16 @@
 
 [automation]
 	"Redstone Randomizer" = true
-	"Pistons Move Tile Entities" = false
+	"Pistons Move Tile Entities" = true
 	"Obsidian Plate" = true
 	"Metal Buttons" = true
 	"Jukebox Automation" = true
-	"Iron Rod" = false
+	"Iron Rod" = true
 	Gravisand = true
 	"Feeding Trough" = true
 	"Ender Watcher" = true
-	"Dispensers Place Blocks" = false
-	Chute = false
+	"Dispensers Place Blocks" = true
+	Chute = true
 	"Chains Connect Blocks" = true
 
 	[automation.pistons_move_tile_entities]
@@ -97,7 +97,7 @@
 	"Vertical Slabs" = true
 	"Vertical Planks" = true
 	"Variant Ladders" = true
-	"Variant Furnaces" = false
+	"Variant Furnaces" = true
 	"Variant Chests" = true
 	"Variant Bookshelves" = true
 	Thatch = true
@@ -277,7 +277,7 @@
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
 		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = false
+		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
 
 	[management.easy_transfering]
@@ -310,7 +310,7 @@
 	"Color Runes" = true
 	"Bundle Recipe" = true
 	"Bottled Cloud" = true
-	"Beacon Redirection" = false
+	"Beacon Redirection" = true
 	"Ancient Tomes" = true
 	"Ambient Discs" = true
 	Abacus = true
@@ -460,7 +460,7 @@
 	"Vexes Die With Their Masters" = true
 	"Utility Recipes" = true
 	"Sponge On Water Placement" = true
-	"Snow Golem Player Heads" = false
+	"Snow Golem Player Heads" = true
 	"Slabs To Blocks" = true
 	"Simple Harvest" = true
 	"Sign Editing" = true
@@ -536,7 +536,7 @@
 		"Do Harvesting Search" = true
 		#Which crops can be harvested?
 		#Format is: "harvestState[,afterHarvest]", i.e. "minecraft:wheat[age=7]" or "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]"
-		"Harvestable Blocks" = ["minecraft:wheat[age=7]", "minecraft:carrots[age=7]", "minecraft:potatoes[age=7]", "minecraft:beetroots[age=3]", "minecraft:nether_wart[age=3]", "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]", "minecraft:cocoa[age=2,facing=south],minecraft:cocoa[age=0,facing=south]", "minecraft:cocoa[age=2,facing=east],minecraft:cocoa[age=0,facing=east]", "minecraft:cocoa[age=2,facing=west],minecraft:cocoa[age=0,facing=west]"]
+		"Harvestable Blocks" = ["minecraft:wheat[age=7]", "minecraft:carrots[age=7]", "minecraft:potatoes[age=7]", "minecraft:beetroots[age=3]", "minecraft:nether_wart[age=3]", "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]", "minecraft:cocoa[age=2,facing=south],minecraft:cocoa[age=0,facing=south]", "minecraft:cocoa[age=2,facing=east],minecraft:cocoa[age=0,facing=east]", "minecraft:cocoa[age=2,facing=west],minecraft:cocoa[age=0,facing=west]", "immersiveengineering:hemp[growth=bottom4],immersiveengineering:hemp[growth=bottom0]", "thermal:amaranth[age=6,top=false],thermal:amaranth[age=0,top=false]", "thermal:corn[age=6,top=false],thermal:corn[age=0,top=false]"]
 		#Which blocks should right click harvesting simulate a click on instead of breaking?
 		#This is for blocks like sweet berry bushes, which have right click harvesting built in.
 		"Right Clickable Blocks" = ["minecraft:sweet_berry_bush", "minecraft:cave_vines"]
@@ -1537,10 +1537,10 @@
 		"Vertical Shift" = 0
 
 [oddities]
-	"Totem Of Holding" = false
+	"Totem Of Holding" = true
 	"Tiny Potato" = true
 	Pipes = true
-	"Matrix Enchanting" = false
+	"Matrix Enchanting" = true
 	Magnets = true
 	Crate = true
 	Backpack = true
