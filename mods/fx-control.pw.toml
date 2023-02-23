@@ -1,6 +1,6 @@
 name = "Fx Control!"
 filename = "fxcontrol-1.19-4.0.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9Y4LQBHG/versions/BxJzU8pT/fxcontrol-1.19-4.0.10.jar"

@@ -1,13 +1,13 @@
 name = "ServerConfig Updater"
-filename = "serverconfigupdater-3.1.jar"
+filename = "serverconfigupdater-3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d8ca3581e4d0c51c32541e2fe6545c9fdcd01087"
+hash = "44160d2bec8a0a14d4cbd0c1e6ad4907f1354641"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4055305
+file-id = 4406461
 project-id = 365281
