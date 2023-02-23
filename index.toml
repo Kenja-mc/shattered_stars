@@ -359,6 +359,11 @@ hash = "e3b9d711182ecd029ccf9aed0954b8a37e9b9742b309d24909446a0e82a93531"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "a37ce4894d3fe5dd92a18060e756c536e7d9694586dff02f0f28677640b83763"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "59e9970f526b5fa0442adbaedd7bb53f9092bea36e7a5942014f905e0bf3ae5f"
 metafile = true
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "2a3627e70bfae32d33e2b8fb694410db7caa96d51a9a9dfe46ff98a033f63935"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "4932c23c8228894af61844bab27073f9d189a061459ccc4f14c8dbd94c0e238c"
 metafile = true
 
 [[files]]
