@@ -1,0 +1,15 @@
+[
+    // {
+    //     "mob": "thermal:blitz",
+    //     "persecond": 0.5,
+    //     "attempts": 20,
+    //     "amount": {
+    //       "minimum": 1,
+    //       "maximum": 1
+    //     },
+    //     "conditions": {
+    //       "dimension": "minecraft:overworld",
+    //       "maxhostile": 200
+    //     }
+    // }
+]

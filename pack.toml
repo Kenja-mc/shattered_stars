@@ -1,12 +1,12 @@
 name = "shattered_stars"
-author = "Kenja__, Strange-Bird-of-the-Moon"
-version = "2.2.0"
+author = "Kenja, Strange-Bird-of-the-Moon"
+version = "2.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "668053c668f6474ee1b548d7fb67e1115990c9fa8bb1a4fb71391b9bde78f4aa"
+hash = "cf7931c3ebaffa57240fbef8f0678abcedb861ff458227d34d7159b373cf45dc"
 
 [versions]
 forge = "43.2.0"
