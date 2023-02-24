@@ -1,0 +1,28 @@
+name: main Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Create Release
+        uses: anton-yurchenko/git-release@v5.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHANGELOG_FILE: "CHANGELOG.md"
+          ALLOW_EMPTY_CHANGELOG: "false"
+        # with:
+        #   args: |
+        #     shattered_stars.mrpack
+        #     shattered_stars.zip
+
+      - name: Modrinth Publish .mrpack
+        uses: Warped-Modding/mrpack-upload@v0

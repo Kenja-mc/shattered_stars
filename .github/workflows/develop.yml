@@ -1,0 +1,48 @@
+name: develop pre-release
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  develop:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Changelog updates done manually for now
+      # - name: Changelog Updater
+      #   uses: stefanzweifel/changelog-updater-action@v1.6.2
+
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+
+      - name: Build Packwiz
+        run: go install github.com/comp500/packwiz@latest
+
+      - name: Create .mrpack
+        id: mrexport
+        run: packwiz mr export
+
+      - name: Create curseforge .zip
+        id: cfexport
+        run: packwiz cf export
+
+      - name: Create pre release
+        id: prerelease
+        uses: anton-yurchenko/git-release@v5.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHANGELOG_FILE: "CHANGELOG.md"
+          ALLOW_EMPTY_CHANGELOG: "false"
+          UNRELEASED: "update"
+        # with:
+        #   args: |
+        #     shattered_stars-*.mrpack
+        #     shattered_stars-*.zip
+
