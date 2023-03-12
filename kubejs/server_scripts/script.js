@@ -1,27 +1,13 @@
-// priority: 0
+// priority: 1
 
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
 ServerEvents.recipes(event => {
 	// Change recipes here
 
-	// Remove all recipes relating to Thermal Cultivation Flax, Tea, Onion and Rice
-	
-	// Items to remove
-	// Removing Thermal Cultivation Crop overlap 
-	event.remove({input: 'thermal:flax_block'});
-	event.remove({input: 'thermal:flax'});
-	event.remove({input: 'thermal:flax_seeds'});
-	event.remove({input: 'thermal:tea_seeds'});
-	event.remove({input: 'thermal:tea'});
-	event.remove({input: 'thermal:tea_block'});
-	event.remove({input: 'thermal:onion_seeds'});
-	event.remove({input: 'thermal:onion'});
-	event.remove({input: 'thermal:onion_block'});
-	event.remove({input: 'thermal:rice_seeds'});
-	event.remove({input: 'thermal:rice'});
-	event.remove({input: 'thermal:rice_block'});
-
+	// event.remove({id: 'create:crafting/materials/andesite_alloy'});
+	// event.remove({id: 'create:mixing/andesite_alloy_from_zinc'});
+	// event.remove({id: 'create:mixing/andesite_alloy'});
 })
 
 ServerEvents.tags('item', event => {
@@ -30,4 +16,10 @@ ServerEvents.tags('item', event => {
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
+
+	event.add('forge:ingots/wrought_iron', 'kubejs:wrought_iron_ingot');
+	event.add('forge:ingots/cast_iron', 'kubejs:cast_iron_ingot');
+	event.add('forge:ingots/pig_iron', 'kubejs:pig_iron_ingot');
+
+
 })
