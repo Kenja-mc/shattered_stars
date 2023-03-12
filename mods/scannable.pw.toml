@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqFnwJHf/versions/UByPW55W/scannable-MC1.19.2-forge-1.7.7%2Bdc5ea09.jar"
+hash-format = "sha1"
+hash = "2c0826c8b116f373aba17a524897da73b4c85c5b"
+
+[update]
+[update.modrinth]
+mod-id = "YqFnwJHf"
+version = "UByPW55W"
