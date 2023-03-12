@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 3, 2023, 6:35:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 25, 2023, 8:11:01 PM
 
 #minecraft:axolotl_always_hostiles
 - minecraft:drowned (from Default)
@@ -10,6 +10,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:polar_bear (from Default)
 - minecraft:snow_golem (from Default)
 - minecraft:wither (from Default)
+- thermal:blizz (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#immersiveengineering:shaderbag/blacklist
+- minecraft:wither (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:iron_golem (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:impact_projectiles
 - #minecraft:arrows (from Default)
@@ -20,6 +25,29 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:trident (from Default)
 - minecraft:dragon_fireball (from Default)
 - minecraft:wither_skull (from Default)
+- thermal:basalz_projectile (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:blitz_projectile (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:blizz_projectile (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#automobility:dash_panel_boostables
+- minecraft:arrow (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:boat (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:donkey (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:falling_block (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:horse (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:llama (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:minecart (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:mule (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:pig (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:strider (from automobility-0.4.1+1.19.2-forge.jar)
+- minecraft:tnt (from automobility-0.4.1+1.19.2-forge.jar)
+- balloonist:balloon? (from automobility-0.4.1+1.19.2-forge.jar)
+- gravityguns:block? (from automobility-0.4.1+1.19.2-forge.jar)
+- hyperstellar:ship? (from automobility-0.4.1+1.19.2-forge.jar)
+- lovely_snails:snail? (from automobility-0.4.1+1.19.2-forge.jar)
+- owf:sled? (from automobility-0.4.1+1.19.2-forge.jar)
+- wackyvessels:submarine_vessel? (from automobility-0.4.1+1.19.2-forge.jar)
+- wackyvessels:airship_vessel? (from automobility-0.4.1+1.19.2-forge.jar)
 
 #minecraft:beehive_inhabitors
 - minecraft:bee (from Default)
@@ -28,6 +56,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:skeleton (from Default)
 - minecraft:stray (from Default)
 - minecraft:wither_skeleton (from Default)
+
+#delightful:drops_raw_goat
+- minecraft:goat (from Delightful-1.19-3.1.3.jar)
+
+#butchercraft:butcher_knife_animals
+- minecraft:cow (from butchercraft-2.2.1.jar)
+- minecraft:sheep (from butchercraft-2.2.1.jar)
+- minecraft:pig (from butchercraft-2.2.1.jar)
 
 #minecraft:arrows
 - minecraft:arrow (from Default)
@@ -50,6 +86,72 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:mule (from FarmersDelight-1.19-1.2.0.jar)
 - minecraft:llama (from FarmersDelight-1.19-1.2.0.jar)
 
+#delightful:drops_acorn
+- ecologics:squirrel? (from Delightful-1.19-3.1.3.jar)
+
+#delightful:fatty_animals
+- minecraft:cat (from Delightful-1.19-3.1.3.jar)
+- minecraft:wolf (from Delightful-1.19-3.1.3.jar)
+- minecraft:cod (from Delightful-1.19-3.1.3.jar)
+- minecraft:salmon (from Delightful-1.19-3.1.3.jar)
+- minecraft:cow (from Delightful-1.19-3.1.3.jar)
+- minecraft:dolphin (from Delightful-1.19-3.1.3.jar)
+- minecraft:donkey (from Delightful-1.19-3.1.3.jar)
+- minecraft:fox (from Delightful-1.19-3.1.3.jar)
+- minecraft:glow_squid (from Delightful-1.19-3.1.3.jar)
+- minecraft:squid (from Delightful-1.19-3.1.3.jar)
+- minecraft:goat (from Delightful-1.19-3.1.3.jar)
+- minecraft:hoglin (from Delightful-1.19-3.1.3.jar)
+- minecraft:horse (from Delightful-1.19-3.1.3.jar)
+- minecraft:llama (from Delightful-1.19-3.1.3.jar)
+- minecraft:mooshroom (from Delightful-1.19-3.1.3.jar)
+- minecraft:mule (from Delightful-1.19-3.1.3.jar)
+- minecraft:ocelot (from Delightful-1.19-3.1.3.jar)
+- minecraft:panda (from Delightful-1.19-3.1.3.jar)
+- minecraft:pig (from Delightful-1.19-3.1.3.jar)
+- minecraft:piglin (from Delightful-1.19-3.1.3.jar)
+- minecraft:piglin_brute (from Delightful-1.19-3.1.3.jar)
+- minecraft:polar_bear (from Delightful-1.19-3.1.3.jar)
+- minecraft:pufferfish (from Delightful-1.19-3.1.3.jar)
+- minecraft:rabbit (from Delightful-1.19-3.1.3.jar)
+- minecraft:sheep (from Delightful-1.19-3.1.3.jar)
+- minecraft:tropical_fish (from Delightful-1.19-3.1.3.jar)
+- minecraft:turtle (from Delightful-1.19-3.1.3.jar)
+- ecologics:camel? (from Delightful-1.19-3.1.3.jar)
+- ecologics:penguin? (from Delightful-1.19-3.1.3.jar)
+- ecologics:squirrel? (from Delightful-1.19-3.1.3.jar)
+- goodall:dumbo_octopus? (from Delightful-1.19-3.1.3.jar)
+- goodall:manatee? (from Delightful-1.19-3.1.3.jar)
+- goodall:red_deer? (from Delightful-1.19-3.1.3.jar)
+- goodall:seal? (from Delightful-1.19-3.1.3.jar)
+- goodall:white_tailed_deer? (from Delightful-1.19-3.1.3.jar)
+- neapolitan:chimpanzee? (from Delightful-1.19-3.1.3.jar)
+- naturalist:bear? (from Delightful-1.19-3.1.3.jar)
+- naturalist:boar? (from Delightful-1.19-3.1.3.jar)
+- naturalist:deer? (from Delightful-1.19-3.1.3.jar)
+- naturalist:elephant? (from Delightful-1.19-3.1.3.jar)
+- naturalist:giraffe? (from Delightful-1.19-3.1.3.jar)
+- naturalist:hippo? (from Delightful-1.19-3.1.3.jar)
+- naturalist:lion? (from Delightful-1.19-3.1.3.jar)
+- naturalist:rhino? (from Delightful-1.19-3.1.3.jar)
+- naturalist:zebra? (from Delightful-1.19-3.1.3.jar)
+- duckling:duck? (from Delightful-1.19-3.1.3.jar)
+- duckling:quackling? (from Delightful-1.19-3.1.3.jar)
+- buzzier_bees:moobloom? (from Delightful-1.19-3.1.3.jar)
+- buzzier_bees:grizzly_bear? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:ancientscale? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:battlegill? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:devilfish? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:islehopper? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:plentifin? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:pondie? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:splashtail? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:stormfish? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:wildsplash? (from Delightful-1.19-3.1.3.jar)
+- fishofthieves:wrecker? (from Delightful-1.19-3.1.3.jar)
+- ars_nouveau:starbuncle? (from Delightful-1.19-3.1.3.jar)
+- aqcaracal:caracal? (from Delightful-1.19-3.1.3.jar)
+
 #forge:bosses
 - minecraft:ender_dragon (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:wither (from forge-1.19.2-43.2.0-universal.jar)
@@ -67,6 +169,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:endermite (from Default)
 - minecraft:silverfish (from Default)
 - minecraft:fox (from Default)
+- thermal:blizz (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #minecraft:axolotl_hunt_targets
 - minecraft:tropical_fish (from Default)

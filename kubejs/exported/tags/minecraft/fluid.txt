@@ -1,7 +1,7 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 3, 2023, 6:35:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 25, 2023, 8:11:01 PM
 
-#forge:experience
-- cofh_core:experience (from cofh_core-1.19.2-10.0.2.33.jar)
+#forge:crude_oil
+- thermal:crude_oil (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #minecraft:water
 - minecraft:water (from Default)
@@ -9,24 +9,38 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
 - sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
 
+#forge:biodiesel
+- immersiveengineering:biodiesel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:redstone
+- thermal:redstone (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #forge:milk
 - minecraft:milk? (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:flowing_milk? (from forge-1.19.2-43.2.0-universal.jar)
 
-#forge:tea
-- create:flowing_tea (from create-1.19.2-0.5.0.i.jar)
-- create:tea (from create-1.19.2-0.5.0.i.jar)
+#forge:herbicide
+- immersiveengineering:herbicide (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #sliceanddice:moisturizing
 - minecraft:water (from sliceanddice-2.0.0.jar)
+
+#forge:plantoil
+- immersiveengineering:plantoil (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:lava
 - minecraft:lava (from Default)
 - minecraft:flowing_lava (from Default)
 
+#forge:gaseous
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #sliceanddice:fertilizer
 - sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
 - sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
+
+#forge:ethanol
+- immersiveengineering:ethanol (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #create:bottomless/deny
 
@@ -34,17 +48,53 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - create:flowing_chocolate (from create-1.19.2-0.5.0.i.jar)
 - create:chocolate (from create-1.19.2-0.5.0.i.jar)
 
+#forge:redstone_acid
+- immersiveengineering:redstone_acid (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #create:bottomless/allow
 - minecraft:water (from create-1.19.2-0.5.0.i.jar)
 - minecraft:lava (from create-1.19.2-0.5.0.i.jar)
 
-#forge:honey
-- cofh_core:honey (from cofh_core-1.19.2-10.0.2.33.jar)
-- create:flowing_honey (from create-1.19.2-0.5.0.i.jar)
-- create:honey (from create-1.19.2-0.5.0.i.jar)
+#forge:concrete
+- immersiveengineering:concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #sliceanddice:burning
 - minecraft:lava (from sliceanddice-2.0.0.jar)
 
 #forge:potion
-- cofh_core:potion (from cofh_core-1.19.2-10.0.2.33.jar)
+- cofh_core:potion (from cofh_core-1.19.2-10.2.1.40.jar)
+- immersiveengineering:potion (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:ender
+- thermal:ender (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:experience
+- cofh_core:experience (from cofh_core-1.19.2-10.2.1.40.jar)
+
+#forge:glowstone
+- thermal:glowstone (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.i.jar)
+- create:tea (from create-1.19.2-0.5.0.i.jar)
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:latex
+- thermal:latex (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:honey
+- cofh_core:honey (from cofh_core-1.19.2-10.2.1.40.jar)
+- create:flowing_honey (from create-1.19.2-0.5.0.i.jar)
+- create:honey (from create-1.19.2-0.5.0.i.jar)
+
+#forge:creosote
+- thermal:creosote (from thermal_core-1.19.2-10.2.0.5.jar)
+- immersiveengineering:creosote (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:phenolic_resin
+- immersiveengineering:phenolic_resin (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:acetaldehyde
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
