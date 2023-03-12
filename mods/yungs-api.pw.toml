@@ -1,13 +1,13 @@
 name = "YUNG's API"
-filename = "YungsApi-1.19.2-Forge-3.8.7.jar"
+filename = "YungsApi-1.19.2-Forge-3.8.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/YwHWUw19/YungsApi-1.19.2-Forge-3.8.7.jar"
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/LEuKu3qt/YungsApi-1.19.2-Forge-3.8.8.jar"
 hash-format = "sha1"
-hash = "14d1de69ad634ec5c16a8cc5e199ecffc4785c09"
+hash = "5120424563718417c3ebe63128b3aafe48931e4d"
 
 [update]
 [update.modrinth]
 mod-id = "Ua7DFN59"
-version = "YwHWUw19"
+version = "LEuKu3qt"
