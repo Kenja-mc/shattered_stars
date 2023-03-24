@@ -1,13 +1,13 @@
 name = "ScreenJS"
-filename = "screenJS-1.19.2-1.1.3.jar"
+filename = "screenJS-1.19.2-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "09fc40601c0924c54c319b5007d37dcec21f105f"
+hash = "5f38e84862d92d87c00c77fe9aaf817e2c84b5a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4414604
+file-id = 4445445
 project-id = 827112

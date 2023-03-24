@@ -1,14 +1,13 @@
-name = "KubeUtils"
-filename = "kube-utils-forge-1.0.1+mc1.19.2.jar"
+name = "Kube Utils"
+filename = "kube-utils-forge-1.0.2+mc1.19.2.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
-hash = "43edb1af3409d8339d41f5a890a08451291565bf"
+hash = "702134e82f4fd22d7cfd9b766f4c2928b55f9107"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4374271
+file-id = 4435954
 project-id = 678815
