@@ -1,0 +1,13 @@
+name = "beJS"
+filename = "beJS-1.19.2-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ecefdcbd5116b56fb83e88cb2607ac2c58fc694"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4420117
+project-id = 827114

@@ -1,13 +1,13 @@
 name = "Combat Roll"
-filename = "combatroll-forge-1.1.4+1.19.jar"
+filename = "combatroll-forge-1.1.5+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGKYL7st/versions/slz81V0J/combatroll-forge-1.1.4%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/vdae5kTA/combatroll-forge-1.1.5%2B1.19.jar"
 hash-format = "sha1"
-hash = "99bac520428307fadb4eaa04bbddfa9233e65aec"
+hash = "341db51c4091efe11eeba14649c71ac1a95caba4"
 
 [update]
 [update.modrinth]
 mod-id = "wGKYL7st"
-version = "slz81V0J"
+version = "vdae5kTA"

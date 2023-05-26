@@ -1,13 +1,13 @@
 name = "playerAnimator"
-filename = "player-animation-lib-forge-0.4.2.jar"
+filename = "player-animation-lib-forge-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "97485df0b8e22e29dfcd8d3c3b83005a81e63f19"
+hash = "e5f209aaab789eade2ef2c1a7dc37d6b20faa038"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4357568
+file-id = 4418149
 project-id = 658587

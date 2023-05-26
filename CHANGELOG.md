@@ -1,43 +1,76 @@
 Changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [2.2.1] - 1.19.2 - 2023-02-20
+## [3.2.0] - 1.19.2 - 2023-03-24
 
 ## Updated
-- cofh_core-server.toml
-- nutritionalbalance-server.toml
-    - Added nutrition to Thermal Cultivation Crops
-- thermal-server.toml
-- apotheosis/adventure.cfg
-    - Disabled Affixes in Apotheosis for now
-- KubeJS scripts
+- Apotheosis: Apotheosis-1.19.2-6.1.1.jar -> Apotheosis-1.19.2-6.1.5.jar
+- AttributeFix: AttributeFix-Forge-1.19.2-17.2.5.jar -> AttributeFix-Forge-1.19.2-17.2.6.jar
+- CraftTweaker: CraftTweaker-forge-1.19.2-10.1.38.jar -> CraftTweaker-forge-1.19.2-10.1.41.jar
+- CreateTweaker: CreateTweaker-1.19.2-3.0.0.3.jar -> CreateTweaker-1.19.2-3.0.0.5.jar
+- KubeUtils: kube-utils-forge-1.0.1+mc1.19.2.jar -> kube-utils-forge-1.0.2+mc1.19.2.jar
+- Placebo: Placebo-1.19.2-7.1.4.jar -> Placebo-1.19.2-7.1.7.jar
+- ScreenJS: screenJS-1.19.2-1.1.3.jar -> screenJS-1.19.2-1.1.4.jar
+- Moonlight Lib: moonlight-1.19.2-2.2.16-forge.jar -> moonlight-1.19.2-2.2.25-forge.jar
+- Supplementaries: supplementaries-1.19.2-2.2.57.jar -> supplementaries-1.19.2-2.2.60.jar
+- Tetra: tetra-1.19.2-5.0.2.jar -> tetra-1.19.2-5.1.0.jar
+- Balm: balm-forge-1.19.2-4.5.6.jar -> balm-forge-1.19.2-4.5.7.jar
+- Continents: Continents_1.19_v1.1.1.jar -> Continents_1.19.3_v1.1.2.jar
+- ChoiceTheorem's Overhauled Village: ctov-3.1.7.jar -> ctov-3.1.8.jar
+- JourneyMap: journeymap-1.19.2-5.9.3-forge.jar -> journeymap-1.19.2-5.9.4-forge.jar
+- Kotlin for Forge: kotlinforforge-3.10.0-all.jar -> kotlinforforge-3.11.0-all.jar
+- Log Begone: Log-Begone-Forge-1.19-1.0.4.jar -> Log-Begone-Forge-1.19-1.0.5.jar
+- No Telemetry: no-telemetry-1.6.0.jar -> no-telemetry-1.7.0.jar
+- Some Assembly Required: some-assembly-required-1.19.2-3.0.0.jar -> some-assembly-required-1.19.2-3.0.1.jar
+- spark: spark-1.10.29-forge.jar -> spark-1.10.34-forge.jar
+- Terralith: Terralith_v2.3.5.jar -> Terralith_1.19.3_v2.3.7b.jar
+- YUNG's API: YungsApi-1.19.2-Forge-3.8.8.jar -> YungsApi-1.19.2-Forge-3.8.9.jar
+- Art of Forging: A Tetra Addon: art_of_forging-1.6.1-1.19.2.jar -> art_of_forging-1.6.2-1.19.2.jar
+- Configured: configured-2.0.1-1.19.2.jar -> configured-2.1.1-1.19.2.jar
+- Lootr (Forge): lootr-1.19-0.3.22.59.jar -> lootr-1.19-0.4.23.60.jar
+- Moonlight Lib: moonlight-1.19.2-2.2.25-forge.jar -> moonlight-1.19.2-2.2.27-forge.jar
+- Supplementaries: supplementaries-1.19.2-2.2.60.jar -> supplementaries-1.19.2-2.2.64.jar
+- Quark: Quark-3.4-394.jar -> Quark-3.4-395.jar
 
-- Updated incontro.pw.toml and fx-contro.pw.toml to make them both client and server side.
+- Disabled the supplementaries main menu button in the config because it was causing crashes.
 
-- Added config/incontrol/... and config/fxcontrol/...
-
-- CraftTweaker: CraftTweaker-forge-1.19.2-10.1.33.jar -> CraftTweaker-forge-1.19.2-10.1.36.jar
-- CreateTweaker: CreateTweaker-1.19.2-3.0.0.2.jar -> CreateTweaker-1.19.2-3.0.0.3.jar
-- ServerConfig Updater: serverconfigupdater-3.1.jar -> serverconfigupdater-3.2.jar
-- Blossom: blossom-forge-1.19.2-1.0.6.jar -> blossom-forge-1.19.2-1.0.7.jar
-- Combat Roll: combatroll-forge-1.1.2+1.19.jar -> combatroll-forge-1.1.4+1.19.jar
-- ChoiceTheorem's Overhauled Village: ctov-3.1.4.jar -> ctov-3.1.5.jar
-- ChoiceTheorem's Overhauled Village - Farmer Delight Add-on: ctov-farmers-delight-compat-1.1.jar -> ctov-farmers-delight-compat-1.2.jar
-- Curios API: curios-forge-1.19.2-5.1.1.0.jar -> curios-forge-1.19.2-5.1.2.2.jar
-- EntityCulling: entityculling-forge-1.5.2-mc1.19.1.jar -> entityculling-forge-1.6.1-mc1.19.2.jar
-- Kotlin for Forge: kotlinforforge-3.9.1-all.jar -> kotlinforforge-3.10.0-all.jar
-- Create Slice & Dice: sliceanddice-2.0.0.jar -> sliceanddice-2.0.1.jar
-- YUNG's API: YungsApi-1.19.2-Forge-3.8.2.jar -> YungsApi-1.19.2-Forge-3.8.7.jar
 
 ### Added
-- YungsBetterNetherFortresses
-- incontrol
-- mmmmmmmmmmmm
-- Moonlight Lib
-- YUNG's Better Nether Fortresses
+- [x] Refined Storage
+    - [x] Refined Storage Addons
+    - [x] Refined Cooking
+- [x] ~~Storage Drawers~~ Functional Storage
+     - [x] Titanium
+- Create Addons:
+    - [x] Create Ore Excavation
+    - [x] Compressed Creativity
+    - [x] Create Jetpack
+    - [x] Create Crafts & Additions
+    - [x] Create: Broken Bad
+    - [x] Create Big Cannons
+    - [x] Create: The Factory Must Grow
+    - [x] Create Cafe
+    - [x] Create: Steam 'n Rails
+    - [x] Create Plus
+    - [x] Create Crafts & Additions
+    - [x] Create: Molten Geodes
+- Building Mods
+    - [x] Construction Wand
+    - [x] Accurate Block Placement
+    - [x] Building Gadgets
+    - [x] [BlockCarpentry](https://beta.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- Movement Mods:
+    - [x] Movement Plus
+    - [x] GoProne
+- [x] [Shutup Experimental Settings](https://beta.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
+- [x] Towns and Towers
+- [x] Powershot
+- [x] Cultural Delights
+- [x] Configured
+- [x] Compact Storage
+- [x] Inventory Sorter
 
 ### Removed
-- Infectum
-    - Temporarily removed for now
-- First Aid
-    - Temporarily removed for now
+- [x] Packages
+- [x] World Stripper
+- [x] Iron Chests Restocked

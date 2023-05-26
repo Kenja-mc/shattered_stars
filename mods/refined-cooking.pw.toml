@@ -1,0 +1,13 @@
+name = "Refined Cooking"
+filename = "refinedcooking-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AOuwe9He/versions/6IuJYH2c/refinedcooking-3.0.1.jar"
+hash-format = "sha1"
+hash = "2342809372a9c2484d52f30cb8d18fa669fc417f"
+
+[update]
+[update.modrinth]
+mod-id = "AOuwe9He"
+version = "6IuJYH2c"

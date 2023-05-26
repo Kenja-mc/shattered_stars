@@ -1,14 +1,13 @@
 name = "Terralith"
-filename = "Terralith_v2.3.5.jar"
+filename = "Terralith_1.19.3_v2.3.7b.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/Wd3Co0mZ/Terralith_v2.3.5.jar"
-hash-format = "sha512"
-hash = "ebd964c409374f80c333ce10a22954353e17860c55c5db1605ef601d1e056d244667a7723157d4e5ac857233057a29c8b881f962d5f75956ff34c1da6ef8f2e0"
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/1latp88m/Terralith_1.19.3_v2.3.7b.jar"
+hash-format = "sha1"
+hash = "d886da3705ad6ffca075d9b60ae2267c61f15d32"
 
 [update]
 [update.modrinth]
 mod-id = "8oi3bsk5"
-version = "Wd3Co0mZ"
+version = "1latp88m"
