@@ -21,7 +21,7 @@
             ],
             "key": "machete/",
             "attributes": {
-                "generic.attack_speed": -1.8
+                "generic.attack_speed": -1.5
             },
             "aspects": {
                 "edgedWeapon": 2,
@@ -32,6 +32,10 @@
                 "sweeping": [
                     1,
                     0.5
+                ],
+                "severing": [
+                    15,
+                    3
                 ],
                 "strikingCut": 1,
                 "sweepingStrike": 1
@@ -45,10 +49,16 @@
             "durability": -20,
             "extract": {
                 "primaryAttributes": {
-                    "generic.attack_damage": 1
+                    "generic.attack_damage": 0.9
                 },
                 "secondaryAttributes": {
                     "generic.attack_speed": -0.1
+                },
+                "primaryEffects": {
+                    "sweeping": 0.5
+                },
+                "tertiaryEffects": {
+                    "sweeping": 0.5
                 },
                 "tools": {
                     "cut": [
