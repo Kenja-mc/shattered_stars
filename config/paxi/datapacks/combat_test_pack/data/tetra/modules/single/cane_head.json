@@ -26,17 +26,14 @@
             },
             "extract": {
                 "primaryAttributes": {
-                    "generic.attack_damage": 0.2,
-                    "generic.armor": 0.08
+                    "generic.attack_damage": 0.2
                 },
                 "secondaryAttributes": {
                     "generic.attack_speed": -0.1,
                     "generic.attack_damage": 0.1,
                     "generic.movement_speed": -0.01
                 },
-                "tertiaryAttributes": {
-                    "generic.armor": -0.05
-                },
+                
                 "primaryEffects": {
                     "stun": 0.1
                 },
