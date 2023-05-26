@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## Updated
 - Apotheosis: Apotheosis-1.19.2-6.1.1.jar -> Apotheosis-1.19.2-6.1.5.jar
 - AttributeFix: AttributeFix-Forge-1.19.2-17.2.5.jar -> AttributeFix-Forge-1.19.2-17.2.6.jar
-- CraftTweaker: CraftTweaker-forge-1.19.2-10.1.38.jar -> CraftTweaker-forge-1.19.2-10.1.39.jar
+- CraftTweaker: CraftTweaker-forge-1.19.2-10.1.38.jar -> CraftTweaker-forge-1.19.2-10.1.41.jar
 - CreateTweaker: CreateTweaker-1.19.2-3.0.0.3.jar -> CreateTweaker-1.19.2-3.0.0.5.jar
 - KubeUtils: kube-utils-forge-1.0.1+mc1.19.2.jar -> kube-utils-forge-1.0.2+mc1.19.2.jar
 - Placebo: Placebo-1.19.2-7.1.4.jar -> Placebo-1.19.2-7.1.7.jar
@@ -25,8 +25,52 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - spark: spark-1.10.29-forge.jar -> spark-1.10.34-forge.jar
 - Terralith: Terralith_v2.3.5.jar -> Terralith_1.19.3_v2.3.7b.jar
 - YUNG's API: YungsApi-1.19.2-Forge-3.8.8.jar -> YungsApi-1.19.2-Forge-3.8.9.jar
+- Art of Forging: A Tetra Addon: art_of_forging-1.6.1-1.19.2.jar -> art_of_forging-1.6.2-1.19.2.jar
+- Configured: configured-2.0.1-1.19.2.jar -> configured-2.1.1-1.19.2.jar
+- Lootr (Forge): lootr-1.19-0.3.22.59.jar -> lootr-1.19-0.4.23.60.jar
+- Moonlight Lib: moonlight-1.19.2-2.2.25-forge.jar -> moonlight-1.19.2-2.2.27-forge.jar
+- Supplementaries: supplementaries-1.19.2-2.2.60.jar -> supplementaries-1.19.2-2.2.64.jar
+- Quark: Quark-3.4-394.jar -> Quark-3.4-395.jar
+
+- Disabled the supplementaries main menu button in the config because it was causing crashes.
+
 
 ### Added
-
+- [x] Refined Storage
+    - [x] Refined Storage Addons
+    - [x] Refined Cooking
+- [x] ~~Storage Drawers~~ Functional Storage
+     - [x] Titanium
+- Create Addons:
+    - [x] Create Ore Excavation
+    - [x] Compressed Creativity
+    - [x] Create Jetpack
+    - [x] Create Crafts & Additions
+    - [x] Create: Broken Bad
+    - [x] Create Big Cannons
+    - [x] Create: The Factory Must Grow
+    - [x] Create Cafe
+    - [x] Create: Steam 'n Rails
+    - [x] Create Plus
+    - [x] Create Crafts & Additions
+    - [x] Create: Molten Geodes
+- Building Mods
+    - [x] Construction Wand
+    - [x] Accurate Block Placement
+    - [x] Building Gadgets
+    - [x] [BlockCarpentry](https://beta.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- Movement Mods:
+    - [x] Movement Plus
+    - [x] GoProne
+- [x] [Shutup Experimental Settings](https://beta.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
+- [x] Towns and Towers
+- [x] Powershot
+- [x] Cultural Delights
+- [x] Configured
+- [x] Compact Storage
+- [x] Inventory Sorter
 
 ### Removed
+- [x] Packages
+- [x] World Stripper
+- [x] Iron Chests Restocked

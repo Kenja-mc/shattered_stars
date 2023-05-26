@@ -1,0 +1,13 @@
+name = "Cultural Delights"
+filename = "culturaldelights-1.19.2-0.15.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8f9c5a0c065f09b6f03aa7bbe03dee93c31c3a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4366957
+project-id = 574622
