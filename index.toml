@@ -5,6 +5,10 @@ file = "config/apotheosis/adventure.cfg"
 hash = "955d35a4437dbf007443296079bc848abf0ec00c058e53d560ca6e3cc6a42795"
 
 [[files]]
+file = "config/cobblegenrandomizer-common.toml"
+hash = "4554b88025564d15614d4a575d3b4857569daa5353f1325a35753f148ea795f8"
+
+[[files]]
 file = "config/cofh_core-client.toml"
 hash = "308bb7e904e226b1af363cef2a85260c188c5f466de51a214a888250c1a99aa6"
 
@@ -17,8 +21,716 @@ file = "config/do_a_barrel_roll-client.toml"
 hash = "3ef96f21daafd1d188c44c6e9531ffff008385d0e0950b1e29d5e91075dd3a52"
 
 [[files]]
+file = "config/fxcontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "8546a30df6191cb1a0585f09f923fee83106ef0a061bea0fee448d614c87ac27"
+
+[[files]]
+file = "config/incontrol/special.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "4b49d01041ad1b75c55853ec761d1a3ab07477bb3b8aa3201df319f8b2517abc"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/assets/tetra/lang/en_us.json"
+hash = "c053abbae4982442c28489d9d77968820c55de4577ebd0304ddc87b29f7410ca"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/anchor.json"
+hash = "199291e70e0e7f5c3413e51cd46506151e0ebe722d4e372bd8ace34897d57340"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/axe.json"
+hash = "6033eaca966532f54afc1da69833b30ab8326c4f6cb2337b77d8cdf5a3d2fdef"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "b1c2e43e440b360ad6d57b8e3be90b385759f451fda3a33e6576e15118031b1d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/claw.json"
+hash = "52d5cc52a8810ddc296ad8631404a44560eced0a8f231bd021114725c0260e32"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/claymore.json"
+hash = "2c81c9144f688e61a496189b0bc5670b8566504adfa8f4cbdf506c00ff45dbf9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/coral_blade.json"
+hash = "47a2e86a6cdfcda589addc966a416c7b943773a9d731c53d70df2c58d3eed932"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/cutlass.json"
+hash = "6cb15d539e6c78b2e4a4350d428bc49b052a6028ab656889aa99af3bedd9d7ad"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/dagger.json"
+hash = "1d06a20d30b4199ad6ea9d30bdcd6cc149a8bc37dcdefce279cbba927b8c5104"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "408e5d3f106dcf636617ba39732d8986c6a1267f4995863485541db1a4b22745"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/fist.json"
+hash = "e0409c22758216ec7f88e03f659e136d8952594811be12c71759b9fe5e6e79a8"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/glaive.json"
+hash = "9a11b5dd7c11c6c68132e5245d6784d848bf8ae1529e6aa825e3b0fb935fb880"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/halberd.json"
+hash = "3bf0813465587f9f3d4983f44581fac7943f595da3668f8d7cd00c2f881a224d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/hammer.json"
+hash = "dd3ebfbb5c96907187594c8d0e89a9fe5a70648d96954d35907764f386aeb234"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/heavy_axe.json"
+hash = "737205037cda194b9a1a7902413462dc0d2f644a1db5cf3f6589629277fbc88d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/katana.json"
+hash = "65e970d6752ab5cb08cf8cc2111a1adc07f19f2787b28a37ec6c74259078328d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/mace.json"
+hash = "e93619e5636de081358dd8317404a07d087df978d83530858112cb815f08fe19"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/pickaxe.json"
+hash = "bbae2a97f48ba2a6388664253b1c365c4ca8b26e49d3566c1b7b2cce2f3aeeb4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/rapier.json"
+hash = "bffa1616829027b0e42ca65d7a776e9060cd2bcefb40048e2cfe0cbf66c2127e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/scythe.json"
+hash = "e4775dc06748adcf975971af8472893928260556837241910c01010dd3fcd9b9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/sickle.json"
+hash = "b50131ff6897660df4f3dbd81fa46c142ce717d66a488bd2b5cbcbf12d0ecf12"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/soul_knife.json"
+hash = "df387462d4cf7d81555ddaea39a37fc3d0ca3e6c2012f51e56702fcf230d8f21"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/spear.json"
+hash = "2caabbdcff68d807f2c8e068c12ff9aa47e6d4dfd1a854e7b67dc775392225f2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/staff.json"
+hash = "e7238d52f26fc10a1486269a29b07093712361fa85011086d188837228cb2f3e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/sword.json"
+hash = "19a5e435c8da8c8e02cc496b596c2c895ac4e10c2c72f02236c71dbd2247b620"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/trident.json"
+hash = "6aec08e3aaa4b82e8f10290beba9eba492fd5c5473ba6b4f8ba65dad7705154f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/twin_blade.json"
+hash = "2933be44c86171f39e2a55dc0c2c140a82841d7853c2b783ae98d86a776eedbc"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/wand.json"
+hash = "9417e478365c9a2e658a281fda0b6ec6b5731eceab3f4f5b3acffc151834b053"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/hooked.json"
+hash = "f69773a3bc37eaccf2c5f136e18f1cb2434752c6c3153e883bf5ef4e88152e2a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/serrated.json"
+hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/tempered.json"
+hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/hooked.json"
+hash = "f69773a3bc37eaccf2c5f136e18f1cb2434752c6c3153e883bf5ef4e88152e2a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/serrated.json"
+hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/tempered.json"
+hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/flamberge_blade/serrated.json"
+hash = "3dc0d83c01a7aa498ce49a770af48ad875ff59d7228184f0af602d8438ebf1da"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/flamberge_blade/tempered.json"
+hash = "443e0296f0c25cc48f6104d3e1637e45bb3961e5c40ab98f03b0fc95529493a6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/murasama_imprv.json"
+hash = "c8aa5c505c94a8fc703ea19a961dcbea0b0ef05f14f313e51e71da75e98bc6e2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/serrated.json"
+hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/tempered.json"
+hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/rapier_blade/serrated.json"
+hash = "aac88b31bafff759fe5f1682c5dc8f4feb954d4b0bcf9a05d24cacd764a93d5f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/rapier_blade/tempered.json"
+hash = "744997d2879d7decf0a94e1fd21e457d915dab4d44cf0144483f18a407a23b8e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/saber_blade/hooked.json"
+hash = "9500f68022c540c3acd2a528b52fa979b34332d6fb01ebab8c42b4de58a07a43"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/saber_blade/serrated.json"
+hash = "aac88b31bafff759fe5f1682c5dc8f4feb954d4b0bcf9a05d24cacd764a93d5f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/bone.json"
+hash = "bcfe14531c2c38feed39634406a0f8e8c98cf455b60a953a102b27bbbad2e2be"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/compat/dragon_bone.json"
+hash = "64fa560309aed2e023e83dcbc9e6e74a38cf2e6f22bfd98246dec40736a19413"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/compat/wither_bone.json"
+hash = "77e81d4783f9a80b58bad47566b615bb391dc50a713e6aa19d35537a066937be"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool.json"
+hash = "a9a117f939bad58d4d34392618ddfca2baaed9b1e5e4b8b52ab0794aaaf219b8"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_black.json"
+hash = "c471515a1e34ed7089bf9428b7ddd5e7e1a40012e18f6b81f5ec4701703142bd"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_blue.json"
+hash = "b074a98e0f397b68ef27616ea52a0fa584de134e06b015441c792eead49b9f98"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_brown.json"
+hash = "a76e6c4ba54082f4efabd1cfaf3e400b27d98aaeceb3a9c8c02a56aca21cc60f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_cyan.json"
+hash = "a9fcc1e133656dbd9550cbf7cba232a87db26d449fe5a3bb7a1acf56cac504ee"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_gray.json"
+hash = "eab8af2bf20230db5abb5af7a063e05d34d73601d02352c439102097c7812103"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_green.json"
+hash = "1f7e76f2dedb839b47812d126280b1c17eb7548ef94f4b06d77a5554c598b9a6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_light_blue.json"
+hash = "bf12b8eef0276d7da94315a6f0e4ff04482bdc9bdb29089c9f159101e822e784"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_light_gray.json"
+hash = "1665c8db2fe0e7982062733ee542e94cfdedaa2bf3f00527af6b7a067b82f132"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_lime.json"
+hash = "0b2cbb4b9ec3db3edb188d3d89d536c3c01de61ff48d3da6e0a0f7e447f6aac4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_magenta.json"
+hash = "faf14643e8c08162a4403d61ff6e0fb65e59d86ebf4fb28ca34675dea7042416"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_orange.json"
+hash = "01e59ad9c5f4110a038c328edb8a213923f244ee457875a9cafe238c8a0a6092"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_pink.json"
+hash = "1db6fd8b235bc1eb77cc27d0c349a9c915b58d7cf6a93380f8ed04156e820e40"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_purple.json"
+hash = "81e5d9b57313540aaac21c7e6c03c0b90d6892fdc56be86519f94f8b2e9f9b04"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_red.json"
+hash = "145bed55796c9570e1c1bdf5c9ce3051f37808d361c131e6a487606ddcd02db6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_yellow.json"
+hash = "4a44cb4e2bc69f883904d5b7716b106c4566b443ba90d19ba4987bf534709c9b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/compat/hemp.json"
+hash = "00f4cb98c55f9247423f9cbccf891faabf021ca282a7bd7983047d9167f0a01d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/compat/mana_string.json"
+hash = "f88db4cbbc937a4ee8ff3c2e0dc04c20c21bca8fe817dabcdb7596b8a26d9920"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/dragon_sinew.json"
+hash = "89b356792614bb7da554093ff52cf0a6450a925af0d7fc8f0ba57bfd3b0813da"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/phantom_membrane.json"
+hash = "76b3da8cb632b4b1bc34d257e768347f400f6a9998aa7621ea54878eb5aba2fb"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/string.json"
+hash = "a8a49675a40989e24e99dc92a9e4831eab9193810e6c6309473dfc531c885bfa"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/twisting_vine.json"
+hash = "09cfb55c69735cc142ea067fd7ce9fc7a3a3c897aaf10a47604d2e5dc3d8db89"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/vine.json"
+hash = "09b629e3440c1aa29357fb4c640a7e36774ef5ed1eee46ed20b499a64410a451"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/weeping_vine.json"
+hash = "8d579ec5da24b905e68984ea799ce03af75c0a27a2cc617b4fb9c6b022a5aa5c"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/amethyst.json"
+hash = "a177c76a81cb24846e32fb87bfd70a1b0845c4c5ea5798ae375219768544bd85"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/agate.json"
+hash = "6738e59c9815502e1fb3e238cb38af01621a88b4f34222d3ec28feed760619fc"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/certus_quartz.json"
+hash = "7c0ccd3dbc5bfece3203306ab3a94537c7bd8d0722ec8e2f3e0d35de6fae5d09"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/citrine.json"
+hash = "ce6cc775aca6843e66e60a2f1c7d70b96521f15177d5e138415a23d7b6529251"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/ruby.json"
+hash = "8ac61b391b84e916e71ed85bd61d911b2bb22746248806d6926097aebe841367"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/sapphire.json"
+hash = "82e5068651bd184490cabb816da18cd792db4f958a54f0d336f66b4b102afff9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/serendibite.json"
+hash = "56cc9ac2a180175e61e4fd4ab0060d0f3855df47d06c51e332fc3fc245cad360"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/diamond.json"
+hash = "2e1de89ffcec9968dac51b9531734fd9be55457171fc8054bf1f0d8e3da896c7"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/emerald.json"
+hash = "1ce96f815e6799353922b1ebe172ff6e665bc98adffab914a4432cfe79b0bd80"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/bronze.json"
+hash = "f378daea140fe4f74eeb12708241435bfb366e17867e351e48a3d644b3bcd3d3"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/cast_iron.json"
+hash = "5e20e4d2b4edb2992139df40d026da525a71a16f4fd102fbb12a91db4d9ec741"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/electrum.json"
+hash = "d0573e6e090f2773df292253a96f545176fd9303c2c05ecb1371e866420eb29a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/lead.json"
+hash = "276eb452cd532f77f5fd6b7ba4daaae650dcb87090d83ae8d5041ec414006cf4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/nickel.json"
+hash = "2087bf14f9597c0e69c70619cf6d8eab5feb81daf99f063fb441895a414f56b7"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/silver.json"
+hash = "bbd0787e93c6f9c596a44c54903edf5cd5ce6bf74c966393eb011f9a14936fa7"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/steel.json"
+hash = "4058a7cfcf7cd8ba3c0d344dc17aa99932a23e8c39dead23fc0d01951e66ecd4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/tin.json"
+hash = "f62f8748bf146306336fbd80e11f12c055da094214586778cc7baf98a25108b1"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/copper.json"
+hash = "7ad256cc1a38bb3fbe30d632ef843936967dad7740b5a8b5fcac9342f8eab4dd"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/gold.json"
+hash = "1d00586f1942e07d0aab2e7bdaa277b55ab4590478d6da19d8fc8d86ad7cb951"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/iron.json"
+hash = "cc6a887bbf8773efa11fe3bf8629dd014e99505beb7d2ab5d0293c81d83e8fdb"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/netherite.json"
+hash = "1bba0dacdab3033cf3d7226b6c0c6320ff4cce3f143779c77f101fffbc81389c"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/misc/vent_plate.json"
+hash = "549db628a1e8737e9646e58638cfd0876fbcf10998de6f7418867a8478ff07f6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/bamboo.json"
+hash = "9e9c14561a195fce5d6b904aae6e1a15f20a1e2595d4351520d096d4b1dbd6b5"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/blaze_rod.json"
+hash = "119859cc6e6bc28bab0d3933415aea0e8bf8a4efc0cc3d4d4f643f5e27410609"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/end_rod.json"
+hash = "76c05b9cd303b00a31d6cc24415f28ed132eddd0a253b250ac14d9839082337c"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/forged_beam.json"
+hash = "38b3f837706170225f58172c41d36465f97954de88e65113dce1901ab6515a49"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/stick.json"
+hash = "a763d4e656afce8895ecbdcf6c1bc0e3f6808384b247cc34899df673e94ba4e2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/scale/shulker_shell.json"
+hash = "aa40d02077eded0627b78926f8954b805a13b3625da6bf48c480951f75a04457"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/scale/turtle_scute.json"
+hash = "9dc7d8602758af6c63dd5482787fc129a9e07b5ba5b917147234399821c05368"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/skin/hide.json"
+hash = "f2cbb8c089faf0811b21210bd72d39db0375248eac46c423342b102fb7007287"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/skin/leather.json"
+hash = "f89fa830d56162f4b27e726933c58dba3750fe168b6084344b2cbc7a7d92f2e9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/amethyst.json"
+hash = "cf9b716b64e92b65e1c917b01319c3adb76675995117c8af6cde184bba8103f2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/diamond.json"
+hash = "3364f4053b564306351013e881f13acf2664bc3fd29da95cddf2ec29c6acf126"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/emerald.json"
+hash = "5c750cc072c3c828e7c141c4bc27990519cc9a9295bc8f5b8144b5f46222c440"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/ender_pearl.json"
+hash = "ec564f682ee8d184d683b2a4fb2e6beb72f4e54a8f8599a7eca298e2cbbf466f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/lapis.json"
+hash = "1a983d16ee0a398473edb05a1df0d3b84bc73d9f6eb16cd2f7bca01efb922508"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/nether_star.json"
+hash = "dc5a4dca154494df91b39125dd87d3363664380f02a337a684b5d831463b1601"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_diamond.json"
+hash = "adec70a831d10b23605eacd45153f75f736b367b95a5ce47c31a4b10adc742d2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_emerald.json"
+hash = "1506cd385d4ee6d76f202d25b5a422ad631d5948d03e276dd8753aa5aea67e26"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_lapis.json"
+hash = "090eedba4aedf7a327490878003edb6db5fceb033ae324a15d089b2a13883fa6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/andesite.json"
+hash = "de9691ac23bc20e0278a083b2eaa3d0eb9e875be59630075521cd89a96406fe3"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/blackstone.json"
+hash = "3e5ca19ce545ef3ca99e8d6343da0c036e340ee5e0c1615564ee452e945c7a4b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/diorite.json"
+hash = "0903ffe0dd9563929e7cbc5a07795b37bc3d7cd411c08a4635c0214de22269e6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/flint.json"
+hash = "b735010a48e2fc14463db0e2caecf7d414800da3b074e05ea553a4db1f87e2af"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/granite.json"
+hash = "dc43e363e4f93955dd74a3dc0934b7619b7edbe5f8fd625c05b81520184a21f2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/obsidian.json"
+hash = "f740b04f56820cdfcdd700bd5df34dd40bcb002f4416198f5c5024a6102841e5"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/stone.json"
+hash = "0185be700ee4691f91e9c56c8423c629e134d15c349aeea8cfea959e7043016b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/acacia.json"
+hash = "51eaac2a15afb94cd5721ea89f01f4b78b19b31cbbd253eb48c1e0988a915b85"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/birch.json"
+hash = "2331cff5146e31ccdd93d8b313489e068c6e7af1e8f70c542515a46a2764ac0e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/ancient_wood.json"
+hash = "28fbe145bc2cdfab485897cfda5e174654563e56f2438a7f61c7ed16540383f5"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/baobab.json"
+hash = "731b78f10b0bb912ccec3f7891f826e98fa81e5d54bdd09100cb2f9f90f3f39b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/cherry.json"
+hash = "fdbb29a5d827ac88c73eece39f909012fd9986bc267a8e22b5acacf01e750feb"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/dreamwood.json"
+hash = "c2977d10af61be1aad49897f2c04a435b8f5c65cd67567a397a267b35367298d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/livingwood.json"
+hash = "9f57e359e9ac3b29057a7b7abe4beb5ecaaf6cef459cbe0dc596c31f1b37d2b0"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/maple.json"
+hash = "b6e1c4638e692188f9332e0a4b2af9e384e53ce223d960abafc466c65bdadc64"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/treated_wood.json"
+hash = "1eea6b7b8c3272274fc25af43e3536c672f7501946c4d6c074c28c44c1f9eb3d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/crimson.json"
+hash = "d3f49ed318c7e6820079f64b6412f91120a3c1e54fc8215b62e28ce06adc8f3e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/dark_oak.json"
+hash = "431f9e16fd981dac2313c6bc1825aaa159a1c061366ac12475fbe19173ebe842"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/jungle.json"
+hash = "0a4ae03e10eda7585b2c40b9e1446163ae09aec6ff79172d7cc4dbf0fd35baab"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/oak.json"
+hash = "252db6d558844ded26355a00c5efeacaca754cd4203fb3f7298bc925da405122"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/spruce.json"
+hash = "fe7012f73ed552ccf8dc01f866f83935542c3a825ad16adde804c4a3a636716b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/warped.json"
+hash = "4b4d56e71b8263fb27a9b96732048b953a0a6a98fd6e798757793c55ff1bd191"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/bow/recurve_stave.json"
+hash = "fd10e0beb8f4148eeb31c48c4f62f1d1cffbe5991c513a52598da382c60e1c3c"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_axe.json"
+hash = "1bb949887a1201648b26c74facbdf388d22e1ab6d49d75e977f540b848dc3ed4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_handle.json"
+hash = "1f28dd756b0f05b7f743216cd480d98c75c316cccc80238b00d7357058b258bb"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/hoe.json"
+hash = "36445d35fd53fb46b789f8fdffa708aa197ca20a3f7b72f5a9e201f556acd423"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/long_handle.json"
+hash = "b4ee138679802aa65014dbaa1526eed860d2c2d7b44c03bef1ba09b3abcef092"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/basic_handle.json"
+hash = "95cda1b0ed2484de4b9d87fbc5eb9464fca2f50e8e70b99c99f041e9923a003d"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/cane_head.json"
+hash = "ebc40e9a3dc446b80d2b4b216b8fdd67461b56a4788a296e139d43fd73c17e64"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/halberd_head.json"
+hash = "008e8cce7b54f7f04038f129b599f320cc1a4b61fa7b5232824edc2cfc41f7b4"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/light_handle.json"
+hash = "412e3ebcb08d6c8604f46e7900d6cdcc26507392169811b60cb61573581cc386"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/long_handle.json"
+hash = "252ed6dbb54a8a24f3e90ac8656decd344857f69af826c02e0ae6b80556e1235"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/mace_head.json"
+hash = "2cabbdb33ff7fe3be95a5538076f78eadfdff6b7ed05142b9ad8b6c18b956fc9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/quarter_staff_head.json"
+hash = "d6c46f9e399d676687d8b6edd2b90922a564d72f2c074b1b54118930155c827a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/spearhead.json"
+hash = "fda57321732d4617d545e88df1ff07fa850805816588b9b4aeb3cdfc202aaa14"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/trident.json"
+hash = "cb8157c55f352fe7d5068881bff56ecc69a01be5b28086a5b9c749a9db0be15a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/basic_blade.json"
+hash = "a047bae89d0a139421d65037de9127245b9326aec8ea5796ebfe9f8f347bd8a1"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/basic_hilt.json"
+hash = "4fd15a6fe765ecdf6ecf9ee1877612a910f6e7fe3f7941e98873a74fbfebbd2b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/bastard_blade.json"
+hash = "8e5287262c459ba9c8fd0eb5202bc29d8f5e12a3ae545abbd94af850a8152391"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/executioner_blade.json"
+hash = "ee5e16eba67ec30135e1b48ebf8eae52cbd788a042c5399740f0c8a17e065944"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/heavy_blade.json"
+hash = "59fbdc76824d9121ae3dfb397f65af936c7a3d0e311e76c3d5c2302420da5162"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/katana_blade.json"
+hash = "f831f67b325fa0cb9987558be0f7213d1e57d31fc43e215e3d3023779b418a09"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/machete.json"
+hash = "451fff5af22cd2e5956ecb87ce3cf8be1f8a8fa0137ad375a8e7af1a846715e7"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/rapier_blade.json"
+hash = "79cd41c657d759e48da59bef465effdabcfedd8209df0a048d7c89bcfa585d6a"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/saber_blade.json"
+hash = "27dd9265b3a622b5bb599b0a0d5c60be8e98d354e7501d96f1f97ca97bbae06e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/short_blade.json"
+hash = "f07eef929cafd610c5e8809369300c1726bfa5b71a60b732b3babbd1903c42fd"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/sturdy_guard.json"
+hash = "ffd1565676963365f35eb53f5a8ad9ab0ced4610e6566be95391c3108f17cca0"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/throwing_knife.json"
+hash = "f62e2f55e7ec6f8df2e2dc516a3d19171178189aecb6a5d702500c2a4ab588e6"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/wide_guard.json"
+hash = "c51736f19995fed7566dbd88fbbf07edc1f0d42c32395f4e111e8aab760a07fd"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/schematics/double/long_handle.json"
+hash = "f01dcb38eecc7051087ee132bddfd10f55400722a6053dda9f701d5e41337cde"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/schematics/single/head/halberd_head/halberd_head.json"
+hash = "2f9fdbcd758fc3abb632dfc76def3df795bf56a7b4b1cfb730f89a6f6b1ecad0"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetratic/configs/aof.json"
+hash = "3144b4edcbd02f66f362799da9a41c8b27370f204de063be2620dde4abde8fc2"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetratic/configs/tetra.json"
+hash = "7948fbbc6008bf7acfd09fdc449173996910e083a50953a1abd8cf85bd955432"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/pack.mcmeta"
+hash = "bb919a01d727153e2ee763a05da1b3a9cec656a0ba8ba157acc9671b6d8dc2de"
 
 [[files]]
 file = "config/paxi/datapacks/misc_recipes/data/crafting/recipes/copper_shears.json"
@@ -38,7 +750,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "210768bb0f162e93ee5ac2cffe3a6cf1711b575e06a479076f22f61592e8cbcc"
+hash = "7879462ed9ad376b0200b3f514ce9d8f8b419923a30c41ae97a7c65cccd91512"
 
 [[files]]
 file = "config/tetra.toml"
@@ -69,8 +781,24 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/cast_iron_ingot.png"
+hash = "d45753bf4f4a4c25ef8a9ab216d8c222bdd322b504eee9e5326ccb8089f4661e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/generic_ingot.png"
+hash = "1515f1dee421282e73782cf3f6579e922ea8b10c57f98431dc127ca8bab50668"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pig_iron_ingot.png"
+hash = "d8783d725b9f781a9c4a18094d4abe0c8bfae965fd538e9faca4c432fde82991"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/wrought_iron_ingot.png"
+hash = "34dc4e054e8ece81d3d82d5c388f552cdb75c6d5776dabe44b37b508a94cfa57"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
@@ -78,11 +806,11 @@ hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "86731186e71b1623bdd95a7eba08748d6078c4d312bb56e8f6a17323ef3abb60"
+hash = "02d8756d23bc82b5f793afc5192426b7eab8fb6ffe5def0e8b94b1816b955923"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "23d2e594580e727e03c43756170e03e84e94bc1fba5095de4da8c912aa2e22a2"
+hash = "6f7f031d5bc30195e4b7bf5102bec38b695d565ad477bd048e0e35707ab092f2"
 
 [[files]]
 file = "kubejs/exported/kubejs-server-export.json"
@@ -90,351 +818,364 @@ hash = "89680c7fc38312642271795129064b3f6690dc6a84e3963544ffb3d2210d03ba"
 
 [[files]]
 file = "kubejs/exported/tags/crafttweaker/condition_serializer.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/crafttweaker/transformer_serializer.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/forge/biome_modifier.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/forge/entity_data_serializers.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/forge/fluid_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/forge/global_loot_modifier_serializers.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/forge/structure_modifier.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/activity.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/attribute.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/banner_pattern.txt"
-hash = "f1e6e60a1593710241315e3583c3f9a6a233e86a1f3908f47355ee5601f7dbb5"
+hash = "f76df75bcde953d1418a0b062317925d10df1764ee67637113a39da81f015ac5"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/block.txt"
-hash = "9c0d42d851c5ee7d6462ddfdad195d0948dbb196a8e46bfb912470b25758e391"
+hash = "8b9360e1f652c159ce190e2d1a2e0c52f0610053c528e24c9d7dce4e4a4cf1c5"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/block_entity_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "789307541c51e586c34dc150f51ba3a606b099b38d3d755a42ac4cefdba023d5"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/block_predicate_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/cat_variant.txt"
-hash = "1d461aae0de95a3737502fd6cabdb2b0fbcbc6ccf12d7b5d6a299241261052bd"
+hash = "1b7499a94884c0d5028720f9d8550885091102470ec387692acc67520b5fd3e3"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/chat_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/chunk_status.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/command_argument_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/custom_stat.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/dimension_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/enchantment.txt"
-hash = "802f90690adc6f6f4165de2bb1fbd004655500fc0915901e57d7480688418f5c"
+hash = "13bc57ab6369f2d96464768128e492f014871bf6ab524c5d4e38573632c5f016"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/entity_type.txt"
-hash = "108a5cc97a00ab9372ede6f37f433dc3ce105b84c6f048e9a1b6662c21b325bb"
+hash = "d6fae9adc087e05638d8bf90211dd96080be43d375e9ddb8c729ad9967f302ff"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/float_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/fluid.txt"
-hash = "efd5072404ce5f016f8ce00204df78585c31b81c654ef9c35df68fd059420a02"
+hash = "ed30c920ff4c8c881a5f27825d6353831b7235bc14c0c0c75c477b3d530940ee"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/frog_variant.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/game_event.txt"
-hash = "e94c7942cff820e547e0d192a08e924f3125f5e9f6bc0ac1dc45607aba4e50a1"
+hash = "813b8309280417951a84c07be455bdc692a99c9e58662fcb76e5febfa5b8d43f"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/height_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/instrument.txt"
-hash = "83619561042011f7eb2d913575bd15821b221841c9a308e5975db8dbb03a42a7"
+hash = "9963e3b9941358f5d9d0fc7966f9f520ee12ed62dc037c4d629dd9d1d3d70dfc"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/int_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/item.txt"
-hash = "096c2b7b86260600ca46bd27ed6ddd064da3c9021be2f1e28046412330a7b1b4"
+hash = "b73a749cfee874c568ba73cf8d6557d45f3d8830961d69ba30118d23e1239ab4"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_condition_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_function_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_nbt_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_number_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_pool_entry_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/loot_score_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/memory_module_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/menu.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/mob_effect.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/painting_variant.txt"
-hash = "e5b57b5ae854fd6bd1b685c62d44c5d127b5ea16724daf78e8f2c98bd47ca251"
+hash = "3b490f2ca60ae5d4d6726e0c8de9d1373e52aa38f90d7e4d8d59826f6a5e8e5f"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/particle_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/point_of_interest_type.txt"
-hash = "2a9f6d4de0af9d7876938478aea0076ea91ebed79f5184aa79c8006480bf582f"
+hash = "a0e3b75489fb80fd83f5249b38c7fb876b68038b6050c6c6f9859ff613944220"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/pos_rule_test.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/position_source_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/potion.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/recipe_serializer.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/recipe_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/rule_test.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/schedule.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/sensor_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/sound_event.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/stat_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/villager_profession.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/villager_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/biome.txt"
-hash = "52d557d5c11cbd73dc3e69a6fd711c1c64324f2bffe0c1333cf6a534f5c6f4a0"
+hash = "3774b3b191654897e19f4330d95cad12ccc72c26eced4e3b742e1094b301a331"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/biome_source.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/block_state_provider_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/carver.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/chunk_generator.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/configured_carver.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/configured_feature.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/density_function.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/density_function_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/feature.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/feature_size_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/flat_level_generator_preset.txt"
-hash = "275c661167ab4906f6efa2be7fe5eb36df7de1e8f94a4b6e337707c205b8c005"
+hash = "131710f61a49080389f24fed825f1223e99ff0cc20bfbf3941f044abd0de842a"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/foliage_placer_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/material_condition.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/material_rule.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/noise.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/noise_settings.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/placed_feature.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/placement_modifier_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/processor_list.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/root_placer_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure.txt"
-hash = "418856ff9a5bc0abfba9cd9840b9f6280470ead0894390c28e6d81167b4bd9fa"
+hash = "9e87e96ce847dd6abf6ab29e6e6817eb01a801bf32b780e8657e7a8c4f2b42d6"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_piece.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_placement.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_pool_element.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_processor.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_set.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/structure_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/template_pool.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/tree_decorator_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/trunk_placer_type.txt"
-hash = "921797df589036a2be9ebf0e72e4b0db4be1341595f4c12ca9880eb7f67ff48f"
+hash = "50e43e946429828e6221dcaf89443280e6de7b89cbc17d92d1b1d76d02a4f91e"
 
 [[files]]
 file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
-hash = "11c6974e955f3e9724ab09d69003dcc62629e996caad5f1229bc531dfafc30ec"
+hash = "07cd15ca8cfba5e0ee49a82dab66e31649e997df09de55a9483c8556ee99f19d"
+
+[[files]]
+file = "kubejs/exported/tags/moonlight/map_markers.txt"
+hash = "3efdc85cfbace16f4f648cf0d9bbc76faa0f6ef6dfdd9ff82d267edcc6c30e3b"
+
+[[files]]
+file = "kubejs/exported/tags/moonlight/soft_fluids.txt"
+hash = "3efdc85cfbace16f4f648cf0d9bbc76faa0f6ef6dfdd9ff82d267edcc6c30e3b"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "04c9136a60a36b344bf600cc005861afee4fb7ba6f4b7d13a7f0ef17e16a6969"
+hash = "20f50bfb1abbd407b4ae07a14944bffcb554cca9876507d5750a6393c6a68a0a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
+hash = "a354c33550a58e879968377e65449bce505e24e110103069956369273c3b2b7b"
+
+[[files]]
+file = "mods/accurate-block-placement-reforged.pw.toml"
+hash = "d12206a94b405bbeb884e2de946dba24313be990ee6bf7c2927160e6825be0a9"
+metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -448,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "27f7d8717daf931f1295fac200904bdfee985936a427b4ef4a286ddd34308594"
+hash = "6ca90bf914b24517e0b6b3596490f28f1dc3757dd28a1243f5e5d8ede316cc30"
 metafile = true
 
 [[files]]
@@ -463,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "4277c9ea1350361ff82e1a67bbebc42ac8f8ac6ccd3a7085c3972a1d5d66b388"
+hash = "eda154b8a43f974f291cbbc1172b3f10f96bd831bfad8679819a843fe22d51fe"
 metafile = true
 
 [[files]]
@@ -473,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "55e7b06eb9bb8d3a8d993cb9232c90c3054acad3ab1f51c06fb712720a7669df"
+hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
 metafile = true
 
 [[files]]
@@ -488,12 +1229,22 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f6cbf049bf3d857ff70736e3cae7cb3b3cf42fe01142e7b38c1520e9209428f2"
+hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
+metafile = true
+
+[[files]]
+file = "mods/bejs.pw.toml"
+hash = "30fb0f5cc55c067e4902f7867912188aa003bc38d173f48553a64fddf2b770f7"
 metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "679ff153724bf9aec89645d48765f108fd75362e387b6e33e920e6ec5f33fba6"
+hash = "59089f654ca46ed99c21cf444b2095892096cff05a73d406bb821b467b26a842"
+metafile = true
+
+[[files]]
+file = "mods/blockcarpentry.pw.toml"
+hash = "9a0d4af8d4a3978163d19c6ad2be723e97feaa931c93592d817a74270f453619"
 metafile = true
 
 [[files]]
@@ -503,7 +1254,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e7a31bca2c89624f212365c8ba63364652ae7163af1b0d6effafb4f1b27c2d42"
+hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
@@ -532,23 +1288,43 @@ hash = "3c6e9f14e71e880b00b3c61a34cb9f7d3e65641b9aa5f6a549a1e257248224ec"
 metafile = true
 
 [[files]]
+file = "mods/cobblegenrandomizer.pw.toml"
+hash = "58786b1936fd2fb5363c06726ff29c8f4264861c7cdb6e0539e9adee2fa9e26c"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "e23bf79734607ac718d7ef76a45eac20387af0ce0f30b3d0ea40d31245671290"
 metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "72ca1878b9a461c2ed392072e137f3286079cc1932c0bee8b900d877491e0764"
+hash = "8cc83e5aea39258ea9d5f5c71f305e1175c2269f500c9d993c1e60f0008f8454"
+metafile = true
+
+[[files]]
+file = "mods/compact_storage.pw.toml"
+hash = "c83f3610cac6480e3513db4793e5d71b425a4df1579a3653f7f183490a29a9fe"
+metafile = true
+
+[[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "9179212f1c5496282242bf0ec9c634136a8649f3e968d6b760da939262ef6edf"
 metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "55fe6ab593105e257757c69572113ff554a92a1407899f4a8170e72d50e712bf"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "2015d20f522326afdb9005e3aeede79ea9ffaf5b3072274ae14c077943b62033"
 metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "49d330937c995cb37ad2e070ab1d6b2c13f5ab9be95720d1f99a137e419c62c3"
+hash = "070be0c173cc30cfeb25f889e93fbe2f8bf22c3ff1b0ec1aa2ae989ab51796de"
 metafile = true
 
 [[files]]
@@ -558,12 +1334,57 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "11b9e1462b5ebdbd13c92e44b4cfaa873d93435d77af721be1321d4a102b9e8c"
+hash = "087b1374fe3992e1ab5f16a2470d360c7d9b6ef6637780d93cb6550f30b02365"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "feea47fda06bc379af5260d12fe457d77a7b2450e62cfa5b880a51cb52932850"
+hash = "ceabf58671dd051c6f9e90c826af09f19fb3e58ae9e304860adbd03ac35932b7"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "66e1f2dd3270ba592a425db035fd894655ee32389385843f08ec0e18b8e38d3d"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "9dc3a19ef9d5bd176304c855401660ee8a843881506307182e0bc1f09651c454"
+metafile = true
+
+[[files]]
+file = "mods/create-cafe.pw.toml"
+hash = "140f4aba4372a9c09678a019fc5b8d92582287f5176f803945f7dc72219ffbe6"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "6b028a62655f93cf5d32938b4757d83612e857e21398fddf3fbbff808fab9927"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "b4fee3089c8ab14662e176e62d69d39a77d92859709673ca5e1d530fb54c11ce"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-geodes.pw.toml"
+hash = "b5f40d6ab8a6b895127ac07f9060d2ad73096f8d6a02233a7dacd3a957a84d5c"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "b90e4ea418d47eb8b6aadd4c8657ae896617052f9502152652be2b70acd7e4b8"
+metafile = true
+
+[[files]]
+file = "mods/create-plus.pw.toml"
+hash = "b7a0d2dc236c483c893b7111754498485ff289d01312bcd8bd5803479392564c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "d844311de3640f87d8466683950d98c1c95f09b8b36bf54fe2a929f826218410"
 metafile = true
 
 [[files]]
@@ -572,8 +1393,13 @@ hash = "b73ce95376567a9876985d12308d478d2cce342e0d540a3b8fd1403f42dc948b"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f34f82264fa68b8835a32e8f6ed507bd1cd2944a10cc566358ae2351e7b29437"
+metafile = true
+
+[[files]]
 file = "mods/createtweaker.pw.toml"
-hash = "e6683359cc2118b39e3724b0a26e1b0f38518bdc4a8f47d5e237f6b9c8ebeb0f"
+hash = "9b8c51bc5552dec6f4fafb2868bab682c5eb72b944a95263f14182f584cac52f"
 metafile = true
 
 [[files]]
@@ -583,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "14ecac1015e9d60ccb5e393ebb5924b835f65aa3aa624430f47afcdc62ed656e"
+hash = "83a200dae1efe42b935d5a5f669fe94bec830565ef822f640ec492c0e55e3f7c"
 metafile = true
 
 [[files]]
@@ -597,13 +1423,18 @@ hash = "0c793add13628f1ebaea6843fe54c77e4e2a5c1e1ca88efe67612b4dcbf318a5"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "610ad95829e81925004ed4a7b021959fc740129cab3eed854fc0ec609770f462"
+metafile = true
+
+[[files]]
 file = "mods/curios-quark-oddities-backpack.pw.toml"
 hash = "6b1c0608c9b365ae455695092be4f86e314907124f7c9856d012fc7cad0c8068"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "fbad70d17a360c39f11ea035f789ff07d1421ca80bd940bab9561ab884056f84"
+hash = "b07d672aac11371f221018f858874314192c3c2bb84b9cf90216c2be1c913280"
 metafile = true
 
 [[files]]
@@ -653,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
-hash = "0eef33260f4dcb2da3898bc9854655281423f347eaa192068d4f4f2313a6e461"
+hash = "d856975ba13e13d4fe4de7cc8d39caa74ddede04a80e9a7860903a0258a4bb7a"
 metafile = true
 
 [[files]]
@@ -677,8 +1508,18 @@ hash = "0c56bd81d012abdeac41386ac918e14f437e6f09e5bb28e6d91ccef2e88384ad"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "bfa38e9d294d0225683119393a782dc0193ee38950c670fd19b550c0af0ba15e"
+metafile = true
+
+[[files]]
 file = "mods/fx-control.pw.toml"
 hash = "73c13083b84dbbb604ca79ec1dea69b71e790f72b09e59465677a796a1226eeb"
+metafile = true
+
+[[files]]
+file = "mods/goprone.pw.toml"
+hash = "253853c31dac237fc82cbc31f68a1df6f7d6656fc3cc478228550d627fb150b1"
 metafile = true
 
 [[files]]
@@ -693,7 +1534,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "b185e27a51765a6c34548350227e468d108615db2c91cd96966da3a469b28932"
+hash = "87b06227c14f6fb6fdd3ac06ff4959161656cae006c898aafbb427ec9d8310f9"
 metafile = true
 
 [[files]]
@@ -702,8 +1543,8 @@ hash = "53f11ac8b5620238edbaaf5db05a8031d264221248a5c36c5a7a86a6f04c8f8f"
 metafile = true
 
 [[files]]
-file = "mods/ironchests.pw.toml"
-hash = "9d15fb9c800e8db3250fb4ae013e5dad8137491fba49d2497f2f49463dbc05af"
+file = "mods/inventory-sorter.pw.toml"
+hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
 
 [[files]]
@@ -713,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "37843a77555f43048f0fe9351bbed76aa4b46b1d7d8f941a940f07a32e34dc2b"
+hash = "3122f0b65cc0abe8f64c62888d86b428eb33eb812d911e6919e9115c8423bb41"
 metafile = true
 
 [[files]]
@@ -723,17 +1564,17 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3771e470a987db1273b97e7e58e290ffd626f3835c27c99c434097fafa232cb4"
+hash = "60a4f9da13f008e7470537f8940b55ed8d7809ba3c2595183b955fea85a85806"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "9206e44fbc91a547ba101892d5412a4bab3b9236261c2f1471184ef02232bfd6"
+hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
 metafile = true
 
 [[files]]
 file = "mods/kube-utils.pw.toml"
-hash = "54764a923b065d86171f30b61580cbfe4e9f2090958bbbf652311935675efc32"
+hash = "52d537fe3cb9d24b4077e6940c5affc766815e1b9a45c7275142edaab8c278dc"
 metafile = true
 
 [[files]]
@@ -748,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "f6b691a9e4a78c96c62fd8a9f46eebc6ebdfb47b01e6d4a37639a2d939666586"
+hash = "30f171b99bb16267ddcf9c46157970aa4c1e1ce5681cdda33f8610fc3ccbb976"
 metafile = true
 
 [[files]]
@@ -758,17 +1599,17 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "4df53639528c1d5752ccdb38fda14dbd9c5f60ec441e7b3a457a2918a09ee5fd"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
 metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "e3b9d711182ecd029ccf9aed0954b8a37e9b9742b309d24909446a0e82a93531"
+hash = "a7b1de81e297a6c375a4e11889bae5b4f82cfae8f0b23dec8c342c61bc10432a"
 metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "a37ce4894d3fe5dd92a18060e756c536e7d9694586dff02f0f28677640b83763"
+hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
 
 [[files]]
@@ -779,6 +1620,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
+file = "mods/movement-plus.pw.toml"
+hash = "c0a4f5a71be7eb463020c001d79328a1e5a5848d8404423420029ccd4dd9311e"
 metafile = true
 
 [[files]]
@@ -798,17 +1644,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "4f7281f41989118c6b2a441c182ed577d6e71f9f93d4368533bd6f5fc6ea3694"
+hash = "e615564d304b5c2905511ebec0204d2f6b3c0595d0945a306fe8b5536ddc6cb3"
 metafile = true
 
 [[files]]
 file = "mods/nutritional-balance.pw.toml"
 hash = "ae6bf77d8298be06cb6d95e707f2337ff49f4d8737a81a3b61dc270d0d05a5ee"
-metafile = true
-
-[[files]]
-file = "mods/packages.pw.toml"
-hash = "2f1f61091f4716ba6fe48ae4b94824f169d460e7f5fcaaf7838248a2aeafc1a6"
 metafile = true
 
 [[files]]
@@ -823,12 +1664,12 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "997b0a2ee714d012e405bee97cb806f182378a9a31cf2dac2afeb960a31922fd"
+hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "b31228db5fa6f653fe3067c8abd614b103d45fc4e326657fa6a41ce9b4d348b5"
+hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
 
 [[files]]
@@ -839,6 +1680,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "d3685a6f5ff1e2b32979192e068b9c1f5e04fac73e147a5a0c2f0a3fa8093b2b"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "ed138ade68d2cbd5de2e623f42b10fca32c6f4536baed85180f171d01b78c20d"
 metafile = true
 
 [[files]]
@@ -853,12 +1699,27 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2fe0d8d6b9dc02c1579dc65910ac26f046db707c2ed0813e9b347a7320e5ffd5"
+hash = "9be407e9e7137e655a52252f35b562c74774ddfe7edc13f1c899c759024a7add"
 metafile = true
 
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "c997b01c920a40f34096a6bd172c9f9d78b77b9ce9e80ad965bf6f4d081847b1"
+metafile = true
+
+[[files]]
+file = "mods/refined-cooking.pw.toml"
+hash = "9e310663baaad8de29792c25d8e6f148664eb58597a844105021f68353cac8fc"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
 metafile = true
 
 [[files]]
@@ -873,7 +1734,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "960a369b2d51d9bcda7353187e9379d51621a902388de5782ca7a7d2bf1da2a4"
+hash = "558977836ce669b99d82aadbcfc313720c89eb6bc295b3c9f769f7d034aaf1c0"
 metafile = true
 
 [[files]]
@@ -882,8 +1743,18 @@ hash = "2a3627e70bfae32d33e2b8fb694410db7caa96d51a9a9dfe46ff98a033f63935"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "6a601805761567750dea12d213f28d0063ac1c68fbc14c77f91d923a9d8fb118"
+metafile = true
+
+[[files]]
+file = "mods/screenjs.pw.toml"
+hash = "2cec7e1e33211d448ffc5794d91057219cd1facb616606327072ba21d0fa8484"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
-hash = "4932c23c8228894af61844bab27073f9d189a061459ccc4f14c8dbd94c0e238c"
+hash = "3f619cbae495c7372ae7e3badbdc07f1af06f6a4c59d8d8f0e23d59c261d9542"
 metafile = true
 
 [[files]]
@@ -892,18 +1763,23 @@ hash = "2df158cad477ccfe1204099a787e9a4b3e05803a0503804a68194ae1aa394bfb"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "a2893a339f2eb790625714b62f2653805a7208a8e91ec66458d6c9b6c212935b"
+hash = "fccb42c96d1e638773ed58547bbcfa3925c282022bb65afbbaf904e17cd41f67"
 metafile = true
 
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
-hash = "4a610cc1e50e46bc9c3f83355620e039c0fa443baed5b687093a182b7f36d3c6"
+hash = "f4caec8b3334a137f789620d681099a6b5c30bbaea27dfcf70f636dd2e28afec"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "dcce713339e8439339648019b3d7781414bbbc31ad21e2be52366bbebb374c4a"
+hash = "3a61b57fef770c8b5669439a6f20b29b168de767b8b624b22b3c9c8d80852169"
 metafile = true
 
 [[files]]
@@ -917,18 +1793,23 @@ hash = "3db733e1cad2b465e3d924b2b7e372dc063ecbd013ffa0b22225f27dfdad4e77"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6280f872e9ad38a701bf319c416445c42593f262f5657126a45de0ca4f31751f"
+metafile = true
+
+[[files]]
 file = "mods/tellme.pw.toml"
 hash = "b495e226ec531bccf07f6bd6c022dce36a13af72aaea2ba76e2f22992c2f1d7b"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "4abb977e75acf39451b0d74890b3e9c42674ca865c1c73dcab216f5d2b5a3c7f"
+hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "29cb5b33d82d045486651230f372e2412b087d97c5f1edc239cbd82e2b53d029"
+hash = "621ba044fdae2f860b4e3f94a17245817b8f470cf48c4b35589fd60b5d3d01f9"
 metafile = true
 
 [[files]]
@@ -952,18 +1833,23 @@ hash = "afd9b2b50903a0b5d73fd367349db2f492dbc07c79721e8ed0b9c1ba87870eb1"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "9834a4b5fb65eac236a935bcddd5c0a56632b8be5270fd80d3a838533584c2a2"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "f846c5299cc77e44928c1c13574e9abafd619042f0f83a4a874f70fcd8c6e3ac"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "957ff865b8349be0fb4a9fd7b2ef08e844ffd870113b0772fcfa74c67d4c53fc"
+file = "mods/towns-and-towers.pw.toml"
+hash = "bf32b25592e5d8b419ad95822474bf335544bdd2202315bbc7f7729f7decfabe"
 metafile = true
 
 [[files]]
-file = "mods/world-stripper.pw.toml"
-hash = "bf3f6418846c6f580f228c741e7169a6e0aa85967f537a6e48eb91149a802b5e"
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "957ff865b8349be0fb4a9fd7b2ef08e844ffd870113b0772fcfa74c67d4c53fc"
 metafile = true
 
 [[files]]
@@ -973,12 +1859,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "c2f0e15f4881c899112b6b75f1cc1ad628825ad7e9cd0a11b3b95bbe50675114"
+hash = "44c7e30bfa53ed30a681f3efed2755c3cff4db059ca3bcdc233ebad8f69e922e"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "d9abcfc042a281afcc89dbf6bd55e0f9b9e1ae15d7865cfe86cc5d3eabdad77a"
+hash = "476ea531803288c9981593f3421b361deb77004d99787a30c0cf002fac82ef31"
 metafile = true
 
 [[files]]
@@ -993,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "bca7119f3586909417c064fa9d0e8304109817482cb097b8fb4bbb11d1ce27fc"
+hash = "5f7428f17b961278b5c0c6c2ea20136a9fba23fafdef640a0dcfa9920249eb7e"
 metafile = true
 
 [[files]]
@@ -1020,3 +1906,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "c760b48e6c1a2fbc88ef0202a6d4e9559b61a280df2f374a9081edf3bb18bd8b"
 metafile = true
+
+[[files]]
+file = "scripts/presteam.zs"
+hash = "b03e324e3171d0b81251c033a56f37c396a008f9355e51c40ad1fcd30b482927"

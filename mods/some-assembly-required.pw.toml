@@ -1,13 +1,13 @@
 name = "Some Assembly Required"
-filename = "some-assembly-required-1.19.2-3.0.0.jar"
+filename = "some-assembly-required-1.19.2-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/uQ8np43e/some-assembly-required-1.19.2-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/KOZ5byfq/some-assembly-required-1.19.2-3.0.1.jar"
 hash-format = "sha1"
-hash = "8ca7b26686dc8973b52d31badafce7a477ba264b"
+hash = "5f1383791efa389bbf434b632e52993a96b736b3"
 
 [update]
 [update.modrinth]
 mod-id = "jZi8ogTA"
-version = "uQ8np43e"
+version = "KOZ5byfq"

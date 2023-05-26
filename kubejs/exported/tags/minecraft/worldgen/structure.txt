@@ -1,13 +1,19 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 3, 2023, 6:35:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 25, 2023, 8:11:01 PM
 
 #terralith:zpointer/terralith_fractured_savanna
 - terralith:zpointer/terralith_fractured_savanna (from Terralith_v2.3.5.jar)
+
+#dungeons_arise:explorer_maps/plague_asylum
+- dungeons_arise:plague_asylum (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #terralith:zpointer/minecraft_taiga
 - terralith:zpointer/minecraft_taiga (from Terralith_v2.3.5.jar)
 
 #terralith:zpointer/terralith_ice_marsh
 - terralith:zpointer/terralith_ice_marsh (from Terralith_v2.3.5.jar)
+
+#dungeons_arise:explorer_maps/illager_fort
+- dungeons_arise:illager_fort (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #terralith:zpointer/minecraft_bamboo_jungle
 - terralith:zpointer/minecraft_bamboo_jungle (from Terralith_v2.3.5.jar)
@@ -134,6 +140,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:large/village_snowy (from ctov-3.1.4.jar)
 - ctov:large/village_taiga (from ctov-3.1.4.jar)
 
+#dungeons_arise:explorer_maps/mushroom_mines
+- dungeons_arise:mushroom_mines (from DungeonsArise-1.19.2-2.1.52-beta.jar)
+
 #terralith:zpointer/terralith_alpha_islands
 - terralith:zpointer/terralith_alpha_islands (from Terralith_v2.3.5.jar)
 
@@ -182,6 +191,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #terralith:zpointer/minecraft_old_growth_spruce_taiga
 - terralith:zpointer/minecraft_old_growth_spruce_taiga (from Terralith_v2.3.5.jar)
+
+#dungeons_arise:explorer_maps/mining_system
+- dungeons_arise:mining_system (from DungeonsArise-1.19.2-2.1.52-beta.jar)
+
+#dungeons_arise:explorer_maps/illager_corsair
+- dungeons_arise:illager_corsair (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #terralith:zpointer/terralith_skylands_winter
 - terralith:zpointer/terralith_skylands_winter (from Terralith_v2.3.5.jar)
@@ -237,6 +252,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:large/village_taiga (from ctov-3.1.4.jar)
 - ctov:medium/village_taiga (from ctov-3.1.4.jar)
 - ctov:small/village_taiga (from ctov-3.1.4.jar)
+
+#dungeons_arise:explorer_maps/foundry
+- dungeons_arise:foundry (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #terralith:zpointer/terralith_desert_oasis
 - terralith:zpointer/terralith_desert_oasis (from Terralith_v2.3.5.jar)
@@ -445,6 +463,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #terralith:zpointer/terralith_basalt_cliffs
 - terralith:zpointer/terralith_basalt_cliffs (from Terralith_v2.3.5.jar)
 
+#dungeons_arise:explorer_maps/thornborn_towers
+- dungeons_arise:thornborn_towers (from DungeonsArise-1.19.2-2.1.52-beta.jar)
+
 #terralith:zpointer/terralith_bryce_canyon
 - terralith:zpointer/terralith_bryce_canyon (from Terralith_v2.3.5.jar)
 
@@ -466,11 +487,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #terralith:zpointer/minecraft_wooded_badlands
 - terralith:zpointer/minecraft_wooded_badlands (from Terralith_v2.3.5.jar)
 
+#dungeons_arise:explorer_maps/monastery
+- dungeons_arise:monastery (from DungeonsArise-1.19.2-2.1.52-beta.jar)
+
 #terralith:zpointer/terralith_alpine_highlands
 - terralith:zpointer/terralith_alpine_highlands (from Terralith_v2.3.5.jar)
 
 #terralith:zpointer/minecraft_stony_peaks
 - terralith:zpointer/minecraft_stony_peaks (from Terralith_v2.3.5.jar)
+
+#dungeons_arise:explorer_maps/illager_campsite
+- dungeons_arise:illager_campsite (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #minecraft:dolphin_located
 - #minecraft:ocean_ruin (from Default)
@@ -487,6 +514,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #terralith:zpointer/minecraft_old_growth_birch_forest
 - terralith:zpointer/minecraft_old_growth_birch_forest (from Terralith_v2.3.5.jar)
+
+#dungeons_arise:explorer_maps/shiraz_palace
+- dungeons_arise:shiraz_palace (from DungeonsArise-1.19.2-2.1.52-beta.jar)
 
 #terralith:zpointer/terralith_moonlight_valley
 - terralith:zpointer/terralith_moonlight_valley (from Terralith_v2.3.5.jar)

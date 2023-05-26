@@ -1,0 +1,13 @@
+name = "Compact Storage"
+filename = "compact_storage_forge-5.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CNYyGWn5/versions/e4GzePcU/compact_storage_forge-5.0.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "b68e3945558985522efb2eff074f6ac0724c64d3"
+
+[update]
+[update.modrinth]
+mod-id = "CNYyGWn5"
+version = "e4GzePcU"

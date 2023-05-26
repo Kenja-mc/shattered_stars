@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 3, 2023, 6:35:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 25, 2023, 8:11:01 PM
 
 #forge:cobblestone/mossy
 - minecraft:mossy_cobblestone (from forge-1.19.2-43.2.0-universal.jar)
@@ -69,6 +69,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #forge:glass_panes/light_gray
 - minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:storage_blocks/nickel
+- thermal:nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:storage_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:ores/niter
+- thermal:niter_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_niter_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
+#tconstruct:harvestable/stackable
+- immersiveengineering:hemp (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #terralith:geode_air
 - minecraft:bedrock (from Terralith_v2.3.5.jar)
@@ -180,6 +191,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:emerald_block (from forge-1.19.2-43.2.0-universal.jar)
 
 #forge:ores/redstone
+- #minecraft:redstone_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:redstone_ores (from forge-1.19.2-43.2.0-universal.jar)
 
 #minecraft:features_cannot_replace
@@ -189,6 +201,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:end_portal_frame (from Default)
 - minecraft:reinforced_deepslate (from Default)
 
+#forge:storage_blocks/uranium
+- immersiveengineering:storage_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:sheetmetals/nickel
+- immersiveengineering:sheetmetal_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#immersiveengineering:mineable/drill
+- #minecraft:mineable/shovel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #minecraft:mineable/pickaxe (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #farmersdelight:ropes
 - farmersdelight:rope (from FarmersDelight-1.19-1.2.0.jar)
 - quark:rope? (from FarmersDelight-1.19-1.2.0.jar)
@@ -196,6 +218,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #forge:glass/red
 - minecraft:red_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
+
+#chiselsandbits:chiselable/forced
+- immersiveengineering:insulating_glass (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:wooden_barrel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:turntable (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:crate (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:reinforced_crate (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:item_batcher (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fluid_sorter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sorter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_lv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_mv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_creative (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_barrel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:furnace_heater (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:dynamo (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:thermoelectric_generator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:sheetmetals/steel
+- immersiveengineering:sheetmetal_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #quark:pipes
 - quark:pipe (from Quark-3.4-389.jar)
@@ -312,6 +355,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - create:train_door (from create-1.19.2-0.5.0.i.jar)
 - create:framed_glass_door (from create-1.19.2-0.5.0.i.jar)
 
+#forge:storage_blocks/cinnabar
+- thermal:cinnabar_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #terralith:bso_gravel
 - #minecraft:base_stone_overworld (from Terralith_v2.3.5.jar)
 - minecraft:dripstone_block (from Terralith_v2.3.5.jar)
@@ -383,8 +429,18 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:white_bed (from Default)
 - minecraft:yellow_bed (from Default)
 
+#forge:sheetmetals/aluminum
+- immersiveengineering:sheetmetal_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:ores/diamond
+- #minecraft:diamond_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:diamond_ores (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:ores/lead
+- thermal:lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:doors
 - #minecraft:wooden_doors (from Default)
@@ -450,6 +506,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:potted_azalea_bush (from Default)
 - minecraft:potted_flowering_azalea_bush (from Default)
 - minecraft:potted_mangrove_propagule (from Default)
+- immersiveengineering:potted_hemp (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:potted_beetroot (from Quark-3.4-389.jar)
 - quark:potted_berries (from Quark-3.4-389.jar)
 - quark:potted_blue_blossom_sapling (from Quark-3.4-389.jar)
@@ -522,6 +579,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:smooth_basalt (from Terralith_v2.3.5.jar)
 - minecraft:blackstone (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/sugar_cane
+- thermal:sugar_cane_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:storage_blocks/signalum
+- thermal:signalum_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:storage_blocks/invar
+- thermal:invar_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
 #forge:needs_iron_tool
 - quark:gold_bars (from Quark-3.4-389.jar)
 - quark:raw_gold_bricks (from Quark-3.4-389.jar)
@@ -555,6 +621,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:packed_ice (from Default)
 - minecraft:raw_iron_block (from Default)
 - minecraft:raw_copper_block (from Default)
+
+#forge:ores/tin
+- thermal:tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
 
 #terralith:tophack/cyan_concrete
 - minecraft:cyan_concrete (from Terralith_v2.3.5.jar)
@@ -618,22 +688,26 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:sandstone (from Terralith_v2.3.5.jar)
 - minecraft:smooth_basalt (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/raw_nickel
+- thermal:raw_nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:raw_block_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #tetra:scannable
-- tetra:core_extractor (from tetra-1.19.2-5.0.0.jar)
-- tetra:extractor_pipe (from tetra-1.19.2-5.0.0.jar)
-- tetra:extractor_piston (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_container (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_crate (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_pillar (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_platform (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_platform_slab (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_vent (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_wall (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_workbench (from tetra-1.19.2-5.0.0.jar)
-- tetra:hammer_base (from tetra-1.19.2-5.0.0.jar)
-- tetra:hammer_head (from tetra-1.19.2-5.0.0.jar)
-- tetra:transfer_unit (from tetra-1.19.2-5.0.0.jar)
-- minecraft:ancient_debris (from tetra-1.19.2-5.0.0.jar)
+- tetra:core_extractor (from tetra-1.19.2-5.0.1.jar)
+- tetra:extractor_pipe (from tetra-1.19.2-5.0.1.jar)
+- tetra:extractor_piston (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_container (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_crate (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_pillar (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_platform (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_platform_slab (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_vent (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_wall (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_workbench (from tetra-1.19.2-5.0.1.jar)
+- tetra:hammer_base (from tetra-1.19.2-5.0.1.jar)
+- tetra:hammer_head (from tetra-1.19.2-5.0.1.jar)
+- tetra:transfer_unit (from tetra-1.19.2-5.0.1.jar)
+- minecraft:ancient_debris (from tetra-1.19.2-5.0.1.jar)
 
 #terralith:stone_only
 - minecraft:stone (from Terralith_v2.3.5.jar)
@@ -689,12 +763,31 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:organic_compost (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rich_soil (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rich_soil_farmland (from FarmersDelight-1.19-1.2.0.jar)
+- farmingforblockheads:fertilized_farmland_rich (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_healthy (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_healthy_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_rich_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- thermal:gunpowder_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:sawdust_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:tar_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:rosin_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:oil_sand (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:oil_red_sand (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:sawdust (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slag_gravel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- thermal:phytosoil (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:phytosoil_tilled (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 - quark:gravisand (from Quark-3.4-389.jar)
 - quark:dirt_bricks (from Quark-3.4-389.jar)
 - quark:dirt_bricks_wall (from Quark-3.4-389.jar)
 - quark:dirt_bricks_stairs (from Quark-3.4-389.jar)
 - quark:dirt_bricks_slab (from Quark-3.4-389.jar)
 - quark:dirt_bricks_vertical_slab (from Quark-3.4-389.jar)
+- automobility:grass_off_road (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:dirt_off_road (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:sand_off_road (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:snow_off_road (from automobility-0.4.1+1.19.2-forge.jar)
 
 #terralith:bso_iron
 - #minecraft:base_stone_overworld (from Terralith_v2.3.5.jar)
@@ -1470,6 +1563,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:red_sandstone (from Terralith_v2.3.5.jar)
 - minecraft:smooth_red_sandstone (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/sapphire
+- thermal:sapphire_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
 #forge:sand/colorless
 - minecraft:sand (from forge-1.19.2-43.2.0-universal.jar)
 
@@ -1536,8 +1632,47 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:soul_sandstone_wall (from Quark-3.4-389.jar)
 - quark:soul_sandstone_bricks_wall (from Quark-3.4-389.jar)
 
+#immersiveengineering:mineable/hammer
+- immersiveengineering:metal_ladder_none (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_alu (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #immersiveengineering:scaffoldings/steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #immersiveengineering:scaffoldings/aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_sprayed (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:strip_curtain (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:razor_wire (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:electric_lantern (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:floodlight (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_structural (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:post_transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:transformer_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:breaker_switch (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:redstone_breaker (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:current_transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_redstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_probe (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_bundled (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:feedthrough (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_lv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_lv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_mv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_mv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_hv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_basic (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_redstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_dropper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_splitter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_extract (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:storage_blocks/charcoal
+- thermal:charcoal_block (from thermal_core-1.19.2-10.2.0.5.jar)
 - quark:charcoal_block (from Quark-3.4-389.jar)
+
+#forge:sheetmetals/copper
+- immersiveengineering:sheetmetal_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:walls
 - minecraft:cobblestone_wall (from Default)
@@ -1670,6 +1805,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #forge:glass/green
 - minecraft:green_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
 
+#forge:storage_blocks/lead
+- thermal:lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:storage_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #terralith:diorite_targets
 - minecraft:stone (from Terralith_v2.3.5.jar)
 - minecraft:calcite (from Terralith_v2.3.5.jar)
@@ -1744,6 +1883,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:coarse_dirt (from Terralith_v2.3.5.jar)
 - minecraft:snow_block (from Terralith_v2.3.5.jar)
 
+#forge:fences/aluminum
+- immersiveengineering:alu_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:underwater_bonemeals
 - minecraft:seagrass (from Default)
 - #minecraft:corals (from Default)
@@ -1771,6 +1913,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:red_stained_glass (from Default)
 - minecraft:black_stained_glass (from Default)
 - minecraft:tinted_glass (from Default)
+- thermal:obsidian_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:signalum_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lumium_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:enderium_glass (from thermal_core-1.19.2-10.2.0.5.jar)
 - create:tiled_glass (from create-1.19.2-0.5.0.i.jar)
 - create:framed_glass (from create-1.19.2-0.5.0.i.jar)
 - create:horizontal_framed_glass (from create-1.19.2-0.5.0.i.jar)
@@ -1810,6 +1956,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #forge:end_stones
 - minecraft:end_stone (from forge-1.19.2-43.2.0-universal.jar)
 
+#forge:sandstone/colorless
+- minecraft:sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:cut_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:chiseled_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:smooth_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:ores/sulfur
+- thermal:sulfur_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_sulfur_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
+#forge:treated_wood
+- immersiveengineering:treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:fences/wooden
 - #minecraft:wooden_fences (from forge-1.19.2-43.2.0-universal.jar)
 - quark:azalea_fence (from Quark-3.4-389.jar)
@@ -1822,6 +1983,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:tomatoes (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rice (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rice_panicles (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:amaranth (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:bell_pepper (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:coffee (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:corn (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:eggplant (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:flax (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:peanut (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tea (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tomato (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #forge:storage_blocks
 - #forge:storage_blocks/amethyst (from forge-1.19.2-43.2.0-universal.jar)
@@ -1838,6 +2008,48 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #forge:storage_blocks/raw_iron (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:storage_blocks/redstone (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:storage_blocks/netherite (from forge-1.19.2-43.2.0-universal.jar)
+- #forge:storage_blocks/enderium (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/lumium (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/signalum (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/bamboo (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/charcoal (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/gunpowder (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/sugar_cane (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/apatite (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/cinnabar (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/niter (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/sulfur (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/bitumen (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/coal_coke (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/slag (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/tar (from thermal_core-1.19.2-10.2.0.5.jar)
+- #forge:storage_blocks/raw_lead (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/raw_nickel (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/raw_silver (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/raw_tin (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/lead (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/nickel (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/silver (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/tin (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/bronze (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/constantan (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/electrum (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/invar (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/ruby (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/sapphire (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:storage_blocks/aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/raw_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/raw_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/raw_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/raw_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/raw_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:storage_blocks/steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:raw_zinc_block (from create-1.19.2-0.5.0.i.jar)
 - create:zinc_block (from create-1.19.2-0.5.0.i.jar)
 - create:brass_block (from create-1.19.2-0.5.0.i.jar)
@@ -1847,6 +2059,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:campfire (from Default)
 - minecraft:soul_campfire (from Default)
 
+#forge:sheetmetals/uranium
+- immersiveengineering:sheetmetal_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:infiniburn_nether
 - #minecraft:infiniburn_overworld (from Default)
 
@@ -1855,6 +2070,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #forge:ores/quartz
 - minecraft:nether_quartz_ore (from forge-1.19.2-43.2.0-universal.jar)
+
+#immersiveengineering:scaffolding_slabs/aluminum
+- immersiveengineering:slab_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:glass/blue
 - minecraft:blue_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
@@ -1923,43 +2143,43 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:coal_block (from forge-1.19.2-43.2.0-universal.jar)
 
 #tetra:nailed
-- #minecraft:banners (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:beds (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:planks (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:rails (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:signs (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_buttons (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_doors (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_fences (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_pressure_plates (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_slabs (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_stairs (from tetra-1.19.2-5.0.0.jar)
-- #minecraft:wooden_trapdoors (from tetra-1.19.2-5.0.0.jar)
-- #forge:fence_gates/wooden (from tetra-1.19.2-5.0.0.jar)
-- #forge:fences/wooden (from tetra-1.19.2-5.0.0.jar)
-- #forge:chests/wooden (from tetra-1.19.2-5.0.0.jar)
-- tetra:basic_workbench (from tetra-1.19.2-5.0.0.jar)
-- minecraft:bookshelf (from tetra-1.19.2-5.0.0.jar)
-- minecraft:trapped_chest (from tetra-1.19.2-5.0.0.jar)
-- minecraft:ladder (from tetra-1.19.2-5.0.0.jar)
-- minecraft:jukebox (from tetra-1.19.2-5.0.0.jar)
-- minecraft:note_block (from tetra-1.19.2-5.0.0.jar)
-- minecraft:daylight_detector (from tetra-1.19.2-5.0.0.jar)
-- minecraft:scaffolding (from tetra-1.19.2-5.0.0.jar)
-- minecraft:crafting_table (from tetra-1.19.2-5.0.0.jar)
-- minecraft:loom (from tetra-1.19.2-5.0.0.jar)
-- minecraft:barrel (from tetra-1.19.2-5.0.0.jar)
-- minecraft:smoker (from tetra-1.19.2-5.0.0.jar)
-- minecraft:blast_furnace (from tetra-1.19.2-5.0.0.jar)
-- minecraft:cartography_table (from tetra-1.19.2-5.0.0.jar)
-- minecraft:fletching_table (from tetra-1.19.2-5.0.0.jar)
-- minecraft:grindstone (from tetra-1.19.2-5.0.0.jar)
-- minecraft:lectern (from tetra-1.19.2-5.0.0.jar)
-- minecraft:smithing_table (from tetra-1.19.2-5.0.0.jar)
-- minecraft:stonecutter (from tetra-1.19.2-5.0.0.jar)
-- minecraft:bell (from tetra-1.19.2-5.0.0.jar)
-- minecraft:composter (from tetra-1.19.2-5.0.0.jar)
-- minecraft:lantern (from tetra-1.19.2-5.0.0.jar)
+- #minecraft:banners (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:beds (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:planks (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:rails (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:signs (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_buttons (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_doors (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_fences (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_pressure_plates (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_slabs (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_stairs (from tetra-1.19.2-5.0.1.jar)
+- #minecraft:wooden_trapdoors (from tetra-1.19.2-5.0.1.jar)
+- #forge:fence_gates/wooden (from tetra-1.19.2-5.0.1.jar)
+- #forge:fences/wooden (from tetra-1.19.2-5.0.1.jar)
+- #forge:chests/wooden (from tetra-1.19.2-5.0.1.jar)
+- tetra:basic_workbench (from tetra-1.19.2-5.0.1.jar)
+- minecraft:bookshelf (from tetra-1.19.2-5.0.1.jar)
+- minecraft:trapped_chest (from tetra-1.19.2-5.0.1.jar)
+- minecraft:ladder (from tetra-1.19.2-5.0.1.jar)
+- minecraft:jukebox (from tetra-1.19.2-5.0.1.jar)
+- minecraft:note_block (from tetra-1.19.2-5.0.1.jar)
+- minecraft:daylight_detector (from tetra-1.19.2-5.0.1.jar)
+- minecraft:scaffolding (from tetra-1.19.2-5.0.1.jar)
+- minecraft:crafting_table (from tetra-1.19.2-5.0.1.jar)
+- minecraft:loom (from tetra-1.19.2-5.0.1.jar)
+- minecraft:barrel (from tetra-1.19.2-5.0.1.jar)
+- minecraft:smoker (from tetra-1.19.2-5.0.1.jar)
+- minecraft:blast_furnace (from tetra-1.19.2-5.0.1.jar)
+- minecraft:cartography_table (from tetra-1.19.2-5.0.1.jar)
+- minecraft:fletching_table (from tetra-1.19.2-5.0.1.jar)
+- minecraft:grindstone (from tetra-1.19.2-5.0.1.jar)
+- minecraft:lectern (from tetra-1.19.2-5.0.1.jar)
+- minecraft:smithing_table (from tetra-1.19.2-5.0.1.jar)
+- minecraft:stonecutter (from tetra-1.19.2-5.0.1.jar)
+- minecraft:bell (from tetra-1.19.2-5.0.1.jar)
+- minecraft:composter (from tetra-1.19.2-5.0.1.jar)
+- minecraft:lantern (from tetra-1.19.2-5.0.1.jar)
 
 #forge:glass/light_blue
 - minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
@@ -2026,6 +2246,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:waxed_cut_copper_stairs (from Default)
 - minecraft:waxed_oxidized_cut_copper_stairs (from Default)
 - minecraft:mud_brick_stairs (from Default)
+- immersiveengineering:stairs_concrete_leaded (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_hempcrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_concrete_tile (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
 - create:polished_cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
 - create:cut_granite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
@@ -2168,6 +2398,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:crimson_stems (from Default)
 - #minecraft:warped_stems (from Default)
 
+#forge:ores/cinnabar
+- thermal:cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
+#forge:sandstone/red
+- minecraft:red_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:cut_red_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:chiseled_red_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:smooth_red_sandstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #lootr:shulkers
 - lootr:lootr_shulker (from lootr-1.19-0.3.22.59.jar)
 
@@ -2184,6 +2424,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:campfires (from create-1.19.2-0.5.0.i.jar)
 - #minecraft:fire (from create-1.19.2-0.5.0.i.jar)
 
+#forge:treated_wood_slab
+- immersiveengineering:slab_treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:valid_spawn
 - minecraft:grass_block (from Default)
 - minecraft:podzol (from Default)
@@ -2193,14 +2438,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:podzol (from Default)
 - minecraft:crimson_nylium (from Default)
 - minecraft:warped_nylium (from Default)
+- farmersdelight:organic_compost (from FarmersDelight-1.19-1.2.0.jar)
+- farmersdelight:rich_soil (from FarmersDelight-1.19-1.2.0.jar)
 - minecraft:mycelium (from Terralith_v2.3.5.jar)
 - minecraft:podzol (from Terralith_v2.3.5.jar)
 - minecraft:crimson_nylium (from Terralith_v2.3.5.jar)
 - minecraft:warped_nylium (from Terralith_v2.3.5.jar)
 - minecraft:gravel (from Terralith_v2.3.5.jar)
 - minecraft:moss_block (from Terralith_v2.3.5.jar)
-- farmersdelight:organic_compost (from FarmersDelight-1.19-1.2.0.jar)
-- farmersdelight:rich_soil (from FarmersDelight-1.19-1.2.0.jar)
 
 #quark:wraith_spawnable
 - minecraft:soul_sand (from Quark-3.4-389.jar)
@@ -2293,6 +2538,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:onions (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rice (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:rice_panicles (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:amaranth (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:bell_pepper (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:corn (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:eggplant (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:onion (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:radish (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tea (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #forge:glass/purple
 - minecraft:purple_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
@@ -2353,6 +2605,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:waxed_oxidized_cut_copper_stairs (from Default)
 - minecraft:waxed_oxidized_cut_copper (from Default)
 - minecraft:lightning_rod (from Default)
+- thermal:signalum_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lumium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:apatite_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:cinnabar_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:bronze_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- minecraft:copper_ore (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:deepslate_copper_ore (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:raw_copper_block (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- minecraft:copper_block (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:copper_shingles (from create-1.19.2-0.5.0.i.jar)
 - create:exposed_copper_shingles (from create-1.19.2-0.5.0.i.jar)
 - create:weathered_copper_shingles (from create-1.19.2-0.5.0.i.jar)
@@ -2566,6 +2839,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:mangrove_hedge (from Quark-3.4-389.jar)
 - quark:ancient_hedge (from Quark-3.4-389.jar)
 
+#forge:storage_blocks/ruby
+- thermal:ruby_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
 #minecraft:frog_prefer_jump_to
 - minecraft:lily_pad (from Default)
 - minecraft:big_dripleaf (from Default)
@@ -2576,6 +2852,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:diamond_block (from Default)
 - minecraft:gold_block (from Default)
 - minecraft:iron_block (from Default)
+- thermal:signalum_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lumium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:enderium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:bronze_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:constantan_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:electrum_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:invar_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:ruby_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sapphire_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
 - create:zinc_block (from create-1.19.2-0.5.0.i.jar)
 - create:brass_block (from create-1.19.2-0.5.0.i.jar)
 - quark:golden_apple_crate (from Quark-3.4-389.jar)
@@ -2591,12 +2880,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.0-universal.jar)
+- immersiveengineering:deepslate_ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#immersiveengineering:mineable/wirecutter
+- immersiveengineering:razor_wire (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:anvil
 - minecraft:anvil (from Default)
 - minecraft:chipped_anvil (from Default)
 - minecraft:damaged_anvil (from Default)
+
+#forge:storage_blocks/enderium
+- thermal:enderium_block (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #minecraft:moss_replaceable
 - #minecraft:base_stone_overworld (from Default)
@@ -2614,6 +2914,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #forge:sand/colorless (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:sand/red (from forge-1.19.2-43.2.0-universal.jar)
 
+#sereneseasons:greenhouse_glass
+- #thermal:glass/hardened (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+
 #minecraft:wall_corals
 - minecraft:tube_coral_wall_fan (from Default)
 - minecraft:brain_coral_wall_fan (from Default)
@@ -2621,9 +2924,38 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:fire_coral_wall_fan (from Default)
 - minecraft:horn_coral_wall_fan (from Default)
 
+#forge:sheetmetals/lead
+- immersiveengineering:sheetmetal_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#thermal:rockwool
+- thermal:white_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:orange_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:magenta_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:light_blue_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:yellow_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lime_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:pink_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:gray_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:light_gray_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:cyan_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:purple_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:blue_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:brown_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:green_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:red_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:black_rockwool (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #terralith:magma
 - minecraft:magma_block (from Terralith_v2.3.5.jar)
 - minecraft:lava (from Terralith_v2.3.5.jar)
+
+#forge:storage_blocks/tar
+- thermal:tar_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#delightful:cantaloupe_spawns
+- minecraft:grass_block (from Delightful-1.19-3.1.3.jar)
+- #minecraft:dirt (from Delightful-1.19-3.1.3.jar)
+- #minecraft:sand (from Delightful-1.19-3.1.3.jar)
 
 #forge:storage_blocks/raw_gold
 - minecraft:raw_gold_block (from forge-1.19.2-43.2.0-universal.jar)
@@ -2637,6 +2969,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #minecraft:iron_ores
 - minecraft:iron_ore (from Default)
 - minecraft:deepslate_iron_ore (from Default)
+
+#forge:storage_blocks/silver
+- thermal:silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:storage_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #terralith:river_replace
 - minecraft:stone (from Terralith_v2.3.5.jar)
@@ -2663,6 +2999,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:cave_air (from Terralith_v2.3.5.jar)
 
 #forge:ores/gold
+- #minecraft:gold_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:gold_ores (from forge-1.19.2-43.2.0-universal.jar)
 
 #terralith:island_ban
@@ -2683,7 +3020,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - lootr:lootr_inventory (from lootr-1.19-0.3.22.59.jar)
 
 #forge:pumpkins/carved
-- minecraft:carved_pumpkin (from cofh_core-1.19.2-10.0.2.33.jar)
+- minecraft:carved_pumpkin (from cofh_core-1.19.2-10.2.1.40.jar)
 
 #minecraft:piglin_repellents
 - minecraft:soul_fire (from Default)
@@ -2750,7 +3087,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:ancient_trapped_chest (from Quark-3.4-389.jar)
 - lootr:lootr_chest (from lootr-1.19-0.3.22.59.jar)
 
+#forge:storage_blocks/aluminum
+- immersiveengineering:storage_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#immersiveengineering:scaffoldings/aluminum
+- immersiveengineering:alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:ores/iron
+- #minecraft:iron_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:iron_ores (from forge-1.19.2-43.2.0-universal.jar)
 
 #minecraft:mangrove_logs
@@ -2758,6 +3104,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:mangrove_wood (from Default)
 - minecraft:stripped_mangrove_log (from Default)
 - minecraft:stripped_mangrove_wood (from Default)
+
+#forge:storage_blocks/sulfur
+- thermal:sulfur_block (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #minecraft:snow_layer_can_survive_on
 - minecraft:honey_block (from Default)
@@ -2774,10 +3123,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:crimson_stairs (from Default)
 - minecraft:warped_stairs (from Default)
 - minecraft:mangrove_stairs (from Default)
+- immersiveengineering:stairs_treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:azalea_planks_stairs (from Quark-3.4-389.jar)
 - quark:blossom_planks_stairs (from Quark-3.4-389.jar)
 - quark:bamboo_planks_stairs (from Quark-3.4-389.jar)
 - quark:ancient_planks_stairs (from Quark-3.4-389.jar)
+
+#thermal:glass/hardened
+- thermal:obsidian_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:signalum_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lumium_glass (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:enderium_glass (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #minecraft:base_stone_overworld
 - minecraft:stone (from Default)
@@ -2810,6 +3168,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #minecraft:axolotls_spawnable_on
 - minecraft:clay (from Default)
 
+#forge:storage_blocks/glowstone
+- minecraft:glowstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:stone_bricks
 - minecraft:stone_bricks (from Default)
 - minecraft:mossy_stone_bricks (from Default)
@@ -2821,6 +3182,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #forge:glass/orange
 - minecraft:orange_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
+
+#apotheosis:basic_skulls
+- minecraft:skeleton_skull (from Apotheosis-1.19.2-6.0.3.jar)
+- minecraft:skeleton_wall_skull (from Apotheosis-1.19.2-6.0.3.jar)
+- minecraft:creeper_head (from Apotheosis-1.19.2-6.0.3.jar)
+- minecraft:creeper_wall_head (from Apotheosis-1.19.2-6.0.3.jar)
+- minecraft:zombie_head (from Apotheosis-1.19.2-6.0.3.jar)
+- minecraft:zombie_wall_head (from Apotheosis-1.19.2-6.0.3.jar)
 
 #forge:storage_blocks/raw_zinc
 - create:raw_zinc_block (from create-1.19.2-0.5.0.i.jar)
@@ -2872,6 +3241,57 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:cut_copper_slab (from Default)
 - minecraft:waxed_oxidized_cut_copper_slab (from Default)
 - minecraft:mud_brick_slab (from Default)
+- immersiveengineering:slab_storage_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_orange (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alloybrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_red (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete_leaded (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_white (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_magenta (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_cyan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_coke (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_blastbrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_green (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete_tile (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_purple (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_brown (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_cokebrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_hempcrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_pink (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_insulating_glass (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_lime (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_blastbrick_reinforced (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_yellow (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_black (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:cut_granite_slab (from create-1.19.2-0.5.0.i.jar)
 - create:polished_cut_granite_slab (from create-1.19.2-0.5.0.i.jar)
 - create:cut_granite_brick_slab (from create-1.19.2-0.5.0.i.jar)
@@ -3023,7 +3443,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - lootr:lootr_barrel (from lootr-1.19-0.3.22.59.jar)
 
 #forge:ores/emerald
+- #minecraft:emerald_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:emerald_ores (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:storage_blocks/bitumen
+- thermal:bitumen_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#ironchests:non_pickable_chests
 
 #create:casing
 - create:andesite_casing (from create-1.19.2-0.5.0.i.jar)
@@ -3042,6 +3468,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #terralith:sandclay
 - minecraft:sand (from Terralith_v2.3.5.jar)
 - minecraft:clay (from Terralith_v2.3.5.jar)
+
+#forge:ores/apatite
+- thermal:apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
 
 #minecraft:corals
 - #minecraft:coral_plants (from Default)
@@ -3067,6 +3497,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:soul_sand (from Quark-3.4-389.jar)
 - minecraft:basalt (from Quark-3.4-389.jar)
 - minecraft:soul_soil (from Quark-3.4-389.jar)
+
+#immersiveengineering:scaffolding_slabs/steel
+- immersiveengineering:slab_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #lootr:containers
 - #lootr:barrels (from lootr-1.19-0.3.22.59.jar)
@@ -3100,17 +3535,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #terralith:tophack/lime_concrete
 - minecraft:lime_concrete (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/niter
+- thermal:niter_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #minecraft:strider_warm_blocks
 - minecraft:lava (from Default)
 
 #forge:storage_blocks/raw_iron
 - minecraft:raw_iron_block (from forge-1.19.2-43.2.0-universal.jar)
 
+#forge:storage_blocks/clay
+- minecraft:clay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:bee_growables
 - #minecraft:crops (from Default)
 - minecraft:sweet_berry_bush (from Default)
 - minecraft:cave_vines (from Default)
 - minecraft:cave_vines_plant (from Default)
+- minecraft:oak_leaves (from blossom-forge-1.19.2-1.0.6.jar)
+- blossom:flowering_oak_leaves (from blossom-forge-1.19.2-1.0.6.jar)
 
 #minecraft:wooden_pressure_plates
 - minecraft:oak_pressure_plate (from Default)
@@ -3133,6 +3576,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:deepslate (from Terralith_v2.3.5.jar)
 
 #create:brittle
+- cookingforblockheads:fridge (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
 - create:nozzle (from create-1.19.2-0.5.0.i.jar)
 - create:hand_crank (from create-1.19.2-0.5.0.i.jar)
 - create:copper_valve_handle (from create-1.19.2-0.5.0.i.jar)
@@ -3206,6 +3650,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:iron_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:lapis_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:redstone_ore (from forge-1.19.2-43.2.0-universal.jar)
+- immersiveengineering:ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
 
 #terralith:pillar_blocks
@@ -3230,6 +3679,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:nether_gold_ore (from Default)
 - minecraft:deepslate_gold_ore (from Default)
 
+#forge:sheetmetals/silver
+- immersiveengineering:sheetmetal_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:glass_panes/pink
 - minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.0-universal.jar)
 
@@ -3249,6 +3701,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:mud (from Default)
 - minecraft:muddy_mangrove_roots (from Default)
 - farmersdelight:rich_soil (from FarmersDelight-1.19-1.2.0.jar)
+- farmingforblockheads:fertilized_farmland_rich (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_healthy (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_healthy_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:fertilized_farmland_rich_stable (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- thermal:phytosoil (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #forge:netherrack
 - minecraft:netherrack (from forge-1.19.2-43.2.0-universal.jar)
@@ -3580,6 +4038,35 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:soul_sandstone_bricks_wall (from Quark-3.4-389.jar)
 - quark:soul_sandstone_bricks_vertical_slab (from Quark-3.4-389.jar)
 
+#forge:sheetmetals
+- #forge:sheetmetals/copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:sheetmetals/gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_white (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_orange (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_magenta (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_light_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_yellow (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_lime (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_pink (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_light_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_cyan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_purple (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_brown (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_green (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_red (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_black (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #farmersdelight:unaffected_by_rich_soil
 - minecraft:grass_block (from FarmersDelight-1.19-1.2.0.jar)
 - minecraft:grass (from FarmersDelight-1.19-1.2.0.jar)
@@ -3618,6 +4105,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #forge:gravel
 - minecraft:gravel (from forge-1.19.2-43.2.0-universal.jar)
+- immersiveengineering:slag_gravel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #quark:azalea_logs
 - quark:azalea_log (from Quark-3.4-389.jar)
@@ -3700,6 +4188,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:rice_panicles (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:budding_tomatoes (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:tomatoes (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:amaranth (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:barley (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:bell_pepper (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:coffee (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:corn (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:eggplant (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:flax (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:green_bean (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- minecraft:air (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:onion (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:peanut (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:radish (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:rice (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:sadiroot (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:spinach (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:strawberry (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tea (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tomato (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:frost_melon_stem (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #minecraft:mangrove_roots_can_grow_through
 - minecraft:mud (from Default)
@@ -3742,6 +4249,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:stone (from Terralith_v2.3.5.jar)
 - minecraft:diorite (from Terralith_v2.3.5.jar)
 
+#forge:fences/steel
+- immersiveengineering:steel_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:storage_blocks/coal_coke
+- thermal:coal_coke_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- immersiveengineering:coke (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:storage_blocks/iron
 - minecraft:iron_block (from forge-1.19.2-43.2.0-universal.jar)
 
@@ -3762,6 +4276,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - create:green_seat (from create-1.19.2-0.5.0.i.jar)
 - create:red_seat (from create-1.19.2-0.5.0.i.jar)
 - create:black_seat (from create-1.19.2-0.5.0.i.jar)
+
+#immersiveengineering:buzzsaw/tree_blacklist
+- #dynamictrees:branches? (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #dynamictrees:leaves? (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:glass_panes/brown
 - minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.0-universal.jar)
@@ -3792,6 +4310,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:stone (from Terralith_v2.3.5.jar)
 - minecraft:deepslate (from Terralith_v2.3.5.jar)
 
+#forge:ores/sapphire
+- thermal:sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
 #minecraft:climbable
 - minecraft:ladder (from Default)
 - minecraft:vine (from Default)
@@ -3804,6 +4326,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:cave_vines_plant (from Default)
 - farmersdelight:rope (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:tomatoes (from FarmersDelight-1.19-1.2.0.jar)
+- immersiveengineering:metal_ladder_none (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_alu (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:andesite_ladder (from create-1.19.2-0.5.0.i.jar)
 - create:brass_ladder (from create-1.19.2-0.5.0.i.jar)
 - create:copper_ladder (from create-1.19.2-0.5.0.i.jar)
@@ -3850,6 +4375,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:rich_soil_farmland (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:brown_mushroom_colony (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:red_mushroom_colony (from FarmersDelight-1.19-1.2.0.jar)
+
+#forge:storage_blocks/steel
+- immersiveengineering:storage_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #create:ore_override_stone
 - #minecraft:stone_ore_replaceables (from create-1.19.2-0.5.0.i.jar)
@@ -3922,6 +4450,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:fire_coral (from Default)
 - minecraft:horn_coral (from Default)
 
+#forge:storage_blocks/lumium
+- thermal:lumium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #minecraft:non_flammable_wood
 - minecraft:warped_stem (from Default)
 - minecraft:stripped_warped_stem (from Default)
@@ -3983,6 +4514,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:lapis_ore (from Default)
 - minecraft:deepslate_lapis_ore (from Default)
 
+#forge:storage_blocks/bronze
+- thermal:bronze_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+
 #create:safe_nbt
 - create:creative_motor (from create-1.19.2-0.5.0.i.jar)
 - create:creative_fluid_tank (from create-1.19.2-0.5.0.i.jar)
@@ -4010,6 +4544,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - create:pulse_extender (from create-1.19.2-0.5.0.i.jar)
 - #minecraft:banners (from create-1.19.2-0.5.0.i.jar)
 - #minecraft:signs (from create-1.19.2-0.5.0.i.jar)
+
+#forge:sheetmetals/gold
+- immersiveengineering:sheetmetal_gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:storage_blocks/raw_lead
+- thermal:raw_lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:raw_block_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #terralith:all_but_dirt
 - minecraft:air? (from Terralith_v2.3.5.jar)
@@ -4911,9 +5452,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:potted_azalea_bush? (from Terralith_v2.3.5.jar)
 - minecraft:potted_flowering_azalea_bush? (from Terralith_v2.3.5.jar)
 
+#ironchests:chests
+- ironchests:dirt_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:copper_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:iron_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:gold_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:diamond_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:obsidian_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:crystal_chest? (from ironchests-3.1.1-forge.jar)
+- ironchests:netherite_chest? (from ironchests-3.1.1-forge.jar)
+
 #minecraft:fences
 - #minecraft:wooden_fences (from Default)
 - minecraft:nether_brick_fence (from Default)
+- immersiveengineering:alu_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:azalea_fence (from Quark-3.4-389.jar)
 - quark:blossom_fence (from Quark-3.4-389.jar)
 - quark:bamboo_fence (from Quark-3.4-389.jar)
@@ -4935,6 +5489,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:pink_blossom_sapling (from Quark-3.4-389.jar)
 - quark:yellow_blossom_sapling (from Quark-3.4-389.jar)
 - quark:red_blossom_sapling (from Quark-3.4-389.jar)
+
+#forge:storage_blocks/tin
+- thermal:tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
 
 #forge:ores/copper
 - #minecraft:copper_ores (from forge-1.19.2-43.2.0-universal.jar)
@@ -5269,10 +5826,352 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:mud_brick_stairs (from Default)
 - minecraft:mud_brick_slab (from Default)
 - minecraft:packed_mud (from Default)
+- cookingforblockheads:cooking_table (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:fridge (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:sink (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:counter (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:cabinet (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:corner (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:oven (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:toaster (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:milk_jar (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:cow_jar (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:hanging_corner (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:white_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:orange_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:magenta_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:light_blue_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:yellow_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:lime_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:pink_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:gray_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:light_gray_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:cyan_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:purple_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:blue_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:brown_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:green_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:red_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:black_kitchen_floor (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- apotheosis:endshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:pearl_endshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:draconic_endshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:hellshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:infused_hellshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:blazing_hellshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:glowing_hellshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:seashelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:infused_seashelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:crystal_seashelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:heart_seashelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:library? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:rectifier? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:rectifier_t2? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:rectifier_t3? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:sightshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:sightshelf_t2? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:ender_library? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:reforging_table? (from Apotheosis-1.19.2-6.0.3.jar)
 - farmersdelight:stove (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:cooking_pot (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:skillet (from FarmersDelight-1.19-1.2.0.jar)
-- tetra:block_geode (from tetra-1.19.2-5.0.0.jar)
+- torchmaster:feral_flare_lantern (from torchmaster-19.2.0.jar)
+- torchmaster:dreadlamp (from torchmaster-19.2.0.jar)
+- tetra:block_geode (from tetra-1.19.2-5.0.1.jar)
+- #ironchests:chests (from ironchests-3.1.1-forge.jar)
+- infectum:cultic_wood (from Infectum1.7.1with_bug_patches.jar)
+- infectum:cultic_log (from Infectum1.7.1with_bug_patches.jar)
+- sliceanddice:slicer (from sliceanddice-2.0.0.jar)
+- sliceanddice:sprinkler (from sliceanddice-2.0.0.jar)
+- thermal:charcoal_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:signalum_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lumium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:enderium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:apatite_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:cinnabar_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:niter_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:sulfur_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:coal_coke_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:bitumen_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:slag_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:rich_slag_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:machine_frame (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:energy_cell_frame (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:fluid_cell_frame (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:polished_slag (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:chiseled_slag (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:slag_bricks (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:cracked_slag_bricks (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:polished_rich_slag (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:chiseled_rich_slag (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:rich_slag_bricks (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:cracked_rich_slag_bricks (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_water_gen (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_rock_gen (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_collector (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_nullifier (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_potion_diffuser (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:charge_bench (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:energy_cell (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:fluid_cell (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:niter_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sulfur_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_apatite_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_cinnabar_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_niter_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_sulfur_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_tin_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:bronze_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:constantan_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:electrum_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:invar_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:ruby_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sapphire_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:coke_oven (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:blast_furnace (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alloy_smelter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:advanced_blast_furnace (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_press (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:crusher (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sawmill (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:tank (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:silo (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:assembler (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:auto_workbench (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:bottling_machine (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:squeezer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fermenter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:refinery (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:diesel_generator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:excavator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:bucket_wheel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:arc_furnace (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:lightning_rod (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:mixer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:cokebrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:blastbrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:blastbrick_reinforced (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:coke (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:hempcrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_tile (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_leaded (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:insulating_glass (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slag_glass (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_sprayed (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alloybrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_sheet (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_quarter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:concrete_three_quarter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:coresample (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:duroplast (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:razor_wire (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:toolbox_block (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_lv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_mv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:capacitor_creative (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_barrel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fluid_pump (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fluid_placer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:blastfurnace_preheater (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:furnace_heater (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:dynamo (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:thermoelectric_generator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:electric_lantern (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:charging_station (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fluid_pipe (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sample_drill (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:tesla_coil (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:floodlight (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:turret_chem (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:turret_gun (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:cloche (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:coil_lv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:coil_mv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:coil_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:rs_engineering (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:heavy_engineering (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:light_engineering (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:generator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:radiator (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_wallmount (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_wallmount (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_post (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_post (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:lantern (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_slope (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_slope (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_structural (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:post_transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:transformer_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:breaker_switch (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:redstone_breaker (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:current_transformer (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_redstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_probe (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_bundled (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:feedthrough (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_storage_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_white (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_white (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_orange (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_orange (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_magenta (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_magenta (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_light_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_yellow (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_yellow (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_lime (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_lime (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_pink (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_pink (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_light_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_cyan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_cyan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_purple (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_purple (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_brown (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_brown (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_green (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_green (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_red (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_red (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sheetmetal_colored_black (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_black (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_none (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_alu (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:metal_ladder_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:chute_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:chute_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:chute_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:chute_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_lv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_lv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_mv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_mv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_hv (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:connector_hv_relay (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_cokebrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_blastbrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_blastbrick_reinforced (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_coke (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_hempcrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete_tile (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_concrete_leaded (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_insulating_glass (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_alloybrick (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_hempcrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_concrete (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_concrete_tile (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_concrete_leaded (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_basic (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_redstone (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_dropper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_splitter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:conveyor_extract (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:schematicannon (from create-1.19.2-0.5.0.i.jar)
 - create:schematic_table (from create-1.19.2-0.5.0.i.jar)
 - create:shaft (from create-1.19.2-0.5.0.i.jar)
@@ -6183,9 +7082,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:carved_mud_bricks (from Quark-3.4-389.jar)
 - quark:mud_pillar (from Quark-3.4-389.jar)
 - quark:mud_brick_lattice (from Quark-3.4-389.jar)
+- butchercraft:meat_hook (from butchercraft-2.2.1.jar)
+- automobility:auto_mechanic_table (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:automobile_assembler (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:dash_panel (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:slope (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:steep_slope (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:slope_with_dash_panel (from automobility-0.4.1+1.19.2-forge.jar)
+- automobility:steep_slope_with_dash_panel (from automobility-0.4.1+1.19.2-forge.jar)
 - lootr:trophy (from lootr-1.19-0.3.22.59.jar)
-- sliceanddice:slicer (from sliceanddice-2.0.0.jar)
-- sliceanddice:sprinkler (from sliceanddice-2.0.0.jar)
+- delightful:basalt_cabinet (from Delightful-1.19-3.1.3.jar)
+- delightful:quartz_cabinet (from Delightful-1.19-3.1.3.jar)
 
 #minecraft:unstable_bottom_center
 - #minecraft:fence_gates (from Default)
@@ -6252,6 +7159,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #terralith:stone
 - minecraft:stone (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/electrum
+- thermal:electrum_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:storage_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:wooden_fences
 - minecraft:oak_fence (from Default)
 - minecraft:acacia_fence (from Default)
@@ -6262,6 +7173,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:crimson_fence (from Default)
 - minecraft:warped_fence (from Default)
 - minecraft:mangrove_fence (from Default)
+- immersiveengineering:treated_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:azalea_fence (from Quark-3.4-389.jar)
 - quark:blossom_fence (from Quark-3.4-389.jar)
 - quark:bamboo_fence (from Quark-3.4-389.jar)
@@ -6275,6 +7187,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:signs (from Default)
 - #minecraft:banners (from Default)
 - #minecraft:pressure_plates (from Default)
+
+#forge:sheetmetals/constantan
+- immersiveengineering:sheetmetal_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:obsidian
 - minecraft:obsidian (from forge-1.19.2-43.2.0-universal.jar)
@@ -6336,6 +7251,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:gold_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:iron_ore (from forge-1.19.2-43.2.0-universal.jar)
 - minecraft:nether_quartz_ore (from forge-1.19.2-43.2.0-universal.jar)
+- immersiveengineering:ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:dampens_vibrations
 - #minecraft:wool (from Default)
@@ -6354,6 +7279,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:sand (from Default)
 - #minecraft:terracotta (from Default)
 - #minecraft:dirt (from Default)
+
+#forge:storage_blocks/raw_uranium
+- immersiveengineering:raw_block_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:snow_layer_cannot_survive_on
 - minecraft:ice (from Default)
@@ -6377,9 +7305,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:end_stone (from Default)
 - minecraft:red_sandstone (from Default)
 - minecraft:sandstone (from Default)
-- tetra:forged_platform (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_platform_slab (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_wall (from tetra-1.19.2-5.0.0.jar)
+- tetra:forged_platform (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_platform_slab (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_wall (from tetra-1.19.2-5.0.1.jar)
 
 #minecraft:ancient_city_replaceable
 - minecraft:deepslate (from Default)
@@ -6405,15 +7333,30 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:moss_carpet (from Default)
 - minecraft:vine (from Default)
 
+#forge:storage_blocks/raw_silver
+- thermal:raw_silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:raw_block_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #forge:glass/magenta
 - minecraft:magenta_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
 
 #forge:ores/coal
+- #minecraft:coal_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:coal_ores (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:storage_blocks/constantan
+- thermal:constantan_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:storage_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:fire
 - minecraft:fire (from Default)
 - minecraft:soul_fire (from Default)
+
+#forge:sheetmetals/electrum
+- immersiveengineering:sheetmetal_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
+#forge:storage_blocks/raw_tin
+- thermal:raw_tin_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
 
 #minecraft:needs_diamond_tool
 - minecraft:obsidian (from Default)
@@ -6529,6 +7472,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:white_framed_glass (from Quark-3.4-389.jar)
 - quark:yellow_framed_glass (from Quark-3.4-389.jar)
 
+#forge:storage_blocks/gunpowder
+- thermal:gunpowder_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #minecraft:geode_invalid_blocks
 - minecraft:bedrock (from Default)
 - minecraft:water (from Default)
@@ -6536,6 +7482,35 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:ice (from Default)
 - minecraft:packed_ice (from Default)
 - minecraft:blue_ice (from Default)
+
+#forge:sheetmetal_slabs
+- immersiveengineering:slab_sheetmetal_copper (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_gold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_white (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_orange (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_magenta (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_yellow (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_lime (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_pink (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_light_gray (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_cyan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_purple (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_blue (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_brown (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_green (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_red (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_sheetmetal_colored_black (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:leaves
 - minecraft:jungle_leaves (from Default)
@@ -6554,6 +7529,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:yellow_blossom_leaves (from Quark-3.4-389.jar)
 - quark:red_blossom_leaves (from Quark-3.4-389.jar)
 - quark:ancient_leaves (from Quark-3.4-389.jar)
+- blossom:flowering_oak_leaves (from blossom-forge-1.19.2-1.0.6.jar)
 
 #forge:ores_in_ground/netherrack
 - minecraft:nether_gold_ore (from forge-1.19.2-43.2.0-universal.jar)
@@ -6590,11 +7566,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:moving_piston (from Default)
 - minecraft:light (from Default)
 - minecraft:reinforced_deepslate (from Default)
-- tetra:forged_pillar (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_platform (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_platform_slab (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_vent (from tetra-1.19.2-5.0.0.jar)
-- tetra:forged_wall (from tetra-1.19.2-5.0.0.jar)
+- tetra:forged_pillar (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_platform (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_platform_slab (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_vent (from tetra-1.19.2-5.0.1.jar)
+- tetra:forged_wall (from tetra-1.19.2-5.0.1.jar)
+
+#forge:ores/ruby
+- thermal:ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
 
 #minecraft:acacia_logs
 - minecraft:acacia_log (from Default)
@@ -6644,6 +7624,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #terralith:calcite
 - minecraft:calcite (from Terralith_v2.3.5.jar)
+
+#immersiveengineering:scaffoldings/steel
+- immersiveengineering:steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #terralith:podzol_replaceable
 - minecraft:mycelium (from Terralith_v2.3.5.jar)
@@ -6747,6 +7732,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:sculk_shrieker (from Default)
 - farmersdelight:rice_bale (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:straw_bale (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:sugar_cane_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:barley_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:flax_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 - quark:blue_blossom_leaves (from Quark-3.4-389.jar)
 - quark:lavender_blossom_leaves (from Quark-3.4-389.jar)
 - quark:orange_blossom_leaves (from Quark-3.4-389.jar)
@@ -6815,11 +7803,57 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:deepslate_gold_ore (from Default)
 - minecraft:redstone_ore (from Default)
 - minecraft:deepslate_redstone_ore (from Default)
+- thermal:enderium_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_lead_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_ruby_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_sapphire_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:raw_silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:lead_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:nickel_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:silver_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:electrum_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:invar_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:constantan_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:ruby_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:sapphire_block (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:raw_block_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_constantan (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_electrum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:storage_steel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
 - create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
 - create:raw_zinc_block (from create-1.19.2-0.5.0.i.jar)
 - create:zinc_block (from create-1.19.2-0.5.0.i.jar)
 - create:brass_block (from create-1.19.2-0.5.0.i.jar)
+
+#immersiveengineering:scaffolding_stairs/aluminum
+- immersiveengineering:stairs_alu_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_alu_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:glass/gray
 - minecraft:gray_stained_glass (from forge-1.19.2-43.2.0-universal.jar)
@@ -6837,6 +7871,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:crimson_slab (from Default)
 - minecraft:warped_slab (from Default)
 - minecraft:mangrove_slab (from Default)
+- immersiveengineering:slab_treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:azalea_planks_slab (from Quark-3.4-389.jar)
 - quark:blossom_planks_slab (from Quark-3.4-389.jar)
 - quark:bamboo_planks_slab (from Quark-3.4-389.jar)
@@ -6957,6 +7994,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #sereneseasons:winter_crops
 - farmersdelight:cabbages (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:barley (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:frost_melon (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:onion (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:sadiroot (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:spinach (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tea (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #forge:glass_panes/blue
 - minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.0-universal.jar)
@@ -6975,6 +8018,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:terracotta (from Default)
 - minecraft:snow_block (from Default)
 - minecraft:powder_snow (from Default)
+
+#immersiveengineering:scaffolding_stairs/steel
+- immersiveengineering:stairs_steel_scaffolding_standard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_grate_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_steel_scaffolding_wooden_top (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:stone
 - minecraft:andesite (from forge-1.19.2-43.2.0-universal.jar)
@@ -7095,6 +8143,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:snow (from Terralith_v2.3.5.jar)
 - minecraft:andesite (from Terralith_v2.3.5.jar)
 
+#forge:storage_blocks/apatite
+- thermal:apatite_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
 #minecraft:frogs_spawnable_on
 - minecraft:grass_block (from Default)
 - minecraft:mud (from Default)
@@ -7121,6 +8172,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:yellow_shulker_box (from Default)
 - lootr:lootr_shulker (from lootr-1.19-0.3.22.59.jar)
 
+#forge:ores/silver
+- thermal:silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_silver_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+
 #minecraft:birch_logs
 - minecraft:birch_log (from Default)
 - minecraft:birch_wood (from Default)
@@ -7129,6 +8186,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #create:fan_heaters
 - farmersdelight:stove (from FarmersDelight-1.19-1.2.0.jar)
+
+#forge:storage_blocks/raw_aluminum
+- immersiveengineering:raw_block_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #terralith:tophack/black_concrete
 - minecraft:black_concrete (from Terralith_v2.3.5.jar)
@@ -7162,11 +8222,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:stripped_oak_log (from Default)
 - minecraft:stripped_oak_wood (from Default)
 
+#delightful:drops_green_tea_leaf
+- #minecraft:leaves (from Delightful-1.19-3.1.3.jar)
+
 #forge:barrels
 - #forge:barrels/wooden (from forge-1.19.2-43.2.0-universal.jar)
 - lootr:lootr_barrel (from lootr-1.19-0.3.22.59.jar)
 
 #forge:ores/lapis
+- #minecraft:lapis_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #minecraft:lapis_ores (from forge-1.19.2-43.2.0-universal.jar)
 
 #minecraft:mooshrooms_spawnable_on
@@ -7204,6 +8268,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:blossom_pressure_plate (from Quark-3.4-389.jar)
 - quark:bamboo_pressure_plate (from Quark-3.4-389.jar)
 - quark:ancient_pressure_plate (from Quark-3.4-389.jar)
+
+#forge:ores/nickel
+- thermal:nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- thermal:deepslate_nickel_ore (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- immersiveengineering:ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:jungle_logs
 - minecraft:jungle_log (from Default)
@@ -7244,6 +8314,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:andesite (from Terralith_v2.3.5.jar)
 - minecraft:tuff (from Terralith_v2.3.5.jar)
 - minecraft:deepslate (from Terralith_v2.3.5.jar)
+
+#forge:ores/aluminum
+- immersiveengineering:ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #minecraft:mineable/axe
 - minecraft:note_block (from Default)
@@ -7326,6 +8400,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #minecraft:wooden_stairs (from Default)
 - #minecraft:wooden_trapdoors (from Default)
 - minecraft:mangrove_roots (from Default)
+- cookingforblockheads:tool_rack (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:spice_rack (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- cookingforblockheads:fruit_basket (from cookingforblockheads-forge-1.19.2-13.3.0.jar)
+- apotheosis:beeshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:melonshelf? (from Apotheosis-1.19.2-6.0.3.jar)
+- apotheosis:salvaging_table? (from Apotheosis-1.19.2-6.0.3.jar)
 - packages:package_maker (from packages-forge-1.19.2-3.4.jar)
 - packages:package (from packages-forge-1.19.2-3.4.jar)
 - farmersdelight:basket (from FarmersDelight-1.19-1.2.0.jar)
@@ -7347,8 +8427,58 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - farmersdelight:warped_cabinet (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:sandy_shrub (from FarmersDelight-1.19-1.2.0.jar)
 - farmersdelight:stuffed_pumpkin_block (from FarmersDelight-1.19-1.2.0.jar)
-- tetra:basic_workbench (from tetra-1.19.2-5.0.0.jar)
-- tetra:rack (from tetra-1.19.2-5.0.0.jar)
+- torchmaster:megatorch (from torchmaster-19.2.0.jar)
+- tetra:basic_workbench (from tetra-1.19.2-5.0.1.jar)
+- tetra:rack (from tetra-1.19.2-5.0.1.jar)
+- infectum:infectoidegg_2 (from Infectum1.7.1with_bug_patches.jar)
+- infectum:infected_log (from Infectum1.7.1with_bug_patches.jar)
+- sliceanddice:slicer (from sliceanddice-2.0.0.jar)
+- hardcorequesting:item_barrel (from HQM-1.19.2-5.13.0-forge.jar)
+- farmingforblockheads:market (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:feeding_trough (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- farmingforblockheads:chicken_nest (from farmingforblockheads-forge-1.19-11.1.0.jar)
+- thermal:bamboo_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:apple_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:carrot_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:potato_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:beetroot_block (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_hive_extractor (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_tree_extractor (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_fisher (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_composter (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:device_soil_infuser (from thermal_core-1.19.2-10.2.0.5.jar)
+- thermal:tinker_bench (from thermal_core-1.19.2-10.2.0.5.jar)
+- immersiveengineering:craftingtable (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:workbench (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:circuit_table (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:gunpowder_barrel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:wooden_barrel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:turntable (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:crate (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:reinforced_crate (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sorter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:item_batcher (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fluid_sorter (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:windmill (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:watermill (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wallmount (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:logic_unit (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_fence (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_scaffold (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_post (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:sawdust (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:fiberboard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_treated_wood_horizontal (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_treated_wood_vertical (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:slab_treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:stairs_treated_wood_packaged (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:shader_banner_wall (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:shader_banner (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:schematic_table (from create-1.19.2-0.5.0.i.jar)
 - create:cogwheel (from create-1.19.2-0.5.0.i.jar)
 - create:large_cogwheel (from create-1.19.2-0.5.0.i.jar)
@@ -7452,6 +8582,20 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - create:redstone_link (from create-1.19.2-0.5.0.i.jar)
 - create:analog_lever (from create-1.19.2-0.5.0.i.jar)
 - create:lectern_controller (from create-1.19.2-0.5.0.i.jar)
+- thermal:amaranth_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:bell_pepper_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:corn_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:eggplant_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:green_bean_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:hops_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:onion_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:radish_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:sadiroot_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:spinach_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:strawberry_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:tomato_block (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:frost_melon (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- some_assembly_required:sandwiching_station (from some-assembly-required-1.19.2-3.0.0.jar)
 - #quark:wooden_vertical_slabs (from Quark-3.4-389.jar)
 - quark:paper_lantern (from Quark-3.4-389.jar)
 - quark:paper_lantern_sakura (from Quark-3.4-389.jar)
@@ -7642,10 +8786,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:ancient_button (from Quark-3.4-389.jar)
 - quark:ancient_pressure_plate (from Quark-3.4-389.jar)
 - quark:ancient_hedge (from Quark-3.4-389.jar)
+- butchercraft:beef_block (from butchercraft-2.2.1.jar)
+- butchercraft:cooked_beef_block (from butchercraft-2.2.1.jar)
+- butchercraft:pork_block (from butchercraft-2.2.1.jar)
+- butchercraft:cooked_pork_block (from butchercraft-2.2.1.jar)
+- butchercraft:lamb_block (from butchercraft-2.2.1.jar)
+- butchercraft:cooked_lamb_block (from butchercraft-2.2.1.jar)
 - lootr:lootr_chest (from lootr-1.19-0.3.22.59.jar)
 - lootr:lootr_trapped_chest (from lootr-1.19-0.3.22.59.jar)
 - lootr:lootr_barrel (from lootr-1.19-0.3.22.59.jar)
-- sliceanddice:slicer (from sliceanddice-2.0.0.jar)
+- delightful:mini_melon (from Delightful-1.19-3.1.3.jar)
+- delightful:sliced_mini_melon (from Delightful-1.19-3.1.3.jar)
+- delightful:sliced_melon (from Delightful-1.19-3.1.3.jar)
+- delightful:sliced_pumpkin (from Delightful-1.19-3.1.3.jar)
+- delightful:cantaloupe (from Delightful-1.19-3.1.3.jar)
+- delightful:sliced_cantaloupe (from Delightful-1.19-3.1.3.jar)
+- delightful:salmonberry_sack (from Delightful-1.19-3.1.3.jar)
+- delightful:acorn_sack (from Delightful-1.19-3.1.3.jar)
+
+#forge:ores/uranium
+- immersiveengineering:ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- immersiveengineering:deepslate_ore_uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:glass_panes/lime
 - minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.0-universal.jar)
@@ -7685,6 +8846,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #sereneseasons:spring_crops
 - farmersdelight:onions (from FarmersDelight-1.19-1.2.0.jar)
+- thermal:barley (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:coffee (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:flax (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:green_bean (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:peanut (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:radish (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:rice (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:strawberry (from thermal_cultivation-1.19.2-10.2.0.17.jar)
+- thermal:spinach (from thermal_cultivation-1.19.2-10.2.0.17.jar)
 
 #terralith:magic/s2
 - minecraft:pink_terracotta (from Terralith_v2.3.5.jar)
@@ -7726,6 +8896,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:stone (from Terralith_v2.3.5.jar)
 - minecraft:grass_block (from Terralith_v2.3.5.jar)
 - minecraft:dirt (from Terralith_v2.3.5.jar)
+
+#delightful:drops_acorn
+- minecraft:oak_leaves (from Delightful-1.19-3.1.3.jar)
+- minecraft:dark_oak_leaves (from Delightful-1.19-3.1.3.jar)
 
 #quark:blossom_logs
 - quark:blossom_log (from Quark-3.4-389.jar)
@@ -7790,6 +8964,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:crimson_planks (from Default)
 - minecraft:warped_planks (from Default)
 - minecraft:mangrove_planks (from Default)
+- immersiveengineering:fiberboard (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - quark:azalea_planks (from Quark-3.4-389.jar)
 - quark:blossom_planks (from Quark-3.4-389.jar)
 - quark:vertical_oak_planks (from Quark-3.4-389.jar)
@@ -7816,6 +8991,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #minecraft:diamond_ores
 - minecraft:diamond_ore (from Default)
 - minecraft:deepslate_diamond_ore (from Default)
+
+#some_assembly_required:sandwiching_stations
+- some_assembly_required:sandwiching_station (from some-assembly-required-1.19.2-3.0.0.jar)
 
 #minecraft:deepslate_ore_replaceables
 - minecraft:deepslate (from Default)
@@ -7885,7 +9063,29 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - quark:bamboo_fence_gate (from Quark-3.4-389.jar)
 - quark:ancient_fence_gate (from Quark-3.4-389.jar)
 
+#ironchests:upgradeable_wooden_chests
+- minecraft:chest (from ironchests-3.1.1-forge.jar)
+- quark:acacia_chest? (from ironchests-3.1.1-forge.jar)
+- quark:azalea_chest? (from ironchests-3.1.1-forge.jar)
+- quark:birch_chest? (from ironchests-3.1.1-forge.jar)
+- quark:blossom_chest? (from ironchests-3.1.1-forge.jar)
+- quark:crimson_chest? (from ironchests-3.1.1-forge.jar)
+- quark:dark_oak_chest? (from ironchests-3.1.1-forge.jar)
+- quark:jungle_chest? (from ironchests-3.1.1-forge.jar)
+- quark:mangrove_chest? (from ironchests-3.1.1-forge.jar)
+- quark:oak_chest? (from ironchests-3.1.1-forge.jar)
+- quark:spruce_chest? (from ironchests-3.1.1-forge.jar)
+- quark:warped_chest? (from ironchests-3.1.1-forge.jar)
+
 #forge:ores
+- #minecraft:gold_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:iron_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:diamond_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:redstone_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:lapis_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:coal_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:emerald_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
+- #minecraft:copper_ores (from scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar)
 - #forge:ores/coal (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:ores/copper (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:ores/diamond (from forge-1.19.2-43.2.0-universal.jar)
@@ -7896,8 +9096,28 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #forge:ores/redstone (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:ores/quartz (from forge-1.19.2-43.2.0-universal.jar)
 - #forge:ores/netherite_scrap (from forge-1.19.2-43.2.0-universal.jar)
+- #forge:ores/apatite (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/cinnabar (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/niter (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/sulfur (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/lead (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/nickel (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/silver (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/tin (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/ruby (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/sapphire (from thermal_foundation-1.19.2-10.2.0.47.jar)
+- #forge:ores/aluminum (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:ores/lead (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:ores/silver (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:ores/nickel (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
+- #forge:ores/uranium (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 - create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
 - create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#delightful:drops_straw
+- byg:prairie_grass? (from Delightful-1.19-3.1.3.jar)
+- byg:tall_prairie_grass? (from Delightful-1.19-3.1.3.jar)
+- byg:beach_grass? (from Delightful-1.19-3.1.3.jar)
 
 #minecraft:candles
 - minecraft:candle (from Default)
@@ -7917,6 +9137,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:green_candle (from Default)
 - minecraft:red_candle (from Default)
 - minecraft:black_candle (from Default)
+
+#forge:sheetmetals/iron
+- immersiveengineering:sheetmetal_iron (from ImmersiveEngineering-1.19.2-9.1.2-159.jar)
 
 #forge:fences
 - #forge:fences/nether_brick (from forge-1.19.2-43.2.0-universal.jar)
@@ -7953,6 +9176,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #terralith:moonlight/s4
 - minecraft:stone (from Terralith_v2.3.5.jar)
+
+#forge:storage_blocks/bamboo
+- thermal:bamboo_block (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:storage_blocks/slag
+- thermal:slag_block (from thermal_core-1.19.2-10.2.0.5.jar)
 
 #forge:ore_bearing_ground/deepslate
 - minecraft:deepslate (from forge-1.19.2-43.2.0-universal.jar)
