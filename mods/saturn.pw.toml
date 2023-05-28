@@ -1,14 +1,13 @@
 name = "Saturn"
-filename = "saturn-mc1.19.2-0.0.1.jar"
+filename = "saturn-mc1.19.2-0.0.4.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/2eT495vq/versions/t8sUqMLe/saturn-mc1.19.2-0.0.1.jar"
-hash-format = "sha512"
-hash = "d474252261f38fd6d4928f84a0d48ca8ec8d15d63b2d0e8316ba329488bd8ae8fe8b54f0983773401851d1d3f12efc743f897cef0ed3b3889bf816e9d0349278"
+url = "https://cdn.modrinth.com/data/2eT495vq/versions/1QChLfwp/saturn-mc1.19.2-0.0.4.jar"
+hash-format = "sha1"
+hash = "122c44a1cc9a3894728f5cf099c29ce507b613c1"
 
 [update]
 [update.modrinth]
 mod-id = "2eT495vq"
-version = "t8sUqMLe"
+version = "1QChLfwp"

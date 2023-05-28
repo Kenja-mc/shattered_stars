@@ -1,0 +1,1060 @@
+[accurate-block-placement-reforged]
+name = "Accurate Block Placement Reforged"
+filename = "accurate_block_placement-1.19.2_1.0.jar"
+side = "both"
+site = "curseforge"
+
+[ai-improvements]
+name = "AI Improvements"
+filename = "AI-Improvements-1.19.2-0.5.2.jar"
+side = "both"
+site = "curseforge"
+
+[antighost]
+name = "AntiGhost"
+filename = "antighost-1.19.1-forge42.0.1-1.1.3.jar"
+side = "both"
+site = "modrinth"
+
+[apotheosis]
+name = "Apotheosis"
+filename = "Apotheosis-1.19.2-6.2.1.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "placebo",
+    "patchouli"
+]
+optional = [
+    "enchantment-descriptions",
+    "jei",
+    "jade",
+    "Max Health Fix"
+]
+
+[appleskin]
+name = "AppleSkin"
+filename = "appleskin-forge-mc1.19-2.4.2.jar"
+side = "both"
+site = "curseforge"
+
+[architectury-api]
+name = "Architectury API"
+filename = "architectury-6.5.82-forge.jar"
+side = "both"
+site = "modrinth"
+
+[art-of-forging-a-tetra-addon]
+name = "Art of Forging: A Tetra Addon"
+filename = "art_of_forging-1.6.6-1.19.2.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "tetra",
+    "mutil"
+]
+
+[attribute-tooltip-fix]
+name = "Attribute Tooltip Fix"
+filename = "attributetooltipfix-forge-1.19.2-1.0.0.jar"
+side = "both"
+site = "modrinth"
+
+[attributefix]
+name = "AttributeFix"
+filename = "AttributeFix-Forge-1.19.2-17.2.6.jar"
+side = "both"
+site = "curseforge"
+
+[automobility]
+name = "Automobility"
+filename = "automobility-0.4.1+1.19.2-forge.jar"
+side = "both"
+site = "modrinth"
+
+[autoreglib]
+name = "AutoRegLib"
+filename = "AutoRegLib-1.8.2-55.jar"
+side = "both"
+site = "modrinth"
+
+[balm]
+name = "Balm"
+filename = "balm-forge-1.19.2-4.5.7.jar"
+side = "both"
+site = "modrinth"
+
+[bejs]
+name = "beJS"
+filename = "beJS-1.19.2-1.2.3.jar"
+side = "both"
+site = "curseforge"
+
+[better-combat]
+name = "Better Combat"
+filename = "bettercombat-forge-1.7.1+1.19.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "playeranimator",
+    "cloth-config"
+]
+
+[blockcarpentry]
+name = "BlockCarpentry"
+filename = "blockcarpentry-1.19-0.1.1.1.jar"
+side = "both"
+site = "curseforge"
+
+[blossom]
+name = "Blossom"
+filename = "blossom-forge-1.19.2-1.0.7.jar"
+side = "both"
+site = "modrinth"
+
+[bookshelf]
+name = "Bookshelf"
+filename = "Bookshelf-Forge-1.19.2-16.2.18.jar"
+side = "both"
+site = "curseforge"
+
+[building-gadgets]
+name = "Building Gadgets"
+filename = "buildinggadgets-3.16.2-build.22+mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[butchercraft]
+name = "Butchercraft"
+filename = "butchercraft-2.2.1.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "farmers-delight"
+]
+
+[chest-cavity-forge-port]
+name = "Chest Cavity - Forge Port"
+filename = "chestcavity-forge-1.19.2-2.16.2.6.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "cloth-config"
+]
+
+[chunky]
+name = "Chunky"
+filename = "Chunky-1.3.38.jar"
+side = "both"
+site = "modrinth"
+
+[cloth-config]
+name = "Cloth Config API"
+filename = "cloth-config-8.2.88-forge.jar"
+side = "both"
+site = "modrinth"
+
+[clumps]
+name = "Clumps"
+filename = "Clumps-forge-1.19.2-9.0.0+14.jar"
+side = "both"
+site = "curseforge"
+
+[cobblegenrandomizer]
+name = "CobbleGenRandomizer"
+filename = "cobblegenrandomizer-1.19.2-1.2.jar"
+side = "both"
+site = "curseforge"
+
+[cofh-core]
+name = "CoFH Core"
+filename = "cofh_core-1.19.2-10.2.1.40.jar"
+side = "both"
+site = "modrinth"
+
+[combat-roll]
+name = "Combat Roll"
+filename = "combatroll-forge-1.1.5+1.19.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "playeranimator",
+    "cloth-config"
+]
+
+[compact_storage]
+name = "Compact Storage"
+filename = "compact_storage_forge-5.0.1-1.19.2.jar"
+side = "both"
+site = "modrinth"
+
+[compressedcreativity]
+name = "Compressed Creativity"
+filename = "compressedcreativity-1.19.2-0.1.5.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "create",
+    "pneumaticcraft-repressurized"
+]
+
+[configured]
+name = "Configured"
+filename = "configured-2.1.1-1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[construction-wand]
+name = "Construction Wand"
+filename = "constructionwand-1.19.2-2.10.jar"
+side = "both"
+site = "modrinth"
+
+[continents]
+name = "Continents"
+filename = "Continents_1.19.3_v1.1.2.jar"
+side = "server"
+site = "modrinth"
+
+[controlling]
+name = "Controlling"
+filename = "Controlling-forge-1.19.2-10.0+7.jar"
+side = "both"
+site = "curseforge"
+
+[cooking-for-blockheads]
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-forge-1.19.2-13.3.2.jar"
+side = "both"
+site = "modrinth"
+
+[crafttweaker]
+name = "CraftTweaker"
+filename = "CraftTweaker-forge-1.19.2-10.1.44.jar"
+side = "both"
+site = "curseforge"
+
+[create-big-cannons]
+name = "Create Big Cannons"
+filename = "createbigcannons-1.19.2-beta-0.5.b.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[create-broken-bad]
+name = "Create: Broken Bad"
+filename = "createbb-2.1.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[create-cafe]
+name = "Create Cafe"
+filename = "createcafe-1.1.7-1.19.2.jar"
+side = "server"
+site = "modrinth"
+required = [
+    "create"
+]
+
+[create-industry]
+name = "Create: The Factory Must Grow"
+filename = "createindustry-0.4.0-1.19.2.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[create-jetpack]
+name = "Create Jetpack"
+filename = "create_jetpack-3.1.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "create",
+    "kotlin-for-forge"
+]
+
+[create-molten-geodes]
+name = "Create: Molten Geodes"
+filename = "molten_geodes-1.19.2-0.3.1.jar"
+side = "both"
+site = "curseforge"
+
+[create-ore-excavation]
+name = "Create Ore Excavation"
+filename = "createoreexcavation-1.19-1.2.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "create"
+]
+
+[create-plus]
+name = "Create Goggles (Create Plus)"
+filename = "creategoggles-0.5.4.1-[FORGE].jar"
+side = "both"
+site = "curseforge"
+
+[create-steam-n-rails]
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.2.6+forge-mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[create]
+name = "Create"
+filename = "create-1.19.2-0.5.1.b.jar"
+side = "both"
+site = "modrinth"
+
+[createaddition]
+name = "Create Crafts & Additions"
+filename = "createaddition-1.19.2-20230524a.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[createtweaker]
+name = "CreateTweaker"
+filename = "CreateTweaker-1.19.2-3.0.0.6.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "create"
+]
+
+[creativecore]
+name = "CreativeCore"
+filename = "CreativeCore_FORGE_v2.9.3_mc1.19.2.jar"
+side = "both"
+site = "modrinth"
+
+[ct-overhaul-village]
+name = "ChoiceTheorem's Overhauled Village"
+filename = "ctov-3.2.1.jar"
+side = "both"
+site = "modrinth"
+
+[ctov-farmers-delight-compat]
+name = "ChoiceTheorem's Overhauled Village - Farmer Delight Add-on"
+filename = "ctov-farmers-delight-compat-1.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "ct-overhaul-village",
+    "farmers-delight"
+]
+
+[cull-leaves]
+name = "Cull Leaves"
+filename = "cullleaves-forge-3.0.1.jar"
+side = "client"
+site = "modrinth"
+
+[cultural-delights]
+name = "Cultural Delights"
+filename = "culturaldelights-1.19.2-0.15.2.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "farmers-delight"
+]
+
+[curios-quark-oddities-backpack]
+name = "Curios Quark Oddities Backpack"
+filename = "CuriosQuarkOBP-1.19.2-1.2.3.jar"
+side = "both"
+site = "curseforge"
+
+[curios]
+name = "Curios API"
+filename = "curios-forge-1.19.2-5.1.4.1.jar"
+side = "both"
+site = "modrinth"
+
+[debugify-reforged]
+name = "Debugify Reforged"
+filename = "debugify_reforged-1.0.0-forge-1.19.2.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "cloth-config"
+]
+
+[delightful]
+name = "Delightful"
+filename = "Delightful-1.19-3.1.3.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "farmers-delight"
+]
+
+[devworld]
+name = "DevWorld"
+filename = "DevWorld3-1.19.2-0.0.6-client.jar"
+side = "client"
+site = "modrinth"
+
+[do-a-barrel-roll]
+name = "Do a Barrel Roll"
+filename = "do-a-barrel-roll-2.6.2+1.19.2-forge.jar"
+side = "both"
+site = "modrinth"
+
+[dynamic-view]
+name = "Dynamic View[Forge]"
+filename = "dynview-1.19.1-2.9.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "farsight"
+]
+
+[enchantment-descriptions]
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar"
+side = "both"
+site = "curseforge"
+required = []
+
+[entity-collision-fps-fix]
+name = "Entity Collision FPS Fix"
+filename = "Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+side = "both"
+site = "modrinth"
+
+[entityculling]
+name = "EntityCulling"
+filename = "entityculling-forge-1.6.1-mc1.19.2.jar"
+side = "both"
+site = "modrinth"
+
+[farmers-delight]
+name = "Farmer's Delight"
+filename = "FarmersDelight-1.19-1.2.1.jar"
+side = "both"
+site = "modrinth"
+
+[farming-for-blockheads]
+name = "Farming for Blockheads"
+filename = "farmingforblockheads-forge-1.19.2-11.3.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "balm"
+]
+
+[fastfurnace]
+name = "FastFurnace"
+filename = "FastFurnace-1.19.2-7.0.0.jar"
+side = "both"
+site = "curseforge"
+required = []
+
+[fastsuite]
+name = "FastSuite"
+filename = "FastSuite-1.19.2-4.1.0.jar"
+side = "both"
+site = "curseforge"
+required = []
+
+[fastworkbench]
+name = "FastWorkbench"
+filename = "FastWorkbench-1.19.2-7.1.2.jar"
+side = "both"
+site = "curseforge"
+required = []
+
+[fixmyspawnr]
+name = "FixMySpawnR"
+filename = "FixMySpawnR-forge-1.19.2-1.1.2.jar"
+side = "both"
+site = "curseforge"
+
+[functional-storage]
+name = "Functional Storage"
+filename = "functionalstorage-1.19.2-1.1.3.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "titanium"
+]
+
+[fx-control]
+name = "Fx Control!"
+filename = "fxcontrol-1.19-4.0.11.jar"
+side = "both"
+site = "modrinth"
+
+[goprone]
+name = "GoProne"
+filename = "goprone-1.19-2.0.4.jar"
+side = "both"
+site = "curseforge"
+
+[i-know-what-im-doing]
+name = "I Know What I'm Doing"
+filename = "IKnowWhatImDoing-5.1.1-forge.jar"
+side = "client"
+site = "modrinth"
+
+[ibe-editor]
+name = "IBE Editor"
+filename = "IBEEditor-1.19.2-2.2.2-forge.jar"
+side = "both"
+site = "modrinth"
+
+[immersiveengineering]
+name = "Immersive Engineering"
+filename = "ImmersiveEngineering-1.19.2-9.2.2-165.jar"
+side = "both"
+site = "modrinth"
+
+[in-control]
+name = "In Control!"
+filename = "incontrol-1.19-7.1.7.jar"
+side = "both"
+site = "modrinth"
+
+[inventory-sorter]
+name = "Inventory Sorter"
+filename = "inventorysorter-1.19.2-21.0.4.jar"
+side = "both"
+site = "curseforge"
+
+["it-shall-not-tick-(isnt)"]
+name = "It Shall Not Tick (ISNT)"
+filename = "ItShallNotTick-1.0.11-build.35.jar"
+side = "both"
+site = "modrinth"
+
+[jade]
+name = "Jade"
+filename = "Jade-1.19.1-forge-8.8.1.jar"
+side = "both"
+site = "modrinth"
+
+[jei]
+name = "Just Enough Items"
+filename = "jei-1.19.2-forge-11.5.2.1007.jar"
+side = "both"
+site = "modrinth"
+
+[journeymap]
+name = "JourneyMap"
+filename = "journeymap-1.19.2-5.9.7-forge.jar"
+side = "both"
+site = "modrinth"
+
+[kotlin-for-forge]
+name = "Kotlin for Forge"
+filename = "kotlinforforge-3.12.0-all.jar"
+side = "both"
+site = "modrinth"
+
+[kube-utils]
+name = "Kube Utils"
+filename = "kube-utils-forge-1.0.2+mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[kubejs]
+name = "KubeJS"
+filename = "kubejs-forge-1902.6.0-build.142.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "architectury-api",
+    "rhino"
+]
+
+[lazy-dfu-forge]
+name = "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+filename = "lazydfu-1.19-1.0.2.jar"
+side = "both"
+site = "curseforge"
+
+[log-begone]
+name = "Log Begone"
+filename = "Log-Begone-Forge-1.19-1.0.6.jar"
+side = "both"
+site = "modrinth"
+
+[lootjs]
+name = "LootJS"
+filename = "lootjs-forge-1.19.2-2.8.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "kubejs"
+]
+
+[lootr]
+name = "Lootr (Forge)"
+filename = "lootr-1.19-0.4.23.60.jar"
+side = "both"
+site = "curseforge"
+
+[mahou-tsukai]
+name = "Mahou Tsukai"
+filename = "mahoutsukai-1.19.2-v1.34.42.jar"
+side = "both"
+site = "modrinth"
+
+[mmmmmmmmmmmm]
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "dummmmmmy-1.19.2-1.7.1.jar"
+side = "both"
+site = "curseforge"
+
+[morejs]
+name = "MoreJS: KubeJS Addon"
+filename = "morejs-forge-1.19.2-0.1.1.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "kubejs"
+]
+
+[mouse-tweaks]
+name = "Mouse Tweaks"
+filename = "MouseTweaks-forge-mc1.19-2.23.jar"
+side = "client"
+site = "modrinth"
+
+[movement-plus]
+name = "Movement Plus"
+filename = "MovementPlus-1.19.2-1.1.1.jar"
+side = "both"
+site = "curseforge"
+
+[mutil]
+name = "mutil"
+filename = "mutil-1.19.2-5.1.0.jar"
+side = "both"
+site = "curseforge"
+
+[natures-compass]
+name = "Nature's Compass"
+filename = "NaturesCompass-1.19.2-1.10.0-forge.jar"
+side = "both"
+site = "curseforge"
+
+[no-nv-flash]
+name = "No More Night Vision Flashing!"
+filename = "no_nv_flash-1.19.2-1.5.0.3.jar"
+side = "both"
+site = "modrinth"
+
+[no-telemetry]
+name = "No Telemetry"
+filename = "no-telemetry-1.7.0.jar"
+side = "both"
+site = "modrinth"
+
+[nutritional-balance]
+name = "Nutritional Balance"
+filename = "nutritionalbalance-1.19.2-4.1.4.jar"
+side = "both"
+site = "curseforge"
+
+[patchouli]
+name = "Patchouli"
+filename = "Patchouli-1.19.2-77.jar"
+side = "both"
+site = "modrinth"
+
+[paxi]
+name = "Paxi"
+filename = "Paxi-1.19.2-Forge-3.0.1.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[placebo]
+name = "Placebo"
+filename = "Placebo-1.19.2-7.2.0.jar"
+side = "both"
+site = "curseforge"
+
+[playeranimator]
+name = "playerAnimator"
+filename = "player-animation-lib-forge-1.0.2.jar"
+side = "both"
+site = "curseforge"
+
+[playerrevive]
+name = "PlayerRevive"
+filename = "PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "creativecore"
+]
+
+[pluto]
+name = "Pluto"
+filename = "pluto-mc1.19.2-0.0.7.jar"
+side = "both"
+site = "modrinth"
+
+[pneumaticcraft-repressurized]
+name = "PneumaticCraft: Repressurized"
+filename = "pneumaticcraft-repressurized-1.19.2-4.3.4-24.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "patchouli"
+]
+
+
+[powershot]
+name = "Powershot"
+filename = "powershot-1.4.1-1.19-forge.jar"
+side = "both"
+site = "modrinth"
+
+[quark-oddities]
+name = "Quark Oddities"
+filename = "QuarkOddities-1.18.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "autoreglib"
+]
+
+[quark]
+name = "Quark"
+filename = "Quark-3.4-402.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "autoreglib"
+]
+
+[radon]
+name = "Radon"
+filename = "radon-0.8.2.jar"
+side = "both"
+site = "modrinth"
+
+[refined-cooking]
+name = "Refined Cooking"
+filename = "refinedcooking-3.0.1.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "refined-storage",
+    "cookingforblockheads"
+]
+
+[refined-storage-addons]
+name = "Refined Storage Addons"
+filename = "refinedstorageaddons-0.9.0.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "refined-storage"
+]
+
+[refined-storage]
+name = "Refined Storage"
+filename = "refinedstorage-1.11.6.jar"
+side = "both"
+site = "curseforge"
+
+[rhino]
+name = "Rhino"
+filename = "rhino-forge-1902.2.2-build.268.jar"
+side = "both"
+site = "modrinth"
+
+[rubidium-extra]
+name = "Rubidium Extra"
+filename = "RubidiumExtra-1.19.2-0.4.11.44.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "rubidium"
+]
+
+[rubidium]
+name = "Rubidium"
+filename = "rubidium-0.6.2a.jar"
+side = "client"
+site = "modrinth"
+
+[saturn]
+name = "Saturn"
+filename = "saturn-mc1.19.2-0.0.4.jar"
+side = "both"
+site = "modrinth"
+
+[scannable]
+name = "Scannable"
+filename = "scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "architectury-api"
+]
+
+[screenjs]
+name = "ScreenJS"
+filename = "screenJS-1.19.2-1.1.6.jar"
+side = "both"
+site = "curseforge"
+
+[selene]
+name = "Moonlight Lib"
+filename = "moonlight-1.19.2-2.2.34-forge.jar"
+side = "both"
+site = "curseforge"
+
+[serverconfig-updater]
+name = "ServerConfig Updater"
+filename = "serverconfigupdater-3.2.jar"
+side = "both"
+site = "curseforge"
+
+[shutup-experimental-settings]
+name = "Shutup Experimental Settings!"
+filename = "shutupexperimentalsettings-1.0.5.jar"
+side = "both"
+site = "curseforge"
+
+[slice-and-dice]
+name = "Create Slice & Dice"
+filename = "sliceanddice-forge-2.2.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "create",
+    "farmers-delight",
+    "kotlin-for-forge"
+]
+
+[some-assembly-required]
+name = "Some Assembly Required"
+filename = "some-assembly-required-1.19.2-3.0.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "create",
+    "farmers-delight"
+]
+
+[spark]
+name = "spark"
+filename = "spark-1.10.37-forge.jar"
+side = "both"
+site = "modrinth"
+
+[starlight-forge]
+name = "Starlight (Forge)"
+filename = "starlight-1.1.1+forge.cf5b10b.jar"
+side = "both"
+site = "modrinth"
+
+[suggestion-tweaker]
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.19.1-1.4.1-forge.jar"
+side = "both"
+site = "modrinth"
+
+[supplementaries]
+name = "Supplementaries"
+filename = "supplementaries-1.19.2-2.3.13.jar"
+side = "both"
+site = "curseforge"
+
+[tellme]
+name = "TellMe"
+filename = "tellme-forge-1.19.2-0.10.0.jar"
+side = "both"
+site = "curseforge"
+
+[terralith]
+name = "Terralith"
+filename = "Terralith_1.19.3_v2.3.8.jar"
+side = "both"
+site = "modrinth"
+
+[tetra]
+name = "Tetra"
+filename = "tetra-1.19.2-5.2.1.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "mutil"
+]
+
+[tetratic-combat]
+name = "Tetratic Combat"
+filename = "tetratic-combat-1.19-2.6.jar"
+side = "both"
+site = "curseforge"
+required = [
+    "mutil",
+    "tetra",
+    "better-combat"
+]
+
+[textrues-rubidium-options]
+name = "TexTrue's Rubidium Options"
+filename = "TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "rubidium"
+]
+
+[thermal-cultivation]
+name = "Thermal Cultivation"
+filename = "thermal_cultivation-1.19.2-10.2.0.17.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "cofh-core",
+    "thermal-foundation"
+]
+
+[thermal-foundation]
+name = "Thermal Foundation"
+filename = "thermal_foundation-1.19.2-10.2.0.47.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "cofh-core"
+]
+
+[titanium]
+name = "Titanium"
+filename = "titanium-1.19.2-3.7.3-27.jar"
+side = "both"
+site = "curseforge"
+
+[torchmaster]
+name = "TorchMaster"
+filename = "torchmaster-19.2.0.jar"
+side = "both"
+site = "modrinth"
+
+[towns-and-towers]
+name = "Towns and Towers"
+filename = "Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar"
+side = "both"
+site = "modrinth"
+
+[when-dungeons-arise]
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.19.2-2.1.52-beta.jar"
+side = "both"
+site = "modrinth"
+
+[worldedit]
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.12.jar"
+side = "both"
+site = "curseforge"
+
+[yungs-api]
+name = "YUNG's API"
+filename = "YungsApi-1.19.2-Forge-3.8.9.jar"
+side = "both"
+site = "modrinth"
+
+[yungs-better-desert-temples]
+name = "YUNG's Better Desert Temples"
+filename = "YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-dungeons]
+name = "YUNG's Better Dungeons"
+filename = "YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-mineshafts]
+name = "YUNG's Better Mineshafts"
+filename = "YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-nether-fortresses]
+name = "YUNG's Better Nether Fortresses"
+filename = "YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-ocean-monuments]
+name = "YUNG's Better Ocean Monuments"
+filename = "YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-strongholds]
+name = "YUNG's Better Strongholds"
+filename = "YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-better-witch-huts]
+name = "YUNG's Better Witch Huts"
+filename = "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-bridges]
+name = "YUNG's Bridges"
+filename = "YungsBridges-1.19.2-Forge-3.1.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]
+
+[yungs-extras]
+name = "YUNG's Extras"
+filename = "YungsExtras-1.19.2-Forge-3.1.0.jar"
+side = "both"
+site = "modrinth"
+required = [
+    "yungs-api"
+]

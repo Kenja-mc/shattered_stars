@@ -1,0 +1,13 @@
+name = "Biomancy"
+filename = "biomancy-forge-1.19.2-2.0.53.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uAAuyU4M/versions/9ZfE2sd2/biomancy-forge-1.19.2-2.0.53.2.jar"
+hash-format = "sha1"
+hash = "7a4c09bc275004c734df7533d6eca475b76137b5"
+
+[update]
+[update.modrinth]
+mod-id = "uAAuyU4M"
+version = "9ZfE2sd2"
