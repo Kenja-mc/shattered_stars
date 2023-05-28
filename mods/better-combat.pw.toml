@@ -1,13 +1,13 @@
 name = "Better Combat"
-filename = "bettercombat-forge-1.6.2+1.19.jar"
+filename = "bettercombat-forge-1.7.1+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/PnxjxCao/bettercombat-forge-1.6.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/d51cgiPN/bettercombat-forge-1.7.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "a0aaf84d49010dae4fb0300b1c4decb4403a0965"
+hash = "d56b38f8d809389b579f65dee51977037d313b60"
 
 [update]
 [update.modrinth]
 mod-id = "5sy6g3kz"
-version = "PnxjxCao"
+version = "d51cgiPN"

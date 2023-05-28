@@ -43,3 +43,9 @@ packwiz.json
 
 # Ignore Modrinth Files
 *.mrpack
+
+# Ignore util files
+curseforge_mods.toml
+dependencies.toml
+modDependencies.py
+modrinth_mods.toml

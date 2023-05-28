@@ -1,0 +1,13 @@
+name = "Rally Health"
+filename = "RallyHealth-forge-1.19.3-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9921a1b5b0d1b3e1562dd01c11dc8aa61094359d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4338908
+project-id = 290282

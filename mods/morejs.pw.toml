@@ -1,14 +1,13 @@
 name = "MoreJS: KubeJS Addon"
-filename = "morejs-forge-1.19.2-0.0.7.jar"
+filename = "morejs-forge-1.19.2-0.1.1.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/mo64mR1W/versions/bXNVYmSJ/morejs-forge-1.19.2-0.0.7.jar"
-hash-format = "sha512"
-hash = "673e74741d53db1f271687b36b3265859e0bd1c4b90b66b44d1a3e1413083dbd8688e94cbcc80beecda6a5c8d5d9f3d16b172d295cf38bc35b33770eec2b6f61"
+url = "https://cdn.modrinth.com/data/mo64mR1W/versions/Isxn8P9F/morejs-forge-1.19.2-0.1.1.jar"
+hash-format = "sha1"
+hash = "d35d74d68d032a3d5bd15ba302b27e34c791d179"
 
 [update]
 [update.modrinth]
 mod-id = "mo64mR1W"
-version = "bXNVYmSJ"
+version = "Isxn8P9F"

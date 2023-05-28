@@ -1,0 +1,13 @@
+name = "Trajan's Tanks (Forge)"
+filename = "trajans-tanks-forge-1.19-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b65a2d3888a61b26d2f2c2631529df1a52d9882"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4166599
+project-id = 543246

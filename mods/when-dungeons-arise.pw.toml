@@ -1,13 +1,13 @@
 name = "When Dungeons Arise"
-filename = "DungeonsArise-1.19.2-2.1.52-beta.jar"
+filename = "DungeonsArise-1.19.2-2.1.54-release.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8DfbfASn/versions/wtEUJaeq/DungeonsArise-1.19.2-2.1.52-beta.jar"
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/v9V9LIbE/DungeonsArise-1.19.2-2.1.54-release.jar"
 hash-format = "sha1"
-hash = "edac46e106985feb9db77d82f60ca89b56274c72"
+hash = "9f49ef7156a8c29483e3111a851bc6e5fa184c3b"
 
 [update]
 [update.modrinth]
 mod-id = "8DfbfASn"
-version = "wtEUJaeq"
+version = "v9V9LIbE"

@@ -3,10 +3,9 @@ filename = "Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/GiriLmaY/versions/1.0/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
-hash-format = "sha512"
-hash = "86f65e8ec5203937da7e279d8e071bee96782137894711faa8b7d18560e8c17e51f3f8c8c9cc4b802b1f620973d3d11aab43514d6035d33e8081ae8a9f1dcff2"
+hash-format = "sha1"
+hash = "94d839d042bf80a52f86528976ab693851faa6c0"
 
 [update]
 [update.modrinth]

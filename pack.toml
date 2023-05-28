@@ -1,13 +1,13 @@
 name = "shattered_stars"
-author = "Kenja__, Strange-Bird-of-the-Moon"
-version = "3.3.0"
+author = "Kenja, Strange-Bird-of-the-Moon"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ffd71dc68bb12889a2fc920d82e99f63a79056d44a96649dcfb550dc0fc0c6a4"
+hash = "eb08102bda1b440f242a8f07ba97b190a9ac37525f92f1f7e6fbe38c9dea1179"
 
 [versions]
-forge = "43.2.6"
+forge = "43.2.11"
 minecraft = "1.19.2"
