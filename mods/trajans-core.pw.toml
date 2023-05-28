@@ -1,0 +1,13 @@
+name = "Trajan's Core (Forge)"
+filename = "trajanscore-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9aeef6f45325ec6b7390545f58925a6b2dbfdf73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4166582
+project-id = 626570

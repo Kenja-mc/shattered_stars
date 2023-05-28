@@ -3,10 +3,9 @@ filename = "dynview-1.19.1-2.9.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "15f5ae3923d1082a062700c78a4eee92513581d6"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

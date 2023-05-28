@@ -1,14 +1,13 @@
 name = "Pluto"
-filename = "pluto-mc1.19.2-0.0.7.jar"
+filename = "pluto-mc1.19.2-0.0.9.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/I2K4u1Q7/versions/AuqPLrTB/pluto-mc1.19.2-0.0.7.jar"
-hash-format = "sha512"
-hash = "6c6c59d601143db20bcefca7bb6916acc6bdf4f811d179e0932078374c84c088cd2cc61f62d940edf683bda9c39ae5455e9eacd68154eb6ff20fd8d7b4fb517e"
+url = "https://cdn.modrinth.com/data/I2K4u1Q7/versions/7JnXMAAf/pluto-mc1.19.2-0.0.9.jar"
+hash-format = "sha1"
+hash = "b0e9b7817ebfae40a56da53129361822ee379974"
 
 [update]
 [update.modrinth]
 mod-id = "I2K4u1Q7"
-version = "AuqPLrTB"
+version = "7JnXMAAf"

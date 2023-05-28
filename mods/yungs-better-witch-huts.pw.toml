@@ -3,10 +3,9 @@ filename = "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/t5FRdP87/versions/rAwSL8Wn/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar"
-hash-format = "sha512"
-hash = "a2e99a79d3a8c3479a77eb825e500fee559deffc6535af9a2bae506f5292bfe191014610efa2926adf8f83e425055a1836b730e57592376aea07ffa46e09bd7a"
+hash-format = "sha1"
+hash = "c1a2d60217e127d5cf6683bae6b3dfa5c1afa284"
 
 [update]
 [update.modrinth]

@@ -3,10 +3,9 @@ filename = "YungsExtras-1.19.2-Forge-3.1.0.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/Ltax470w/YungsExtras-1.19.2-Forge-3.1.0.jar"
-hash-format = "sha512"
-hash = "94201787023b3fc0467405b1ba95b09ae505983d83edba554bf2fd2b82d16c67b4d288a358b5ddc3a9942f6e4ac37f7844bfb7a169a79ce1cecb844f8dba6ffd"
+hash-format = "sha1"
+hash = "9bc4e7753c10ba8900b8abd11453b18f17637608"
 
 [update]
 [update.modrinth]

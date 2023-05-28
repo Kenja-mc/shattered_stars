@@ -1,0 +1,13 @@
+name = "Farmer's Compats"
+filename = "nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "771538109b412e8e6c2260707d0dd19c17c3485d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4278163
+project-id = 782900
