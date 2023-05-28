@@ -1178,7 +1178,7 @@ hash = "20f50bfb1abbd407b4ae07a14944bffcb554cca9876507d5750a6393c6a68a0a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "a354c33550a58e879968377e65449bce505e24e110103069956369273c3b2b7b"
+hash = "e351ff8a766d722bcbc728beae6947d4fe6e640f97797b27b9f2be0b8fdceac8"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -2062,4 +2062,4 @@ metafile = true
 
 [[files]]
 file = "scripts/presteam.zs"
-hash = "a5ead90ca33bc4a2a845c0bc1009bae683ad04523213fc85591a51bddb4e025b"
+hash = "b2e921ce8b84844da9fa353c4b0ca69b0105c131c79cefae4497ad02bb112297"
