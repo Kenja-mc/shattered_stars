@@ -1,0 +1,13 @@
+name = "Engineers Delight"
+filename = "Engineers Delight 1.19.2 B.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4fb7lmRe/versions/goN1x54i/Engineers%20Delight%201.19.2%20B.1.0.jar"
+hash-format = "sha1"
+hash = "ecc3d32a90c1020698651c5d4eb2b9a6fd82aff0"
+
+[update]
+[update.modrinth]
+mod-id = "4fb7lmRe"
+version = "goN1x54i"

@@ -1,0 +1,13 @@
+name = "Natural Absorption"
+filename = "naturalabsorption-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d95b243451994166be7c273e82802aaa70ff163a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488837
+project-id = 224296

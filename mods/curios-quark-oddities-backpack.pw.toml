@@ -1,13 +1,13 @@
 name = "Curios Quark Oddities Backpack"
-filename = "CuriosQuarkOBP-1.19.2-1.2.2.jar"
+filename = "CuriosQuarkOBP-1.19.2-1.2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b9f38d89c10056dfcd2828b1171af0d00dee6c8f"
+hash = "13bd521641456fe5462074f977ed2e142cbe24fa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3964849
+file-id = 4534773
 project-id = 445208

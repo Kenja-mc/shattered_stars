@@ -1,0 +1,353 @@
+[accurate-block-placement-reforged]
+name = "Accurate Block Placement Reforged"
+filename = "accurate_block_placement-1.19.2_1.0.jar"
+side = "both"
+site = "curseforge"
+
+[ai-improvements]
+name = "AI Improvements"
+filename = "AI-Improvements-1.19.2-0.5.2.jar"
+side = "both"
+site = "curseforge"
+
+[apotheosis]
+name = "Apotheosis"
+filename = "Apotheosis-1.19.2-6.2.1.jar"
+side = "both"
+site = "curseforge"
+
+[appleskin]
+name = "AppleSkin"
+filename = "appleskin-forge-mc1.19-2.4.2.jar"
+side = "both"
+site = "curseforge"
+
+[art-of-forging-a-tetra-addon]
+name = "Art of Forging: A Tetra Addon"
+filename = "art_of_forging-1.6.6-1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[attributefix]
+name = "AttributeFix"
+filename = "AttributeFix-Forge-1.19.2-17.2.6.jar"
+side = "both"
+site = "curseforge"
+
+[bejs]
+name = "beJS"
+filename = "beJS-1.19.2-1.2.3.jar"
+side = "both"
+site = "curseforge"
+
+[blockcarpentry]
+name = "BlockCarpentry"
+filename = "blockcarpentry-1.19-0.1.1.1.jar"
+side = "both"
+site = "curseforge"
+
+[bookshelf]
+name = "Bookshelf"
+filename = "Bookshelf-Forge-1.19.2-16.2.18.jar"
+side = "both"
+site = "curseforge"
+
+[building-gadgets]
+name = "Building Gadgets"
+filename = "buildinggadgets-3.16.2-build.22+mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[butchercraft]
+name = "Butchercraft"
+filename = "butchercraft-2.2.1.jar"
+side = "both"
+site = "curseforge"
+
+[chest-cavity-forge-port]
+name = "Chest Cavity - Forge Port"
+filename = "chestcavity-forge-1.19.2-2.16.2.6.jar"
+side = "both"
+site = "curseforge"
+
+[clumps]
+name = "Clumps"
+filename = "Clumps-forge-1.19.2-9.0.0+14.jar"
+side = "both"
+site = "curseforge"
+
+[cobblegenrandomizer]
+name = "CobbleGenRandomizer"
+filename = "cobblegenrandomizer-1.19.2-1.2.jar"
+side = "both"
+site = "curseforge"
+
+[configured]
+name = "Configured"
+filename = "configured-2.1.1-1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[controlling]
+name = "Controlling"
+filename = "Controlling-forge-1.19.2-10.0+7.jar"
+side = "both"
+site = "curseforge"
+
+[crafttweaker]
+name = "CraftTweaker"
+filename = "CraftTweaker-forge-1.19.2-10.1.44.jar"
+side = "both"
+site = "curseforge"
+
+[create-big-cannons]
+name = "Create Big Cannons"
+filename = "createbigcannons-1.19.2-beta-0.5.b.jar"
+side = "both"
+site = "curseforge"
+
+[create-broken-bad]
+name = "Create: Broken Bad"
+filename = "createbb-2.1.jar"
+side = "both"
+site = "curseforge"
+
+[create-industry]
+name = "Create: The Factory Must Grow"
+filename = "createindustry-0.4.0-1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[create-molten-geodes]
+name = "Create: Molten Geodes"
+filename = "molten_geodes-1.19.2-0.3.1.jar"
+side = "both"
+site = "curseforge"
+
+[create-plus]
+name = "Create Goggles (Create Plus)"
+filename = "creategoggles-0.5.4.1-[FORGE].jar"
+side = "both"
+site = "curseforge"
+
+[create-steam-n-rails]
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.2.6+forge-mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[createaddition]
+name = "Create Crafts & Additions"
+filename = "createaddition-1.19.2-20230524a.jar"
+side = "both"
+site = "curseforge"
+
+[createtweaker]
+name = "CreateTweaker"
+filename = "CreateTweaker-1.19.2-3.0.0.6.jar"
+side = "both"
+site = "curseforge"
+
+[cultural-delights]
+name = "Cultural Delights"
+filename = "culturaldelights-1.19.2-0.15.2.jar"
+side = "both"
+site = "curseforge"
+
+[curios-quark-oddities-backpack]
+name = "Curios Quark Oddities Backpack"
+filename = "CuriosQuarkOBP-1.19.2-1.2.3.jar"
+side = "both"
+site = "curseforge"
+
+[debugify-reforged]
+name = "Debugify Reforged"
+filename = "debugify_reforged-1.0.0-forge-1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[dynamic-view]
+name = "Dynamic View[Forge]"
+filename = "dynview-1.19.1-2.9.jar"
+side = "both"
+site = "curseforge"
+
+[enchantment-descriptions]
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar"
+side = "both"
+site = "curseforge"
+
+[fastfurnace]
+name = "FastFurnace"
+filename = "FastFurnace-1.19.2-7.0.0.jar"
+side = "both"
+site = "curseforge"
+
+[fastsuite]
+name = "FastSuite"
+filename = "FastSuite-1.19.2-4.1.0.jar"
+side = "both"
+site = "curseforge"
+
+[fastworkbench]
+name = "FastWorkbench"
+filename = "FastWorkbench-1.19.2-7.1.2.jar"
+side = "both"
+site = "curseforge"
+
+[fixmyspawnr]
+name = "FixMySpawnR"
+filename = "FixMySpawnR-forge-1.19.2-1.1.2.jar"
+side = "both"
+site = "curseforge"
+
+[functional-storage]
+name = "Functional Storage"
+filename = "functionalstorage-1.19.2-1.1.3.jar"
+side = "both"
+site = "curseforge"
+
+[goprone]
+name = "GoProne"
+filename = "goprone-1.19-2.0.4.jar"
+side = "both"
+site = "curseforge"
+
+[inventory-sorter]
+name = "Inventory Sorter"
+filename = "inventorysorter-1.19.2-21.0.4.jar"
+side = "both"
+site = "curseforge"
+
+[kube-utils]
+name = "Kube Utils"
+filename = "kube-utils-forge-1.0.2+mc1.19.2.jar"
+side = "both"
+site = "curseforge"
+
+[lazy-dfu-forge]
+name = "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+filename = "lazydfu-1.19-1.0.2.jar"
+side = "both"
+site = "curseforge"
+
+[lootr]
+name = "Lootr (Forge)"
+filename = "lootr-1.19-0.4.23.60.jar"
+side = "both"
+site = "curseforge"
+
+[mmmmmmmmmmmm]
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "dummmmmmy-1.19.2-1.7.1.jar"
+side = "both"
+site = "curseforge"
+
+[movement-plus]
+name = "Movement Plus"
+filename = "MovementPlus-1.19.2-1.1.1.jar"
+side = "both"
+site = "curseforge"
+
+[mutil]
+name = "mutil"
+filename = "mutil-1.19.2-5.1.0.jar"
+side = "both"
+site = "curseforge"
+
+[natures-compass]
+name = "Nature's Compass"
+filename = "NaturesCompass-1.19.2-1.10.0-forge.jar"
+side = "both"
+site = "curseforge"
+
+[nutritional-balance]
+name = "Nutritional Balance"
+filename = "nutritionalbalance-1.19.2-4.1.4.jar"
+side = "both"
+site = "curseforge"
+
+[placebo]
+name = "Placebo"
+filename = "Placebo-1.19.2-7.2.0.jar"
+side = "both"
+site = "curseforge"
+
+[playeranimator]
+name = "playerAnimator"
+filename = "player-animation-lib-forge-1.0.2.jar"
+side = "both"
+site = "curseforge"
+
+[refined-storage-addons]
+name = "Refined Storage Addons"
+filename = "refinedstorageaddons-0.9.0.jar"
+side = "both"
+site = "curseforge"
+
+[refined-storage]
+name = "Refined Storage"
+filename = "refinedstorage-1.11.6.jar"
+side = "both"
+site = "curseforge"
+
+[screenjs]
+name = "ScreenJS"
+filename = "screenJS-1.19.2-1.1.6.jar"
+side = "both"
+site = "curseforge"
+
+[selene]
+name = "Moonlight Lib"
+filename = "moonlight-1.19.2-2.2.34-forge.jar"
+side = "both"
+site = "curseforge"
+
+[serverconfig-updater]
+name = "ServerConfig Updater"
+filename = "serverconfigupdater-3.2.jar"
+side = "both"
+site = "curseforge"
+
+[shutup-experimental-settings]
+name = "Shutup Experimental Settings!"
+filename = "shutupexperimentalsettings-1.0.5.jar"
+side = "both"
+site = "curseforge"
+
+[supplementaries]
+name = "Supplementaries"
+filename = "supplementaries-1.19.2-2.3.13.jar"
+side = "both"
+site = "curseforge"
+
+[tellme]
+name = "TellMe"
+filename = "tellme-forge-1.19.2-0.10.0.jar"
+side = "both"
+site = "curseforge"
+
+[tetra]
+name = "Tetra"
+filename = "tetra-1.19.2-5.2.1.jar"
+side = "both"
+site = "curseforge"
+
+[tetratic-combat]
+name = "Tetratic Combat"
+filename = "tetratic-combat-1.19-2.6.jar"
+side = "both"
+site = "curseforge"
+
+[titanium]
+name = "Titanium"
+filename = "titanium-1.19.2-3.7.3-27.jar"
+side = "both"
+site = "curseforge"
+
+[worldedit]
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.12.jar"
+side = "both"
+site = "curseforge"

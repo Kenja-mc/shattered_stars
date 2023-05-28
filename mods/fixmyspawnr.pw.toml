@@ -3,10 +3,9 @@ filename = "FixMySpawnR-forge-1.19.2-1.1.2.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "474f900006da2647339a69a3c9a19ed1946010e9"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,10 +3,9 @@ filename = "kubejs-forge-1902.6.0-build.142.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/umyGl7zF/versions/pZIQNE9z/kubejs-forge-1902.6.0-build.142.jar"
-hash-format = "sha512"
-hash = "dd449982e07a009fe642cb2574c8fb7af16ab0426f7327b62c5b49b0013d9f2dbf1a52c4d0c384ec737166e8780b555f19e59149dfbf6bb0340612071926197b"
+hash-format = "sha1"
+hash = "7286bedd803023852de2ba31cbc85cf16ac0f872"
 
 [update]
 [update.modrinth]

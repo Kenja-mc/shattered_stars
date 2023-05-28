@@ -25,6 +25,16 @@ StartupEvents.registry('item', event => {
 
 })
 
+StartupEvents.registry('fluid', e => {
+	e.create('molten_cast_iron')
+		.thickTexture(0xf02b11)
+		.bucketColor(0xf02b11)
+		.displayName('Molten Cast Iron')
+		.luminosity(15)
+		.stillTexture('block/thick_fluid_still')
+		.flowingTexture('block/thick_fluid_flow')
+})
+
 StartupEvents.registry('block', event => {
 	// Register new blocks here
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')

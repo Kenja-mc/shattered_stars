@@ -1,0 +1,13 @@
+name = "Magnesium/Rubidium Dynamic Lights"
+filename = "dynamiclightsreforged-1.19.2_v1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0daf3672f980c4d9ed83dfbebce51b07956c5d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4285414
+project-id = 551736
