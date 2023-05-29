@@ -38,6 +38,10 @@
                     "generic.attack_damage": 1
                 },
                 "tools": {
+                    "shovel_dig": [
+                        0.6,
+                        0.6
+                    ],
                     "hoe_dig": [
                         1,
                         1

@@ -13,13 +13,8 @@
 			"materials": [ "tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:gem/", "tetra:bone/" ],
 			"key": "saber_blade/",
 			"attributes": {
-				"generic.attack_speed": -1.8,
-				"generic.attack_damage": 0.13,
-				"forge:reach_distance": -0.75
-			},
-			"effects": {
-				"sweeping": 1,
-				"jab": 85
+				"generic.attack_speed": -1.4,
+				"forge:reach_distance": -0.5
 			},
 			"tools": {
 				"cut": [ 1, 2 ]
@@ -31,18 +26,22 @@
 			"durability": -20,
 			"extract": {
 				"primaryAttributes": {
-					"generic.attack_damage": 1
+					"generic.attack_damage": 0.8
+				},
+				"secondaryAttributes": {
+					"generic.attack_speed": -0.05
+				},
+				"tertiaryAttributes": {
+					"generic.attack_damage": 0.2
 				},
 				"tools": {
 					"cut": [ 0.5, 1 ]
 				},
 				"primaryEffects": {
-					"sweeping": 1,
-					"jab": 5
+					"sweeping": 0.25
 				},
 				"tertiaryEffects": {
-					"sweeping": 0.5,
-					"jab": -4.5
+					"sweeping": 0.5
 				},
 				"durability": 0.9,
 				"integrity": -1,

@@ -21,10 +21,10 @@
             ],
             "key": "basic_blade/",
             "attributes": {
-                "generic.attack_speed": -1.9
+                "generic.attack_speed": -1.5
             },
             "effects": {
-                
+                "sweeping": 1
             },
             "tools": {
                 "cut": [
@@ -41,7 +41,9 @@
                 "primaryAttributes": {
                     "generic.attack_damage": 1
                 },
-                
+                "secondaryAttributes": {
+                    "generic.attack_speed": -0.1
+                },
                 "durability": 0.9,
                 "integrity": -1,
                 "magicCapacity": 1,

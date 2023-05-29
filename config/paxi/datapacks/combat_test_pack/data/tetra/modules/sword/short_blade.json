@@ -21,9 +21,9 @@
             ],
             "key": "short_blade/",
             "attributes": {
-                "generic.attack_speed": -1,
+                "generic.attack_speed": -1.2,
                 "generic.attack_damage": -0.5,
-                "forge:reach_distance": -0.75
+                "forge:reach_distance": -0.5
             },
             "aspects": {
                 "edgedWeapon": 2,
@@ -38,7 +38,7 @@
                     "generic.attack_damage": 1
                 },
                 "secondaryAttributes": {
-                    "generic.attack_speed": -0.1
+                    "generic.attack_speed": -0.05
                 },
                 "secondaryEffects": {
                     "jab": -8

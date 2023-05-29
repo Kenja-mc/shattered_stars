@@ -1,9 +1,7 @@
 {
   "Version": 1.0,
   "attributemap":{
-
     "double/head_left": {
-
       "double/tomahawk_left": {
         "config": {
           "attributes": {
@@ -11,17 +9,7 @@
           }
         }
       },
-
-      "double/head_left": {
-        "double/basic_axe_left": {
-          "config": {
-            "attributes": {
-              "parent": "bettercombat:axe"
-            }
-          }
-        }
-      },
-
+      
       "double/void_worm_pickaxe": {
         "config": {
           "type":"improvement",
@@ -32,11 +20,8 @@
           }
         }
       }
-      
     },
-
     "single/head": {
-
       "single/cane_head": {
         "config": {
           "attributes": {
@@ -44,7 +29,6 @@
           }
         }
       },
-
       "single/quarter_staff_head": {
         "config": {
           "attributes": {
@@ -52,7 +36,6 @@
           }
         }
       },
-
       "single/halberd_head": {
         "config": {
           "scaleY": 2.0,
@@ -62,7 +45,6 @@
           }
         }
       },
-      
       "single/mace_head": {
         "config": {
           "attributes": {
@@ -70,11 +52,8 @@
           }
         }
       }
-
     },
-
     "sword/blade": {
-      
       "sword/bastard_blade": {
         "config": {
           "attributes": {
@@ -82,7 +61,6 @@
           }
         }
       },
-
       "sword/crucible_blade": {
         "config": {
           "attributes": {
@@ -90,7 +68,6 @@
           }
         }
       },
-
       "sword/executioner_blade": {
         "config": {
           "attributes": {
@@ -98,7 +75,6 @@
           }
         }
       },
-
       "sword/flamberge_blade": {
         "config": {
           "attributes": {
@@ -106,7 +82,20 @@
           }
         }
       },
-            
+      "sword/rending_scissor_purple": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:sword"
+          }
+        }
+      },
+      "sword/rending_scissor_red": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:sword"
+          }
+        }
+      },
       "sword/katana_blade": {
         "config": {
           "attributes": {
@@ -114,7 +103,6 @@
           }
         }
       },
-
       "sword/rapier_blade": {
         "config": {
           "attributes": {
@@ -122,7 +110,20 @@
           }
         }
       },
-           
+      "sword/shifting_blade": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:sword"
+          }
+        }
+      },
+      "sword/void_worm_cleaver": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:claymore"
+          }
+        }
+      },
       "sword/heavy_blade": {
         "config": {
           "attributes": {
@@ -130,7 +131,6 @@
           }
         }
       },
-
       "sword/machete": {
         "config": {
           "attributes": {
@@ -138,7 +138,6 @@
           }
         }
       },
-
       "sword/saber_blade": {
         "config": {
           "attributes": {
@@ -146,7 +145,6 @@
           }
         }
       }
-      
     }
   }
 }

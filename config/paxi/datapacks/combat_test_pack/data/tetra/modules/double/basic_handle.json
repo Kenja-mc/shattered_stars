@@ -21,7 +21,7 @@
             ],
             "key": "basic_handle/",
             "attributes": {
-                "generic.attack_speed": -0.375
+                "generic.attack_speed": -0.4
             },
             "aspects": {
                 "blockBreaker": 1,
@@ -33,7 +33,7 @@
                 "secondaryAttributes": {
                     "generic.attack_speed": -0.05
                 },
-                "durability": 0.5,
+                "durability": 0.3,
                 "integrity": 1,
                 "magicCapacity": 1,
                 "glyph": {

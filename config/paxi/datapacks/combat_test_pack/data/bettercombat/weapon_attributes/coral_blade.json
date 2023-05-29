@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "attack_range": 2.5,
+    "attack_range": 3,
     "two_handed": true,
     "pose": "bettercombat:pose_two_handed_sword",
     "category": "coral_blade",
@@ -8,7 +8,7 @@
       {
         "hitbox": "VERTICAL_PLANE",
         "damage_multiplier": 1,
-        "angle": 150,
+        "angle": 120,
         "upswing": 0.5,
         "animation": "bettercombat:two_handed_slam",
         "swing_sound": {

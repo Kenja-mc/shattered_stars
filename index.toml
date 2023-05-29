@@ -78,7 +78,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/assets/tetra/lang/en_us.json"
-hash = "c053abbae4982442c28489d9d77968820c55de4577ebd0304ddc87b29f7410ca"
+hash = "2dcdcef1be8862eaa6061f6b07d8898a8102619b7c8172912502eaaa1923856c"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/anchor.json"
@@ -102,7 +102,7 @@ hash = "2c81c9144f688e61a496189b0bc5670b8566504adfa8f4cbdf506c00ff45dbf9"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/coral_blade.json"
-hash = "47a2e86a6cdfcda589addc966a416c7b943773a9d731c53d70df2c58d3eed932"
+hash = "af2d6f8b89f942ce4f0126cdc9185357cb548c865d4aff16d43d36f934a8f2a6"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/cutlass.json"
@@ -110,7 +110,7 @@ hash = "6cb15d539e6c78b2e4a4350d428bc49b052a6028ab656889aa99af3bedd9d7ad"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/dagger.json"
-hash = "1d06a20d30b4199ad6ea9d30bdcd6cc149a8bc37dcdefce279cbba927b8c5104"
+hash = "8d24367b60384a02d866ad86ed6236372f21fbaaa9d6d34c400f5f94c3ec1b8c"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attributes/double_axe.json"
@@ -189,528 +189,104 @@ file = "config/paxi/datapacks/combat_test_pack/data/bettercombat/weapon_attribut
 hash = "9417e478365c9a2e658a281fda0b6ec6b5731eceab3f4f5b3acffc151834b053"
 
 [[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/hooked.json"
-hash = "f69773a3bc37eaccf2c5f136e18f1cb2434752c6c3153e883bf5ef4e88152e2a"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/serrated.json"
-hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/bastard_blade/tempered.json"
-hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/hooked.json"
-hash = "f69773a3bc37eaccf2c5f136e18f1cb2434752c6c3153e883bf5ef4e88152e2a"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/serrated.json"
-hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/executioner_blade/tempered.json"
-hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/flamberge_blade/serrated.json"
-hash = "3dc0d83c01a7aa498ce49a770af48ad875ff59d7228184f0af602d8438ebf1da"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/flamberge_blade/tempered.json"
-hash = "443e0296f0c25cc48f6104d3e1637e45bb3961e5c40ab98f03b0fc95529493a6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/murasama_imprv.json"
-hash = "c8aa5c505c94a8fc703ea19a961dcbea0b0ef05f14f313e51e71da75e98bc6e2"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/serrated.json"
-hash = "b331d128ad8bee757648781d7e3db3e8798827379f9924a157b73df4d7f99530"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/katana_blade/tempered.json"
-hash = "36592e732d10b8d78706925c3e9b9d85c6cb70388b4a89b78dd30a2d619032a9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/rapier_blade/serrated.json"
-hash = "aac88b31bafff759fe5f1682c5dc8f4feb954d4b0bcf9a05d24cacd764a93d5f"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/rapier_blade/tempered.json"
-hash = "744997d2879d7decf0a94e1fd21e457d915dab4d44cf0144483f18a407a23b8e"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/saber_blade/hooked.json"
-hash = "9500f68022c540c3acd2a528b52fa979b34332d6fb01ebab8c42b4de58a07a43"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/improvements/sword/saber_blade/serrated.json"
-hash = "aac88b31bafff759fe5f1682c5dc8f4feb954d4b0bcf9a05d24cacd764a93d5f"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/bone.json"
-hash = "bcfe14531c2c38feed39634406a0f8e8c98cf455b60a953a102b27bbbad2e2be"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/compat/dragon_bone.json"
-hash = "64fa560309aed2e023e83dcbc9e6e74a38cf2e6f22bfd98246dec40736a19413"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/bone/compat/wither_bone.json"
-hash = "77e81d4783f9a80b58bad47566b615bb391dc50a713e6aa19d35537a066937be"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool.json"
-hash = "a9a117f939bad58d4d34392618ddfca2baaed9b1e5e4b8b52ab0794aaaf219b8"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_black.json"
-hash = "c471515a1e34ed7089bf9428b7ddd5e7e1a40012e18f6b81f5ec4701703142bd"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_blue.json"
-hash = "b074a98e0f397b68ef27616ea52a0fa584de134e06b015441c792eead49b9f98"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_brown.json"
-hash = "a76e6c4ba54082f4efabd1cfaf3e400b27d98aaeceb3a9c8c02a56aca21cc60f"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_cyan.json"
-hash = "a9fcc1e133656dbd9550cbf7cba232a87db26d449fe5a3bb7a1acf56cac504ee"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_gray.json"
-hash = "eab8af2bf20230db5abb5af7a063e05d34d73601d02352c439102097c7812103"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_green.json"
-hash = "1f7e76f2dedb839b47812d126280b1c17eb7548ef94f4b06d77a5554c598b9a6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_light_blue.json"
-hash = "bf12b8eef0276d7da94315a6f0e4ff04482bdc9bdb29089c9f159101e822e784"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_light_gray.json"
-hash = "1665c8db2fe0e7982062733ee542e94cfdedaa2bf3f00527af6b7a067b82f132"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_lime.json"
-hash = "0b2cbb4b9ec3db3edb188d3d89d536c3c01de61ff48d3da6e0a0f7e447f6aac4"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_magenta.json"
-hash = "faf14643e8c08162a4403d61ff6e0fb65e59d86ebf4fb28ca34675dea7042416"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_orange.json"
-hash = "01e59ad9c5f4110a038c328edb8a213923f244ee457875a9cafe238c8a0a6092"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_pink.json"
-hash = "1db6fd8b235bc1eb77cc27d0c349a9c915b58d7cf6a93380f8ed04156e820e40"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_purple.json"
-hash = "81e5d9b57313540aaac21c7e6c03c0b90d6892fdc56be86519f94f8b2e9f9b04"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_red.json"
-hash = "145bed55796c9570e1c1bdf5c9ce3051f37808d361c131e6a487606ddcd02db6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fabric/wool/wool_yellow.json"
-hash = "4a44cb4e2bc69f883904d5b7716b106c4566b443ba90d19ba4987bf534709c9b"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/compat/hemp.json"
-hash = "00f4cb98c55f9247423f9cbccf891faabf021ca282a7bd7983047d9167f0a01d"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/compat/mana_string.json"
-hash = "f88db4cbbc937a4ee8ff3c2e0dc04c20c21bca8fe817dabcdb7596b8a26d9920"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/dragon_sinew.json"
-hash = "89b356792614bb7da554093ff52cf0a6450a925af0d7fc8f0ba57bfd3b0813da"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/phantom_membrane.json"
-hash = "76b3da8cb632b4b1bc34d257e768347f400f6a9998aa7621ea54878eb5aba2fb"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/string.json"
-hash = "a8a49675a40989e24e99dc92a9e4831eab9193810e6c6309473dfc531c885bfa"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/twisting_vine.json"
-hash = "09cfb55c69735cc142ea067fd7ce9fc7a3a3c897aaf10a47604d2e5dc3d8db89"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/vine.json"
-hash = "09b629e3440c1aa29357fb4c640a7e36774ef5ed1eee46ed20b499a64410a451"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/fibre/weeping_vine.json"
-hash = "8d579ec5da24b905e68984ea799ce03af75c0a27a2cc617b4fb9c6b022a5aa5c"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/amethyst.json"
-hash = "a177c76a81cb24846e32fb87bfd70a1b0845c4c5ea5798ae375219768544bd85"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/agate.json"
-hash = "6738e59c9815502e1fb3e238cb38af01621a88b4f34222d3ec28feed760619fc"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/certus_quartz.json"
-hash = "7c0ccd3dbc5bfece3203306ab3a94537c7bd8d0722ec8e2f3e0d35de6fae5d09"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/citrine.json"
-hash = "ce6cc775aca6843e66e60a2f1c7d70b96521f15177d5e138415a23d7b6529251"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/ruby.json"
-hash = "8ac61b391b84e916e71ed85bd61d911b2bb22746248806d6926097aebe841367"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/sapphire.json"
-hash = "82e5068651bd184490cabb816da18cd792db4f958a54f0d336f66b4b102afff9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/compat/serendibite.json"
-hash = "56cc9ac2a180175e61e4fd4ab0060d0f3855df47d06c51e332fc3fc245cad360"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/diamond.json"
-hash = "2e1de89ffcec9968dac51b9531734fd9be55457171fc8054bf1f0d8e3da896c7"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/gem/emerald.json"
-hash = "1ce96f815e6799353922b1ebe172ff6e665bc98adffab914a4432cfe79b0bd80"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/bronze.json"
-hash = "f378daea140fe4f74eeb12708241435bfb366e17867e351e48a3d644b3bcd3d3"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/cast_iron.json"
-hash = "5e20e4d2b4edb2992139df40d026da525a71a16f4fd102fbb12a91db4d9ec741"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/electrum.json"
-hash = "d0573e6e090f2773df292253a96f545176fd9303c2c05ecb1371e866420eb29a"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/lead.json"
-hash = "276eb452cd532f77f5fd6b7ba4daaae650dcb87090d83ae8d5041ec414006cf4"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/nickel.json"
-hash = "2087bf14f9597c0e69c70619cf6d8eab5feb81daf99f063fb441895a414f56b7"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/silver.json"
-hash = "bbd0787e93c6f9c596a44c54903edf5cd5ce6bf74c966393eb011f9a14936fa7"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/steel.json"
-hash = "4058a7cfcf7cd8ba3c0d344dc17aa99932a23e8c39dead23fc0d01951e66ecd4"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/compat/tin.json"
-hash = "f62f8748bf146306336fbd80e11f12c055da094214586778cc7baf98a25108b1"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/copper.json"
-hash = "7ad256cc1a38bb3fbe30d632ef843936967dad7740b5a8b5fcac9342f8eab4dd"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/gold.json"
-hash = "1d00586f1942e07d0aab2e7bdaa277b55ab4590478d6da19d8fc8d86ad7cb951"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/iron.json"
-hash = "cc6a887bbf8773efa11fe3bf8629dd014e99505beb7d2ab5d0293c81d83e8fdb"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/metal/netherite.json"
-hash = "1bba0dacdab3033cf3d7226b6c0c6320ff4cce3f143779c77f101fffbc81389c"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/misc/vent_plate.json"
-hash = "549db628a1e8737e9646e58638cfd0876fbcf10998de6f7418867a8478ff07f6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/bamboo.json"
-hash = "9e9c14561a195fce5d6b904aae6e1a15f20a1e2595d4351520d096d4b1dbd6b5"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/blaze_rod.json"
-hash = "119859cc6e6bc28bab0d3933415aea0e8bf8a4efc0cc3d4d4f643f5e27410609"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/end_rod.json"
-hash = "76c05b9cd303b00a31d6cc24415f28ed132eddd0a253b250ac14d9839082337c"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/forged_beam.json"
-hash = "38b3f837706170225f58172c41d36465f97954de88e65113dce1901ab6515a49"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/rod/stick.json"
-hash = "a763d4e656afce8895ecbdcf6c1bc0e3f6808384b247cc34899df673e94ba4e2"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/scale/shulker_shell.json"
-hash = "aa40d02077eded0627b78926f8954b805a13b3625da6bf48c480951f75a04457"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/scale/turtle_scute.json"
-hash = "9dc7d8602758af6c63dd5482787fc129a9e07b5ba5b917147234399821c05368"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/skin/hide.json"
-hash = "f2cbb8c089faf0811b21210bd72d39db0375248eac46c423342b102fb7007287"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/skin/leather.json"
-hash = "f89fa830d56162f4b27e726933c58dba3750fe168b6084344b2cbc7a7d92f2e9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/amethyst.json"
-hash = "cf9b716b64e92b65e1c917b01319c3adb76675995117c8af6cde184bba8103f2"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/diamond.json"
-hash = "3364f4053b564306351013e881f13acf2664bc3fd29da95cddf2ec29c6acf126"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/emerald.json"
-hash = "5c750cc072c3c828e7c141c4bc27990519cc9a9295bc8f5b8144b5f46222c440"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/ender_pearl.json"
-hash = "ec564f682ee8d184d683b2a4fb2e6beb72f4e54a8f8599a7eca298e2cbbf466f"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/lapis.json"
-hash = "1a983d16ee0a398473edb05a1df0d3b84bc73d9f6eb16cd2f7bca01efb922508"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/nether_star.json"
-hash = "dc5a4dca154494df91b39125dd87d3363664380f02a337a684b5d831463b1601"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_diamond.json"
-hash = "adec70a831d10b23605eacd45153f75f736b367b95a5ce47c31a4b10adc742d2"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_emerald.json"
-hash = "1506cd385d4ee6d76f202d25b5a422ad631d5948d03e276dd8753aa5aea67e26"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/socket/pristine_lapis.json"
-hash = "090eedba4aedf7a327490878003edb6db5fceb033ae324a15d089b2a13883fa6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/andesite.json"
-hash = "de9691ac23bc20e0278a083b2eaa3d0eb9e875be59630075521cd89a96406fe3"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/blackstone.json"
-hash = "3e5ca19ce545ef3ca99e8d6343da0c036e340ee5e0c1615564ee452e945c7a4b"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/diorite.json"
-hash = "0903ffe0dd9563929e7cbc5a07795b37bc3d7cd411c08a4635c0214de22269e6"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/flint.json"
-hash = "b735010a48e2fc14463db0e2caecf7d414800da3b074e05ea553a4db1f87e2af"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/granite.json"
-hash = "dc43e363e4f93955dd74a3dc0934b7619b7edbe5f8fd625c05b81520184a21f2"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/obsidian.json"
-hash = "f740b04f56820cdfcdd700bd5df34dd40bcb002f4416198f5c5024a6102841e5"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/stone/stone.json"
-hash = "0185be700ee4691f91e9c56c8423c629e134d15c349aeea8cfea959e7043016b"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/acacia.json"
-hash = "51eaac2a15afb94cd5721ea89f01f4b78b19b31cbbd253eb48c1e0988a915b85"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/birch.json"
-hash = "2331cff5146e31ccdd93d8b313489e068c6e7af1e8f70c542515a46a2764ac0e"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/ancient_wood.json"
-hash = "28fbe145bc2cdfab485897cfda5e174654563e56f2438a7f61c7ed16540383f5"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/baobab.json"
-hash = "731b78f10b0bb912ccec3f7891f826e98fa81e5d54bdd09100cb2f9f90f3f39b"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/cherry.json"
-hash = "fdbb29a5d827ac88c73eece39f909012fd9986bc267a8e22b5acacf01e750feb"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/dreamwood.json"
-hash = "c2977d10af61be1aad49897f2c04a435b8f5c65cd67567a397a267b35367298d"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/livingwood.json"
-hash = "9f57e359e9ac3b29057a7b7abe4beb5ecaaf6cef459cbe0dc596c31f1b37d2b0"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/maple.json"
-hash = "b6e1c4638e692188f9332e0a4b2af9e384e53ce223d960abafc466c65bdadc64"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/compat/treated_wood.json"
-hash = "1eea6b7b8c3272274fc25af43e3536c672f7501946c4d6c074c28c44c1f9eb3d"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/crimson.json"
-hash = "d3f49ed318c7e6820079f64b6412f91120a3c1e54fc8215b62e28ce06adc8f3e"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/dark_oak.json"
-hash = "431f9e16fd981dac2313c6bc1825aaa159a1c061366ac12475fbe19173ebe842"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/jungle.json"
-hash = "0a4ae03e10eda7585b2c40b9e1446163ae09aec6ff79172d7cc4dbf0fd35baab"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/oak.json"
-hash = "252db6d558844ded26355a00c5efeacaca754cd4203fb3f7298bc925da405122"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/spruce.json"
-hash = "fe7012f73ed552ccf8dc01f866f83935542c3a825ad16adde804c4a3a636716b"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/materials/wood/warped.json"
-hash = "4b4d56e71b8263fb27a9b96732048b953a0a6a98fd6e798757793c55ff1bd191"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/bow/recurve_stave.json"
-hash = "fd10e0beb8f4148eeb31c48c4f62f1d1cffbe5991c513a52598da382c60e1c3c"
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/adze.json"
+hash = "93277a75ddb39fc516eb91670dfcda2df26320227c582465df2347a11bcc9c03"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_axe.json"
 hash = "1bb949887a1201648b26c74facbdf388d22e1ab6d49d75e977f540b848dc3ed4"
 
 [[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_hammer.json"
+hash = "21e95eec79874710c30dfb07609db1a21d64703f69bd52cb26edff889e46eafe"
+
+[[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_handle.json"
-hash = "1f28dd756b0f05b7f743216cd480d98c75c316cccc80238b00d7357058b258bb"
+hash = "fbcd056630425e78ccf1ee9f86ddd98f6d372dabd8c669b6b1313420b5729c19"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/basic_pickaxe.json"
+hash = "10ad267b69aaa42c1c078c62416542eed122bb26a1a77f2f680366646040ae80"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/butt.json"
+hash = "a9b289b8c2d803cedc36d73fff356354ea15c019540373054465f10cf196cf1f"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/claw.json"
+hash = "d5e6c6ed64cf7e76d36025d4276ebb2635fe9219d2a5651ef658de3f373d43e5"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/hoe.json"
-hash = "36445d35fd53fb46b789f8fdffa708aa197ca20a3f7b72f5a9e201f556acd423"
+hash = "f83d4d23bf8c2393105c040ebf6a66224212fdd872c45d3b7c8e711386f4b85f"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/long_handle.json"
 hash = "b4ee138679802aa65014dbaa1526eed860d2c2d7b44c03bef1ba09b3abcef092"
 
 [[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/basic_handle.json"
-hash = "95cda1b0ed2484de4b9d87fbc5eb9464fca2f50e8e70b99c99f041e9923a003d"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/cane_head.json"
-hash = "ebc40e9a3dc446b80d2b4b216b8fdd67461b56a4788a296e139d43fd73c17e64"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/halberd_head.json"
-hash = "008e8cce7b54f7f04038f129b599f320cc1a4b61fa7b5232824edc2cfc41f7b4"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/light_handle.json"
-hash = "412e3ebcb08d6c8604f46e7900d6cdcc26507392169811b60cb61573581cc386"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/long_handle.json"
-hash = "252ed6dbb54a8a24f3e90ac8656decd344857f69af826c02e0ae6b80556e1235"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/mace_head.json"
-hash = "2cabbdb33ff7fe3be95a5538076f78eadfdff6b7ed05142b9ad8b6c18b956fc9"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/quarter_staff_head.json"
-hash = "d6c46f9e399d676687d8b6edd2b90922a564d72f2c074b1b54118930155c827a"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/spearhead.json"
-hash = "fda57321732d4617d545e88df1ff07fa850805816588b9b4aeb3cdfc202aaa14"
-
-[[files]]
-file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/single/trident.json"
-hash = "cb8157c55f352fe7d5068881bff56ecc69a01be5b28086a5b9c749a9db0be15a"
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/double/sickle.json"
+hash = "29e4e38e0f992a1caec0058dd0b37135c11a1a2a41e81f160190d2b33f71f7b0"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/basic_blade.json"
-hash = "a047bae89d0a139421d65037de9127245b9326aec8ea5796ebfe9f8f347bd8a1"
+hash = "105cc1ce5faf7754befa600bb8b4d5accab9446a7f17e1b66d94968497d52557"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/basic_hilt.json"
-hash = "4fd15a6fe765ecdf6ecf9ee1877612a910f6e7fe3f7941e98873a74fbfebbd2b"
+hash = "715a4e5c01b27f02551d077bd7d2ac84123f2ac316011ca7ee7f43e2714370fc"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/bastard_blade.json"
-hash = "8e5287262c459ba9c8fd0eb5202bc29d8f5e12a3ae545abbd94af850a8152391"
+hash = "0097e6fe157b4ed615107883c91e02a32ed32130456e494f9569a22601715c05"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/executioner_blade.json"
-hash = "ee5e16eba67ec30135e1b48ebf8eae52cbd788a042c5399740f0c8a17e065944"
+hash = "b0b698e4fc36ef4e324edd4cfa698cf9499aee542c65f41d5e2008cabe79c1e7"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/flamberge_blade.json"
+hash = "19a76ffa24a54e56076c14b583ef292754b979315b073f377e9d91daddc44b61"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/heavy_blade.json"
-hash = "59fbdc76824d9121ae3dfb397f65af936c7a3d0e311e76c3d5c2302420da5162"
+hash = "8ea8383f07862d10f4852d30b6999ea03b0b00a0616fd515038fe0a48af2d68b"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/katana_blade.json"
-hash = "f831f67b325fa0cb9987558be0f7213d1e57d31fc43e215e3d3023779b418a09"
+hash = "80880c9ea6eb214441c60bafc84b91edbe52ec9442e2f63bc5a75bfc11c94f6c"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/machete.json"
-hash = "451fff5af22cd2e5956ecb87ce3cf8be1f8a8fa0137ad375a8e7af1a846715e7"
+hash = "25c8d0af24da1a1eb0ece362cd058d4899cd306ec19c4372e992b6072126df25"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/rapier_blade.json"
-hash = "79cd41c657d759e48da59bef465effdabcfedd8209df0a048d7c89bcfa585d6a"
+hash = "cac6faf2c9fe19711996822a02d6e4da379f25797b46e749d94b6f13a8029f8b"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/reinforced_fuller.json"
+hash = "503bbc1fdfd568fc1be81449023a92afcff09c06356e0443e681dd4cc34dc68b"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/saber_blade.json"
-hash = "27dd9265b3a622b5bb599b0a0d5c60be8e98d354e7501d96f1f97ca97bbae06e"
+hash = "a90923ef7c47c0c4c2a78f6213efc90f960b8223df3d4070b4233f98aaff6b78"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/short_blade.json"
-hash = "f07eef929cafd610c5e8809369300c1726bfa5b71a60b732b3babbd1903c42fd"
+hash = "9a29e9d7b17f42731f4ebc356a02b00c070c1c53f2d5ea3d0c3801c7fb412f8d"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/sturdy_guard.json"
-hash = "ffd1565676963365f35eb53f5a8ad9ab0ced4610e6566be95391c3108f17cca0"
+hash = "72653695eb91b4517fca6089457f195bf888f617a8b67805908560313e76b540"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/throwing_knife.json"
-hash = "f62e2f55e7ec6f8df2e2dc516a3d19171178189aecb6a5d702500c2a4ab588e6"
+hash = "c2ed7cce9464a1edab6ed112132461ba8358af045bbfbcded5f967748162e5c9"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/modules/sword/wide_guard.json"
-hash = "c51736f19995fed7566dbd88fbbf07edc1f0d42c32395f4e111e8aab760a07fd"
+hash = "094ba919d7e9f6308de0a5a15c5fc89b3b61319eca32c031feb40b6c300b600a"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetra/schematics/double/long_handle.json"
@@ -721,16 +297,64 @@ file = "config/paxi/datapacks/combat_test_pack/data/tetra/schematics/single/head
 hash = "2f9fdbcd758fc3abb632dfc76def3df795bf56a7b4b1cfb730f89a6f6b1ecad0"
 
 [[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/damage_bonus.json"
+hash = "eaf640044e6e1b7bf4c4029b3f1df8e7367f2b36599f7473978968c437b922e3"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/names.json"
+hash = "61a8932c3a26e351588ce3f378a2a7d389c07f4f7a01eac0fbaa7d0b96cce5c9"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/nether_star_perk_socket.json"
+hash = "749df67e7085d31c75ec1a99d31a047bf0085e2b72fcba14482a523eb4764a12"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/nether_star_socket.json"
+hash = "21e15f756a03f43e05344b2252e0030b7b116b69f30a589cbb2eec7e047eda16"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/tier_bonus.json"
+hash = "293d6de54aa4d19ecf2511e2df4f2578cd1afe61471a910c45507ddca9fd7570"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/axe.json"
+hash = "63ff6237e06b5d93ee88e0272b108dc19591fd705cbb35543865d645aa1a4bd8"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/butt.json"
+hash = "db2ae400e0b40c1cb4eebf58e749c7ed01f22a4e7afefbdb642655d9e1fce42e"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/claw.json"
+hash = "350b7ca672da1388f2139e7351c2e6951b0360c9e7e42e78e63a7ee1715c2770"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/extractor.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/hammer.json"
+hash = "71b11ba7d93860781d97a2578cd809145b4f23818871321ccc24a8ca4ceabfbf"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/pickaxe.json"
+hash = "96436393c753ca6b7da43907ce769de7eab91b368670ef79dfe8ddb3ed128da1"
+
+[[files]]
+file = "config/paxi/datapacks/combat_test_pack/data/tetra/synergies/double/warforged/sickle.json"
+hash = "17bf729049ec2980e2a68e4b5966396c24ae35342bc6b1e189c3515dc737b35c"
+
+[[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetratic/configs/aof.json"
-hash = "3144b4edcbd02f66f362799da9a41c8b27370f204de063be2620dde4abde8fc2"
+hash = "d02bd7852b8e739c28f8c75a8c96b2bb00ba83ef85fe3550ab1b0c8040f03eec"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/data/tetratic/configs/tetra.json"
-hash = "7948fbbc6008bf7acfd09fdc449173996910e083a50953a1abd8cf85bd955432"
+hash = "bdc89699f26e7ebf0c04549d4eaeae20ace48a9e3e43d09edddb6b04afffe497"
 
 [[files]]
 file = "config/paxi/datapacks/combat_test_pack/pack.mcmeta"
-hash = "bb919a01d727153e2ee763a05da1b3a9cec656a0ba8ba157acc9671b6d8dc2de"
+hash = "a485bdfde42c15ee8644cab8a0a17fe2c71071f563539c2f7b399c733325a35e"
 
 [[files]]
 file = "config/paxi/datapacks/ctov-chefs-delight-add-on-v1-0.zip"
@@ -1402,12 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "77a7159b0c9e2b27440f43f31ad6bfb95810cc310f46e01ac71ba11435fb56b3"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "570cc2b8b401b183104afa5b9cdc7c0dd4bc3f01edab13e85861ff2e319aa854"
+hash = "7095855d750aa571c598fc5adb0fb8ce7c12dfab0b0e61fdcd6e15f0645c9bdc"
 metafile = true
 
 [[files]]
