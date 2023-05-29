@@ -13,13 +13,11 @@
 			"materials": [ "tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:gem/", "tetra:bone/" ],
 			"key": "rapier_blade/",
 			"attributes": {
-				"generic.attack_speed": -1.3,
-				"generic.attack_damage": 0.15,
-				"forge:reach_distance": -0.5
+				"generic.attack_speed": -1.2
 			},
 			"effects": {
 				"armorPenetration": 2.5,
-				"skewering": [ 1, 2 ]
+				"skewering": [ 1, 3 ]
 			},
 			"aspects": {
 				"edgedWeapon": 2,
@@ -31,18 +29,18 @@
 					"generic.attack_damage": 0.7
 				},
 				"secondaryAttributes": {
-					"generic.attack_speed": -0.1
+					"generic.attack_speed": -0.05
 				},
 				"primaryEffects": {
-					"skewering": 0.4
-				},
-				
-				"tertiaryEffects": {
+					"skewering": 0.6,
 					"armorPenetration": 2
+				},
+				"tertiaryEffects": {
+					"armorPenetration": 1.5
 				},
 				"durability": 0.8,
 				"integrity": -1,
-				"magicCapacity": 1.5,
+				"magicCapacity": 1,
 				"glyph": {
 					"textureLocation": "tetra:textures/gui/aof_glyph.png",
 					"textureX": 48

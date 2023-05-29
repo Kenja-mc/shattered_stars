@@ -3,7 +3,7 @@
 	"slots": [ "sword/blade" ],
 	"type": "tetra:basic_major_module",
 	"improvements": [
-		"tetra:sword/bastard_blade/",
+		"tetra:sword/flamberge_blade/",
 		"tetra:sword/shared_blade/",
 		"tetra:sword/shared/",
 		"tetra:shared/"
@@ -11,16 +11,20 @@
 	"variants": [
 		{
 			"materials": [ "tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:gem/", "tetra:bone/" ],
-			"key": "bastard_blade/",
+			"key": "flamberge_blade/",
 			"attributes": {
-				"generic.attack_speed": -1.5,
-				"forge:reach_distance": 0.25
+				"generic.attack_speed": -1.7,
+				"generic.attack_damage": 0.75,
+				"forge:reach_distance": -0.5
 			},
 			"effects": {
-				"sweeping": [1,0.5]
+				"armorPenetration": 6,
+				"sweeping": [ 2, 5 ],
+				"puncture": [ 3, 8 ],
+				"bleeding": [ 1, 1 ]
 			},
 			"tools": {
-				"cut": [ 1, 2 ]
+				"cut": [ 1, 0.5 ]
 			},
 			"aspects": {
 				"edgedWeapon": 2,
@@ -31,22 +35,27 @@
 				"primaryAttributes": {
 					"generic.attack_damage": 1
 				},
-				"secondaryAttributes": {
-					"generic.attack_speed": -0.15
-				},
 				"primaryEffects": {
-                    "sweeping": 0.5
-                },
+					"armorPenetration": 2
+				},
+				"secondaryEffects": {
+					"puncture": 2
+				},
+				"tertiaryEffects": {
+					"sweeping": 1,
+					"armorPenetration": -1,
+					"puncture": -0.3
+				},
 				"durability": 0.9,
 				"integrity": -1,
 				"magicCapacity": 1,
 				"glyph": {
 					"textureLocation": "tetra:textures/gui/aof_glyph.png",
-					"textureX": 176
+					"textureX": 16
 				},
 				"availableTextures": [ "metal", "shiny", "grainy", "crude" ],
 				"models": [{
-					"location": "tetra:items/module/sword/blade/bastard_blade/"
+					"location": "tetra:items/module/sword/blade/flamberge_blade/"
 				}]
 			}
 		}

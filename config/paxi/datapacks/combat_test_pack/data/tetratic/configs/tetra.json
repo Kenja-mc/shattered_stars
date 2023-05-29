@@ -12,6 +12,7 @@
           }
         }
       },
+      
       "double/basic_axe_left": {
         "type": "improvement",
         "key": "double/head_left",
@@ -22,7 +23,6 @@
           }
         }
       },
-      
       "double/basic_pickaxe_left": {
         "type": "improvement",
         "key": "double/head_left",
@@ -104,7 +104,7 @@
                 "scaleY": 2.0,
                 "scaleZ": 1.5,
                 "attributes": {
-                  "parent": "bettercombat:spear"
+                  "parent": "bettercombat:trident"
                 }
               }
             }
@@ -112,13 +112,6 @@
           "config": {
             "attributes": {
               "parent": "bettercombat:trident"
-            }
-          }
-        },
-      "single/basic_shovel": {
-          "config": {
-            "attributes": {
-              "parent": "bettercombat:staff"
             }
           }
         }

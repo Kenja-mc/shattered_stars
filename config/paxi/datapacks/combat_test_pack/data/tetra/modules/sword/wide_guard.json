@@ -15,30 +15,23 @@
                 "tetra:misc/vent_plate"
             ],
             "key": "wide_guard/",
-            
             "integrity": -1,
             "attributes": {
+                "generic.armor": 1,
                 "generic.attack_speed": -0.1
             },
-            "effects": {
-                "blocking": [
-                    1,
-                    2.5
-                ]
-            },
             "extract": {
-                "primaryEffects": {
-                    "blocking": 0.2
+                "primaryAttributes": {
+                    "generic.armor": 0.5
                 },
-                "secondaryEffects": {
-                    "blocking": [
-                        0,
-                        0.1
-                    ]
+                "tertiaryAttributes": {
+                    "generic.armor": 0.2
                 },
-                "durability": 0.2,
+                "secondaryAttributes": {
+                    "generic.attack_speed": -0.05
+                },
+                "durability": 0.3,
                 "integrity": -0.2,
-                
                 "glyph": {
                     "textureX": 40,
                     "textureY": 16

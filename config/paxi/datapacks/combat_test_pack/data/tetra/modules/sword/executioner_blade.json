@@ -13,19 +13,13 @@
 			"materials": [ "tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:gem/", "tetra:bone/" ],
 			"key": "executioner_blade/",
 			"attributes": {
-				"generic.attack_speed": -1.9,
-				"forge:reach_distance": -0.25
+				"generic.attack_speed": -1.7,
+				"forge:reach_distance": 0.5
 			},
+			
 			"effects": {
-				"sweeping": 2,
-				"severing": [
-					15,
-					2
-				],
-				"execute": [
-					10,
-					5
-				]
+				"execute": 40
+
 			},
 			"tools": {
 				"cut": [ 1, 2 ]
@@ -40,10 +34,8 @@
 					"generic.attack_damage": 1.4
 				},
 				"secondaryAttributes": {
+                    "generic.attack_damage": 0.2,
                     "generic.attack_speed": -0.2
-                },
-                "primaryEffects": {
-                    "sweeping": 0.3
                 },
 				"durability": 0.9,
 				"integrity": -1,

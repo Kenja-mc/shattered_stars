@@ -10,7 +10,7 @@
         "_right"
     ],
     "improvements": [
-        "tetra:double/hoe/",
+        "tetra:double/adze/",
         "tetra:double/shared_head/",
         "tetra:double/shared/",
         "tetra:shared/"
@@ -23,10 +23,10 @@
                 "tetra:wood/",
                 "tetra:gem/"
             ],
-            "key": "hoe/",
+            "key": "adze/",
             "attributes": {
-                "generic.attack_damage": -3,
-                "generic.attack_speed": -1.2
+                "generic.attack_damage": -2,
+                "generic.attack_speed": -1.4
             },
             "aspects": {
                 "blockBreaker": 2,
@@ -38,21 +38,19 @@
                     "generic.attack_damage": 1
                 },
                 "tools": {
-                    "shovel_dig": [
+                    "axe_dig": [
                         0.6,
                         0.6
                     ],
-                    "hoe_dig": [
-                        1,
-                        1
-                    ],
-                    "till": 1
+                    "shovel_dig": [
+                        0.6,
+                        0.6
+                    ]
                 },
                 "durability": 0.5,
                 "integrity": -1,
                 "magicCapacity": 1,
                 "glyph": {
-                    "textureX": 16,
                     "textureY": 32
                 },
                 "availableTextures": [
@@ -62,7 +60,7 @@
                 ],
                 "models": [
                     {
-                        "location": "tetra:items/module/double/head/hoe/"
+                        "location": "tetra:items/module/double/head/adze/"
                     }
                 ]
             }

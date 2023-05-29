@@ -19,8 +19,9 @@
             ],
             "key": "throwing_knife/",
             "attributes": {
-                "generic.attack_speed": -1.3,
-                "generic.attack_damage": -1
+                "generic.attack_speed": -1.2,
+                "generic.attack_damage": -1,
+				"forge:reach_distance": -0.75
             },
             "aspects": {
                 "edgedWeapon": 2,
@@ -45,6 +46,9 @@
                 "primaryAttributes": {
                     "generic.attack_damage": 1
                 },
+                "secondaryAttributes": {
+					"generic.attack_speed": -0.05
+				},
                 "secondaryEffects": {
                     "throwable": [
                         0,

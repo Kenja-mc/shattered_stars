@@ -10,7 +10,7 @@
         "_right"
     ],
     "improvements": [
-        "tetra:double/hoe/",
+        "tetra:double/pickaxe/",
         "tetra:double/shared_head/",
         "tetra:double/shared/",
         "tetra:shared/"
@@ -23,14 +23,17 @@
                 "tetra:wood/",
                 "tetra:gem/"
             ],
-            "key": "hoe/",
+            "key": "basic_pickaxe/",
             "attributes": {
-                "generic.attack_damage": -3,
+                "generic.attack_damage": -2,
                 "generic.attack_speed": -1.2
             },
             "aspects": {
                 "blockBreaker": 2,
                 "breakable": 2
+            },
+            "tools": {
+                "pickaxe_dig": -1
             },
             "durability": -10,
             "extract": {
@@ -38,22 +41,16 @@
                     "generic.attack_damage": 1
                 },
                 "tools": {
-                    "shovel_dig": [
-                        0.6,
-                        0.6
-                    ],
-                    "hoe_dig": [
+                    "pickaxe_dig": [
                         1,
-                        1
-                    ],
-                    "till": 1
+                        0.91
+                    ]
                 },
                 "durability": 0.5,
                 "integrity": -1,
                 "magicCapacity": 1,
                 "glyph": {
-                    "textureX": 16,
-                    "textureY": 32
+                    "textureX": 176
                 },
                 "availableTextures": [
                     "crude",
@@ -62,7 +59,7 @@
                 ],
                 "models": [
                     {
-                        "location": "tetra:items/module/double/head/hoe/"
+                        "location": "tetra:items/module/double/head/basic_pickaxe/"
                     }
                 ]
             }

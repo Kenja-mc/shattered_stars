@@ -2,15 +2,13 @@
     "replace": true,
     "type": "tetra:multi_major_module",
     "slots": [
-        "double/head_left",
         "double/head_right"
     ],
     "slotSuffixes": [
-        "_left",
         "_right"
     ],
     "improvements": [
-        "tetra:double/hoe/",
+        "tetra:double/butt/",
         "tetra:double/shared_head/",
         "tetra:double/shared/",
         "tetra:shared/"
@@ -23,37 +21,21 @@
                 "tetra:wood/",
                 "tetra:gem/"
             ],
-            "key": "hoe/",
+            "key": "butt/",
             "attributes": {
-                "generic.attack_damage": -3,
-                "generic.attack_speed": -1.2
+                "generic.attack_speed": -1
             },
             "aspects": {
-                "blockBreaker": 2,
+                "blockBreaker": 1,
                 "breakable": 2
             },
             "durability": -10,
             "extract": {
-                "primaryAttributes": {
-                    "generic.attack_damage": 1
-                },
-                "tools": {
-                    "shovel_dig": [
-                        0.6,
-                        0.6
-                    ],
-                    "hoe_dig": [
-                        1,
-                        1
-                    ],
-                    "till": 1
-                },
                 "durability": 0.5,
-                "integrity": -1,
+                "integrity": -0.5,
                 "magicCapacity": 1,
                 "glyph": {
-                    "textureX": 16,
-                    "textureY": 32
+                    "textureX": 160
                 },
                 "availableTextures": [
                     "crude",
@@ -62,7 +44,7 @@
                 ],
                 "models": [
                     {
-                        "location": "tetra:items/module/double/head/hoe/"
+                        "location": "tetra:items/module/double/head/butt/"
                     }
                 ]
             }

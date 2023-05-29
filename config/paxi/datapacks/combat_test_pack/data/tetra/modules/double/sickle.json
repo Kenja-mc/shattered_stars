@@ -10,7 +10,7 @@
         "_right"
     ],
     "improvements": [
-        "tetra:double/hoe/",
+        "tetra:double/sickle/",
         "tetra:double/shared_head/",
         "tetra:double/shared/",
         "tetra:shared/"
@@ -23,14 +23,20 @@
                 "tetra:wood/",
                 "tetra:gem/"
             ],
-            "key": "hoe/",
+            "key": "sickle/",
             "attributes": {
-                "generic.attack_damage": -3,
+                "generic.attack_damage": -2,
                 "generic.attack_speed": -1.2
             },
             "aspects": {
                 "blockBreaker": 2,
+                "edgedWeapon": 1,
                 "breakable": 2
+            },
+            "effects": {
+                "strikingHoe": 1,
+                "sweepingStrike": 1,
+                "sweeping": 1
             },
             "durability": -10,
             "extract": {
@@ -38,21 +44,16 @@
                     "generic.attack_damage": 1
                 },
                 "tools": {
-                    "shovel_dig": [
-                        0.6,
-                        0.6
-                    ],
                     "hoe_dig": [
-                        1,
-                        1
-                    ],
-                    "till": 1
+                        0.74,
+                        0.8333
+                    ]
                 },
                 "durability": 0.5,
                 "integrity": -1,
                 "magicCapacity": 1,
                 "glyph": {
-                    "textureX": 16,
+                    "textureX": 32,
                     "textureY": 32
                 },
                 "availableTextures": [
@@ -62,7 +63,7 @@
                 ],
                 "models": [
                     {
-                        "location": "tetra:items/module/double/head/hoe/"
+                        "location": "tetra:items/module/double/head/sickle/"
                     }
                 ]
             }
